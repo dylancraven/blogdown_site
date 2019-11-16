@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Dylan Craven"
 theme = "hugo-lithium"
-googleAnalytics = ""
+googleAnalytics = "UA-152694415-1"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
