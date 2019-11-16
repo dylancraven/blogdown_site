@@ -1,2 +1,2 @@
-# blogdown_site
-repository for academic website
+# Dylan Craven
+GitHub repository for academic website

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dylan Craven</title>
+    <link>/</link>
+    <description>Recent content on Dylan Craven</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Nov 2019 21:48:51 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 16 Nov 2019 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a plant ecologist interested in temporal and spatial patterns of biodiversity change and its implications. I am particularly fascinated by the role of biodiversity in driving the capacity of ecosystems to resist and recover from global change drivers, such as land-use change and biological invasions. I examine these topics using experimental and observational studies and synthesis, focusing on the following questions:
+i) How do biodiversity and biodiversity-dependent ecosystem functions vary across temporal and spatial scales?</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/publications/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Biodiversity patterns across islands at local and biogeographical scales Island ecosystems sustain a large proportion of global plant diversity, yet are critically imperiled due to global change. They are also a natural laboratory that can be used to examine how facets of biodiversity, ecosystem functioning, and biological invasions change from local to biogeographical scales. I am compiling a database of forest plots on islands across the Pacific Ocean to address these questions, in collaboration with Holger Kreft (U.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Google Scholar| Publons
+Batterman, S. A., L. O. Hedin, M. van Breugel, J. Ransijn, D. J. Craven, and J. S. Hall. 2013. “Key Role of Symbiotic Dinitrogen Fixation in Tropical Forest Secondary Succession.” Nature 502 (7470): 224–7. https://doi.org/10.1038/nature12525.
+ Bernhardt-Romermann, Markus, Lander Baeten, Dylan Craven, Pieter De Frenne, Radim Hédl, Jonathan Lenoir, Didier Bert, et al. 2015. “Drivers of Temporal Changes in Temperate Forest Plant Diversity Vary Across Spatial Scales.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Dylan Craven"
+theme = "hugo-lithium"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:title"
+
+#[[menu.main]]
+#    name = "About"
+#    url = "/about/"
+#    weight =6
+[[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight =1
+[[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight =2
+[[menu.main]]
+    name = "GitHub"
+   url = "https://github.com/dylancraven"
+  weight =4
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/DylanJCraven"
+    weight =3
+[params]
+    description = "A website built through Hugo and blogdown."
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    # path to the favicon, under "static"
+    favicon = "trees.png"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
