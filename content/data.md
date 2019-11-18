@@ -6,9 +6,9 @@ have benefitted enormously from the generous of others that share their data wit
 [Open Traits](https://opentraits.org)/) and [Will Pearse](http://pearselab.com/), I have started to slowly clean and standardize my data
  and to make them open. 
 
-1. Panama Secondary Forest Traits: 17 traits measured on 55 woody species and up to 1700 individuals, 17 traits  
+1. __Panama Secondary Forest Traits__: 17 traits measured on 55 woody species and up to 1700 individuals per species  
    Download [here](https://figshare.com/articles/Functional_Leaf_Traits_55_spp_in_central_Panama_/1402253)    
    
-2. Centre-du-Quebec Forest Plots: This is a dataset of 395 100m^2^ plots distributed within and across 42 forest fragments 
+2. __Centre-du-Quebec Forest Plots__: This is a dataset of 395 plots (100 m2) distributed within and across 42 forest fragments in central Quebec, Canada.
    Download [pending]
 
