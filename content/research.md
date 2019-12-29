@@ -8,12 +8,11 @@
 
 ## Drivers of functional diversity of woody plants and consequences for carbon storage
 
-Identifying the drivers of biodiversity and their relationships with ecosystem functioning across large spatial scales is essential for improving the conservation and management of natural ecosystems. Chile is a unique natural laboratory for studying spatial patterns of biodiversity’s multiple facets, given its great diversity in environmental conditions and topography and unique biogeographic history. For a recently funded project (FONDECYT Regular 2020 - 2023),
-we aim to identify the environmental, geographical, and anthropogenic factors that shape spatial patterns
-of taxonomic, phylogenetic, and functional diversity of woody plants across Chile and to quantify the extent
-to which carbon storage is affected by biodiversity. To do so, we will map species distributions and measure key plant functional traits of approximately 700 woody species. This project is in collaboration with Christian Salas (U. Mayor), Holger Kreft (U. of Gottingen), Patrick Weigelt (U. of Gottingen), and Brian Enquist (U. of Arizona).  
+Identifying the drivers of biodiversity and their relationships with ecosystem functioning across large spatial scales is essential for improving the conservation and management of natural ecosystems. Chile is a unique natural laboratory for studying spatial patterns of biodiversity’s multiple facets, given its great diversity in environmental conditions and topography and unique biogeographic history. However, there are persistent shortfalls in biodiversity data (see figure below, which shows coverage of trait data for woody species in Chile ), as there are species distribution, genetic, and functional trait data for less than 20% of known plant species (most of which come from the Northern hemisphere). Bridging the gaps in biodiversity data and knowledge of ecosystems in biodiversity hotspots such as Chile remains a major scientific challenge.
 
-![Islands](/images/TRY_BIEN_opentraitcoverage.png)  
+For a recently funded project (FONDECYT Regular 2020 - 2023), we aim to identify the environmental, geographical, and anthropogenic factors that shape spatial patterns of taxonomic, phylogenetic, and functional diversity of woody plants across Chile and to quantify the extent to which carbon storage is affected by biodiversity. To do so, we will map species distributions and measure key plant functional traits of approximately 700 woody species. This project is in collaboration with Christian Salas (U. Mayor), Holger Kreft (U. of Gottingen), Patrick Weigelt (U. of Gottingen), and Brian Enquist (U. of Arizona).  
+
+![Trait coverage](/images/TRY_BIEN_opentraitcoverage.png)  
 
 
 ## Biodiversity patterns across islands at local and biogeographical scales  

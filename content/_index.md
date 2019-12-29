@@ -13,7 +13,7 @@ __ii)  How do biodiversity and biodiversity-dependent ecosystem functions vary a
 
 __iii) How does biodiversity mediate ecosystem responses to global change drivers?__
 
-For more information about my research, check out [here](/research), or my [Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1) or
+For more information about my research, read more on my [Research page](/research), my [Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1) or
 [Publons](https://publons.com/researcher/313540/dylan-craven/) profiles.
 
 If interested in joining my research team or collaborating with us, please contact me via e-mail: dylan.craven[at]umayor.cl
