@@ -1,8 +1,8 @@
 
-[**Functional Biogeography**](#Drivers-of-functional-diversity-of-woody-plants-and-consequences-for-carbon-storage)  
-[**Island biogeography**](#Biodiversity-patterns-across-islands-at-local-and-biogeographical-scales)  
-[**Diversity - Stability**](#Mechanisms-underlying-ecosystem-stability-and-community-responses-to-global-change)  
-[**Secondary succession in tropical forests**](#Resilience-of-tropical-secondary-forests)  
+[**Functional Biogeography**](#drivers-of-functional-diversity-of-woody-plants-and-consequences-for-carbon-storage)  
+[**Island biogeography**](#biodiversity-patterns-across-islands-at-local-and-biogeographical-scales)  
+[**Diversity - Stability**](#mechanisms-underlying-ecosystem-stability-and-community-responses-to-global-change)  
+[**Secondary succession in tropical forests**](#resilience-of-tropical-secondary-forests)  
 
 
 
