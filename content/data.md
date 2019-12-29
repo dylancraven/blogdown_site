@@ -2,7 +2,7 @@
 ![Islands](/images/ElJiral_paisaje_b_w3.png)  
 
 I collected a moderate amount of new data as part of my graduate research in Panama, but more recently 
-have benefitted enormously from the generosity of others that share their data with me. Inspired by 
+have benefitted enormously from the generosity of others. Inspired by 
 [Open Traits](https://opentraits.org)) and [Will Pearse](http://pearselab.com/), I started to 
 standardize my data and to make them open (via Figshare).   
 
