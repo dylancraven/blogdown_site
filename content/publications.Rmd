@@ -6,5 +6,7 @@ link-citations: TRUE
 nocite: '@*'
 ---
 [Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1)|
-[Publons](https://publons.com/researcher/313540/dylan-craven/)
+[Publons](https://publons.com/researcher/313540/dylan-craven/)  
+
+If you don't have access to a PDF, please send me an e-mail!  
   
