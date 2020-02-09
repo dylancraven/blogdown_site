@@ -1,4 +1,4 @@
-## Data  
+## Open Data  
 ![Islands](/images/ElJiral_paisaje_b_w3.png)  
 
 I collected a moderate amount of new data as part of my graduate research in Panama, but more recently 
