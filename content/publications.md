@@ -45,7 +45,8 @@ Bruelheide, H., Dengler, J., Purschke, O., Lenoir, J., Jiménez-Alfaro, B., Henn
 
 **Craven, D.**, Eisenhauer, N., Pearse, W. D., Hautier, Y., Isbell, F., Roscher, C., … Manning, P. (2018). Multiple facets of biodiversity drive the diversity–stability relationship. Nature Ecology & Evolution, 2(10), 1579–1587. doi:10.1038/s41559-018-0647-7
 
-**Craven, D.**, Hall, J. S., Berlyn, G. P., Ashton, M. S., & Breugel, M. van. (2018). Environmental filtering limits functional diversity during succession in a seasonally wet tropical secondary forest. Journal of Vegetation Science, 29(3), 511–520. doi:10.1111/jvs.12632
+**Craven, D.**, Hall, J. S., Berlyn, G. P., Ashton, M. S., & Breugel, M. van. (2018). Environmental filtering limits functional diversity during succession in a seasonally wet tropical secondary forest. Journal of Vegetation Science, 29(3), 511–520. doi:10.1111/jvs.12632  
+
 **Craven, D.**, Knight, T. M., Barton, K. E., Bialic-Murphy, L., Cordell, S., Giardina, C. P., … Chase, J. M. (2018). OpenNahele: the open Hawaiian forest plot database. Biodiversity Data Journal, 6, e28406. doi:10.3897/BDJ.6.e28406
 
 Ferlian, O., Cesarz, S., **Craven, D.**, Hines, J., Barry, K. E., Bruelheide, H., … Eisenhauer, N. (2018). Mycorrhiza in tree diversity–ecosystem function relationships: conceptual framework and experimental implementation. Ecosphere, 9(5). doi:10.1002/ecs2.2226
