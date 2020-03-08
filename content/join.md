@@ -11,7 +11,7 @@ aprender a usar R (o mejorar su nivel de expertise en R).
 [**PhD**](#estudiantes-de-post-grado)   
 [**Post-docs**](#post-doctorantes)  
 
-![](/images/ELTI_estudiantes.png)  
+![blaa](/images/ELTI_estudiantes.png)  
 _Participantes en un curso de servicios ecosistémicos en paisajes del trópico, Panamá_
 
 ### Estudiantes de pre-grado  
