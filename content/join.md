@@ -7,9 +7,9 @@ cuales dialogaremos abiertamnte. Tengo la expectativa que l@s integrantes del la
 motivados y dispuestos a leer la literatura científica ampliamente, mejorar su escritura y 
 aprender a usar R (o mejorar su nivel de expertise en R).  
 
-[**Pre-grado**](#Estudiantes-de-pre-grado) [**PhD**](#Estudiantes-de-post-grado) [**Post-docs**](#Post-doctorantes)
+[**Pre-grado**](#estudiantes-de-pre-grado) [**PhD**](#estudiantes-de-post-grado) [**Post-docs**](#post-doctorantes)
 
-## Estudiantes de pre-grado  
+### Estudiantes de pre-grado  
 
 Siempre me entusiama que estudiantes de pre-grado tengan interés en hacer su tésis con nosotros. 
 Por lo general, ofrezco temas en dos áreas: i) **ecología funcional** y 
@@ -17,14 +17,14 @@ ii) **macro-ecología**. Recomiendo que se informan de nuestra [investigación](
 luego enviarme un correo al <dylan.craven@umayor.cl> para conversar sobre posibles temas 
 presencialmente.  
 
-## Estudiantes de post-grado (PhD) 
+### Estudiantes de post-grado (PhD) 
 
 Estoy comprometido a trabajar con candidat@s a desarrollar propuestas de becas que financiesen 
 sus estudios doctorales. Para chilenos, recomiendo que apliquen directamente por su beca al 
 programa de [ecologia integrativa](https://www.umayor.cl/postgradomayor/20007?programa=doctorado-en-ecologia-integrativa-(santiago)&medio=20007) de la Universidad Mayor. Favor de enviarme un correo al <dylan.craven@umayor.cl> 
 **con anticipacion** para discutir ideas e identificar fuentes de finaciacion.   
 
-## Post-doctorantes  
+### Post-doctorantes  
 
 Busco a candidatos que tienen interes en desarrollar lineas de investigacion complementarias a
 las del laboratorio, principalmente en **biogeografia funcional** o áreas afines a mi proyecto 
