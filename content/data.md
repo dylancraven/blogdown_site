@@ -3,7 +3,7 @@
 
 I collected a moderate amount of new data as part of my graduate research in Panama, but more recently 
 have benefitted enormously from the generosity of others. Inspired by 
-[Open Traits](https://opentraits.org)) and [Will Pearse](http://pearselab.com/), I started to 
+[Open Traits](https://opentraits.org) and [Will Pearse](http://pearselab.com/), I started to 
 standardize my data and to make them open (via Figshare).   
 
 1. __Panama Secondary Forest Traits__: 17 traits measured on 55 woody species and up to 1700 individuals per trait.  
