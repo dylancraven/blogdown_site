@@ -10,6 +10,8 @@ aprender a usar R (o mejorar su nivel de expertise en R).
 [**Pre-grado**](#estudiantes-de-pre-grado)   
 [**PhD**](#estudiantes-de-post-grado)   
 [**Post-docs**](#post-doctorantes)  
+[**Técnico**](#tecnico-de-investigacion)  
+
 
 ![blaa](/images/ELTI_estudiantes.png)  
 _Participantes en un curso de servicios ecosistémicos en paisajes del trópico, Panamá_
@@ -38,8 +40,13 @@ por [FONDECYT](https://www.anid.cl/concursos/concurso/?id=281) o otro fuente. Re
  comunicarse conmigo por e-mail de antemano (**revisen** el [calendario de concursos de FONDECYT](https://www.conicyt.cl/fondecyt/2019/12/18/conoce-el-calendario-de-concursos-fondecyt-2020/))
  para así asegurar que la propuesta sea de la mejor calidad posible.  
  
- 
+### Técnico de investigación  
 
+Se abrirá próximamente (entre abril y mayo 2020) un puesto de técnico de investigación para apoyar 
+al proyecto de FONDECYT Regular. Se busca a una persona con extensiva experiencia en la 
+identificación y medición de plantas (titulado de carreras de ciencias a fines, e.g. ecología, ing. forestal, geografía), que sea sepa utilizar Excel, Access y R, tenga una licencia vigente 
+de conducir (Clase B) y sea dispuest@ a pasar varias semanas en terreno. El puesto estará basado en 
+Santiago con un sueldo competitivo de tiempo completo y una duración de tres años. 
  
  
 
