@@ -7,7 +7,11 @@ cuales dialogaremos abiertamente. Tengo la expectativa que l@s integrantes del l
 motivados y dispuestos a leer la literatura científica ampliamente, mejorar su escritura y 
 aprender a usar R (o mejorar su nivel de expertise en R).  
 
-[**Pre-grado**](#estudiantes-de-pre-grado) [**PhD**](#estudiantes-de-post-grado) [**Post-docs**](#post-doctorantes)
+[**Pre-grado**](#estudiantes-de-pre-grado)   
+[**PhD**](#estudiantes-de-post-grado)   
+[**Post-docs**](#post-doctorantes)  
+
+![](/images/ELTI_estudiantes.png)  
 
 ### Estudiantes de pre-grado  
 
@@ -32,6 +36,9 @@ de [FONDECYT Regular](/research). Estoy comprometido a trabajar con candidates a
 por [FONDECYT](https://www.anid.cl/concursos/concurso/?id=281) o otro fuente. Recuerden de
  comunicarse conmigo por e-mail de antemano (**revisen** el [calendario de concursos de FONDECYT](https://www.conicyt.cl/fondecyt/2019/12/18/conoce-el-calendario-de-concursos-fondecyt-2020/))
  para así asegurar que la propuesta sea de la mejor calidad posible.  
+ 
+ 
+
  
  
 
