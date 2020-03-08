@@ -45,10 +45,10 @@ por [FONDECYT](https://www.anid.cl/concursos/concurso/?id=281) o otro fuente. Re
 Se abrirá próximamente (entre abril y mayo 2020) un puesto de técnico de investigación para apoyar 
 al proyecto de FONDECYT Regular. Se busca a una persona con extensiva experiencia en la 
 identificación y medición de plantas vasculares (titulado de carreras de ciencias a fines, 
-e.g. ecología, ing. forestal, geografía), que sea sepa utilizar Excel, Access y R, tenga una 
+e.g. ecología, ing. forestal, geografía), que sepa utilizar Excel, Access y R, tenga una 
 licencia vigente de conducir (Clase B) y sea dispuest@ a pasar varias semanas en terreno. 
 El puesto estará basado en Santiago con un sueldo competitivo de tiempo completo y una duración de tres años. 
-Se publicará aquí una descripción completa del puesto próximamente. Favor de comunicarse conmigo 
+Se publicará aquí  una descripción completa del puesto próximamente. Favor de comunicarse conmigo 
 al <dylan.craven@umayor.cl> por si tiene preguntas al respecto.  
 
 
