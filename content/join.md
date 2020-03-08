@@ -3,7 +3,7 @@
 Busco crear un grupo de investigación diverso, inclusivo y sobretodo apasionado por la biodiversidad, 
 que está comprometido a aplicar lo que aprendemos para mejorar el mundo. Estoy comprometido 
 a guiar y apoyar a l@s integrantes del laboratorio a lograr sus metas profesionales, de las 
-cuales dialogaremos abiertamnte. Tengo la expectativa que l@s integrantes del laboratorio estén 
+cuales dialogaremos abiertamente. Tengo la expectativa que l@s integrantes del laboratorio estén 
 motivados y dispuestos a leer la literatura científica ampliamente, mejorar su escritura y 
 aprender a usar R (o mejorar su nivel de expertise en R).  
 
