@@ -2,10 +2,10 @@
 
 Busco crear un grupo de investigación diverso, inclusivo y sobretodo apasionado por la biodiversidad, 
 que está comprometido a aplicar lo que aprendemos para mejorar el mundo. Estoy comprometido 
-a guiar y apoyar a l@s integrantes del laboratorio a lograr sus metas profesionales, de las 
-cuales dialogaremos abiertamente. Tengo la expectativa que l@s integrantes del laboratorio estén 
-motivados y dispuestos a leer la literatura científica ampliamente, mejorar su escritura y 
-aprender a usar R (o mejorar su nivel de expertise en R).  
+a guiar y apoyar a l@s integrantes del grupo a lograr sus metas profesionales, de las 
+cuales dialogaremos abiertamente. Tengo la expectativa que l@s integrantes del grupo estén 
+motivados y dispuestos a leer la literatura científica ampliamente y mejorar su escritura y 
+expertise en estadísticas ecológicas. Trabajamos principalmente con R.  
 
 [**Pre-grado**](#estudiantes-de-pre-grado)   
 [**PhD**](#estudiantes-de-post-grado)   
@@ -42,7 +42,7 @@ por [FONDECYT](https://www.anid.cl/concursos/concurso/?id=281) o otro fuente. Re
  
 ### Técnico de investigación  
 
-Se abrirá próximamente (entre abril y mayo 2020) un puesto de técnico de investigación para apoyar 
+Se abrirá próximamente (aprox. mayo 2020) un puesto de técnico de investigación para apoyar 
 al proyecto de FONDECYT Regular. Se busca a una persona con experiencia en la 
 identificación y medición de rasgos funcionales de plantas vasculares (titulado de carreras de ciencias a fines, 
 e.g. ecología, ing. forestal, geografía). El puesto estará basado en Santiago, con un sueldo
