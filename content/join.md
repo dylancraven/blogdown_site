@@ -42,10 +42,10 @@ comunicarse conmigo por e-mail de antemano (**revisen** el [calendario de concur
  
 ### Técnico de investigación  
 
-Se abrirá próximamente (aprox. mayo 2020) un puesto de técnico de investigación para apoyar 
+Se abrirá próximamente (invierno 2020) un puesto de técnico de investigación para apoyar 
 al proyecto de FONDECYT Regular. Se busca a una persona con experiencia en la 
 identificación de plantas vasculares y medición de rasgos funcionales (titulado de carreras
-de ciencias a fines, e.g. ecología, ing. forestal, geografía). El puesto estará basado en 
+de ciencias naturales a fines, e.g. ecología, ing. forestal, geografía). El puesto estará basado en 
 Santiago, con un sueldo competitivo de tiempo completo y una duración de tres años. 
 Se publicará aquí una descripción completa del puesto próximamente. Favor de comunicarse conmigo 
 al <dylan.craven@umayor.cl> por si tiene preguntas al respecto.  
