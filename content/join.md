@@ -2,10 +2,8 @@
 
 Busco crear un grupo de investigación diverso, inclusivo y sobretodo apasionado por la biodiversidad, 
 que está comprometido a aplicar lo que aprendemos para mejorar el mundo. Estoy comprometido 
-a guiar y apoyar a l@s integrantes del grupo a lograr sus metas profesionales, de las 
-cuales dialogaremos abiertamente. Tengo la expectativa que l@s integrantes del grupo estén 
-motivados y dispuestos a leer la literatura científica ampliamente y mejorar su escritura y 
-expertise en estadísticas ecológicas. Trabajamos principalmente con R.  
+a guiar y apoyar a l@s integrantes del grupo a lograr sus metas profesionales. Tengo la expectativa que l@s integrantes del grupo estén motivados y dispuestos a leer la literatura científica ampliamente y mejorar su escritura y 
+expertise en estadística ecológica. Trabajamos principalmente con R.  
 
 [**Pre-grado**](#estudiantes-de-pre-grado)   
 [**PhD**](#estudiantes-de-post-grado)   
