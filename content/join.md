@@ -8,8 +8,6 @@ expertise en estadística ecológica. Trabajamos principalmente con R.
 [**Pre-grado**](#estudiantes-de-pre-grado)   
 [**PhD**](#estudiantes-de-post-grado)   
 [**Post-docs**](#post-doctorantes)  
-[**Técnico**](#técnico-de-investigación)  
-
 
 ![blaa](/images/ELTI_estudiantes.png)  
 _Participantes en un curso de servicios ecosistémicos en paisajes del trópico, Panamá_
@@ -32,21 +30,5 @@ nuevo programa de [ecologia integrativa](https://www.umayor.cl/postgradomayor/20
 ### Post-doctorantes  
 
 Busco a candidatos que tienen interes en desarrollar lineas de investigacion complementarias a
-las del laboratorio, principalmente en **biogeografia funcional** o áreas afines a mi proyecto 
-de [FONDECYT Regular](/research). Estoy comprometido a trabajar con candidates a desarrollar propuestas, que sea
-por [FONDECYT](https://www.anid.cl/concursos/concurso/?id=281) o otro fuente. Recuerden a 
-comunicarse conmigo por e-mail de antemano (**revisen** el [calendario de concursos de FONDECYT](https://www.conicyt.cl/fondecyt/2019/12/18/conoce-el-calendario-de-concursos-fondecyt-2020/))
- para asegurar que la propuesta sea de la mejor calidad posible.  
- 
-### Técnico de investigación  
-
-Se abrirá próximamente (invierno 2020) un puesto de técnico de investigación para apoyar 
-al proyecto de FONDECYT Regular. Se busca a una persona con experiencia en la 
-identificación de plantas vasculares y medición de rasgos funcionales (titulado de carreras
-de ciencias naturales a fines, e.g. ecología, ing. forestal, geografía). El puesto estará basado en 
-Santiago, con un sueldo competitivo de tiempo completo y una duración de tres años. 
-Se publicará aquí una descripción completa del puesto próximamente. Favor de comunicarse conmigo 
-al <dylan.craven@umayor.cl> por si tiene preguntas al respecto.  
-
-
-
+las del laboratorio, principalmente en **biogeografia funcional** o áreas afines. Estoy comprometido a trabajar con candidates a desarrollar propuestas, que sea
+por [FONDECYT](https://www.anid.cl/concursos/concurso/?id=281) o otro fuente de financiación. 
