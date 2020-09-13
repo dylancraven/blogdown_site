@@ -1,7 +1,9 @@
-baseurl = "/"
+baseurl = "https://www.dylancraven.com"
 languageCode = "en-us"
 title = "Dylan Craven"
-theme = "hugo-lithium"
+theme = "hugo-universal-theme"
+style="green"
+
 googleAnalytics = "UA-152694415-1"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -9,38 +11,49 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [permalinks]
     post = "/:year/:month/:day/:title"
 
-#[[menu.main]]
-#    name = "About"
-#    url = "/about/"
-#    weight =6
+[[menu.main]]
+    name = "Home"
+    url = "/about/"
+    weight =1
+
 [[menu.main]]
     name = "Research"
     url = "/research/"
-    weight =1
+    weight =2
+
 [[menu.main]]
     name = "Publications"
     url = "/publications/"
-    weight =2
+    weight =3
+    
 [[menu.main]]
     name = "Team"
     url = "/equipo/"
-    weight =3   
+    weight =4
+    
 [[menu.main]]
     name = "Join!/Unete!"
     url = "/join/"
-    weight =4    
+    weight =5    
 [[menu.main]]
     name = "Data"
     url = "/data/"
-    weight =5
-[[menu.main]]
-    name = "GitHub"
-   url = "https://github.com/dylancraven"
-  weight =6
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/DylanJCraven"
-    weight =7
+    weight =6
+    
+#[[menu.main]]
+#    name = "GitHub"
+#   url = "https://github.com/dylancraven"
+#  weight =6
+#[[menu.main]]
+#    name = "Twitter"
+#    url = "https://twitter.com/DylanJCraven"
+#    weight =7
+
+[params.widgets]
+    search = true
+    categories = true
+    tags = true
+
 [params]
     description = "A website built through Hugo and blogdown."
 
@@ -57,7 +70,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     favicon = "trees.png"
 
     [params.logo]
-    url = "logo.png"
-    width = 75
-    height = 75
+    url = "https://www.dylan.craven.com"
+    width = 100
+    height = 100
     alt = "Logo"
