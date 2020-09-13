@@ -6,7 +6,7 @@
 
 I am an associate professor at Universidad Mayor in the [Centre for Ecosystem Modeling and Monitoring](https://cem.umayor.cl/) in Santiago, Chile. 
 
-I explore drivers of temporal and spatial patterns of biodiversity and biodiversity change and their consequences, mostly in grassland and forest ecosystems. I am fortunate to work in Chile, whose unique geography and climate provide a compelling template to address the following questions:
+I explore drivers of temporal and spatial patterns of biodiversity and biodiversity change and their consequences, mostly in grassland and forest ecosystems. I work in Chile, whose unique geography and climate provide a compelling template to address the following questions:
 
  __i) How do ecological and historical drivers jointly shape biodiversity patterns?__  
  
