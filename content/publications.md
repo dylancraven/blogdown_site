@@ -11,6 +11,9 @@ If you don't have access to a PDF, please send me an e-mail!
 
 ## 2020    
 
+Craven, D., Sande, M.T. van der, Meyer, C., Gerstner, K., Bennett, J.M., Giling, D.P., Hines, J., Phillips, H.R.P., May, F., Bannar‐Martin, K.H., Chase, J.M. & Keil, P. (2020) A cross-scale assessment of productivity–diversity relationships. Global Ecology and Biogeography, 0(0):1-16. 10.1111/geb.13165  
+
+
 Guzmán-Jacob, V., Zotz, G., **Craven, D.**, Taylor, A., Krömer, T., Monge-González, M. L., & Kreft, H. (2020). Effects of forest-use intensity on vascular epiphyte diversity along an elevational gradient. Diversity and Distributions, 26(1), 4–15. doi:10.1111/ddi.12992
 
 Kattge, J., Bönisch, G., Díaz, S., Lavorel, S., Prentice, I. C., Leadley, P., … Wirth, C. (2020). TRY plant trait database – enhanced coverage and open access. Global Change Biology, 26(1), 119–188. doi:10.1111/gcb.14904
