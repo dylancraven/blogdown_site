@@ -64,9 +64,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     # path to the favicon, under "static"
     favicon = "trees.png"
-
-    [params.logo]
-    url = "https://www.dylan.craven.com"
-    width = 100
-    height = 100
-    alt = "Logo"
