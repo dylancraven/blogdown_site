@@ -3,7 +3,7 @@
 ### Asistente de Investigación  
 
 
-![blaa](/images/ValentinaPerez.png)    
+![blaa2](/images/ValentinaPerez.png)    
 **Valentina Pérez**, Ingeniera  forestal, Universidad Mayor  
 **Intereses**: Tiene interés en la biogeografía de plantas, especialmente las plantas vasculares alto andinas, y le gusta mucho la educación ambiental.   
 
