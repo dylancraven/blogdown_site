@@ -8,35 +8,31 @@ googleAnalytics = "UA-152694415-1"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-[[menu.main]]
-    name = "Home"
-    url = "/about/"
-    weight =1
 
 [[menu.main]]
     name = "Research"
     url = "/research/"
-    weight =2
+    weight =1
 
 [[menu.main]]
     name = "Publications"
     url = "/publications/"
-    weight =3
+    weight =2
     
 [[menu.main]]
     name = "Team"
     url = "/equipo/"
-    weight =4
+    weight =3
     
 [[menu.main]]
     name = "Join!/Unete!"
     url = "/join/"
-    weight =5    
+    weight =4    
 [[menu.main]]
     name = "Data"
     url = "/data/"
-    weight =6
-
+    weight =5
+    
 [params]
     description = "A website built through Hugo and blogdown."
 
