@@ -1,7 +1,7 @@
 ## Equipo   
 
 ### Investigador Principal  
-![blaa1](dylancraven2.png)
+![blaa1](images/dylancraven2.png)
 **Dylan Craven**, Profesor Asociado, [Centro de Modelación y Monitoreo de Ecosistemas](https://cem.umayor.cl/), Universidad Mayor
 Dylan es un ecológo de bosques que investiga patrones temporales y espaciales de la biodiversidad y sus implicaciones, y usa aproximaciones de la ecología funcional y la macroecología para abordar esos temas. Para más información sobre sus intereses de investigación, consulte la páginas de sus [publicaciones](/publications)   
 
