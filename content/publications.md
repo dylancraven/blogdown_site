@@ -11,7 +11,9 @@ If you don't have access to a PDF, please send me an e-mail!
 
 ## 2020    
 
-Craven, D., Sande, M.T. van der, Meyer, C., Gerstner, K., Bennett, J.M., Giling, D.P., Hines, J., Phillips, H.R.P., May, F., Bannar‐Martin, K.H., Chase, J.M. & Keil, P. (2020) A cross-scale assessment of productivity–diversity relationships. Global Ecology and Biogeography, 29:1940–1955. doi:10.1111/geb.13165    
+**Craven, D.**, Sande, M.T. van der, Meyer, C., Gerstner, K., Bennett, J.M., Giling, D.P., Hines, J., Phillips, H.R.P., May, F., Bannar‐Martin, K.H., Chase, J.M. & Keil, P. (2020) A cross-scale assessment of productivity–diversity relationships. Global Ecology and Biogeography, 29:1940–1955. doi:10.1111/geb.13165    
+
+Aquilué, N., Filotas, É., **Craven, D.**, Fortin, M.-J., Brotons, L. & Messier, C. 2020. Evaluating forest resilience to global threats using functional response traits and network properties. Ecological Applications, 30, e02095. doi:10.1002/eap.2095
 
 Guzmán-Jacob, V., Zotz, G., **Craven, D.**, Taylor, A., Krömer, T., Monge-González, M. L., & Kreft, H. (2020). Effects of forest-use intensity on vascular epiphyte diversity along an elevational gradient. Diversity and Distributions, 26(1), 4–15. doi:10.1111/ddi.12992  
 
