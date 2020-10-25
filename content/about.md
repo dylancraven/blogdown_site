@@ -2,19 +2,20 @@
 #date: "2019-11-16T21:48:51-07:00"
 title: Home
 ---
-
 ## Biodiversity | Functional Ecology & Biogeography
+
+### Dr. Dylan Craven  
+
+### [Centre for Ecosystem Modeling and Monitoring](https://cem.umayor.cl/), Universidad Mayor    
+
 ![Islands](/images/Curacavi.png)
 
+We explore drivers of temporal and spatial patterns of biodiversity and biodiversity change and their consequences, mostly in grassland and forest ecosystems. We are based in Chile, whose unique geography and climate provide a compelling template to address the following questions:
 
-I am a plant ecologist interested in temporal and spatial patterns of biodiversity change and its implications. I am particularly fascinated by the role of biodiversity in driving the capacity of ecosystems to resist and recover from global change drivers, such as land-use change and biological invasions. I examine these topics using experimental and observational studies and synthesis, focusing on the following questions:
+ __i) How do ecological and historical drivers jointly shape biodiversity patterns?__  
+ 
+__ii)  How do biodiversity and biodiversity-dependent ecosystem functions vary across temporal and spatial scales?__
 
- i) How do biodiversity and biodiversity-dependent ecosystem functions vary across temporal and spatial scales?
+__iii) How does biodiversity mediate ecosystem responses to global change drivers?__
 
- ii) How does biodiversity buffer ecosystem responses to global change drivers?
-
- iii) To what extent do global change drivers affect mechanisms underlying biodiversity patterns?
-
-I am an associate professor at the Centre for Ecosystem Modeling and Monitoring at Universidad Mayor, located in Santiago, Chile. I am just getting settled in, and will have more information soon about my research group, and how to join.
-
-Please contact me via e-mail: dylan.craven[at]umayor.cl
+If interested in joining our research team or collaborating with us, please check out [opportunities](/join) or contact Dr. Craven via e-mail: dylan.craven[at]umayor.cl (English/Español).

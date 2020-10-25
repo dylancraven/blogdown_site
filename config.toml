@@ -63,4 +63,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    favicon = "logo.png"
+    favicon = "/media/dylan/Extreme SSD/Management/Outreach/Website/Not_weebly/blogdown_site/themes/hugo-lithium/static/"
