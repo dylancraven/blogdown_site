@@ -28,6 +28,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Join!/Unete!"
     url = "/join/"
     weight =4    
+    
 [[menu.main]]
     name = "Data"
     url = "/data/"
@@ -46,7 +47,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    favicon = "favicon.ico"
+    favicon = "logo.png"
 
     [params.logo]
     url = "logo.png"
