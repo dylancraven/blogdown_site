@@ -8,9 +8,6 @@ googleAnalytics = "UA-152694415-1"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-[permalinks]
-    post = "/:year/:month/:day/:title"
-
 [[menu.main]]
     name = "Home"
     url = "/about/"
@@ -39,16 +36,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Data"
     url = "/data/"
     weight =6
-        
-    
-#[[menu.main]]
-#    name = "GitHub"
-#   url = "https://github.com/dylancraven"
-#  weight =6
-#[[menu.main]]
-#    name = "Twitter"
-#    url = "https://twitter.com/DylanJCraven"
-#    weight =7
 
 [params]
     description = "A website built through Hugo and blogdown."
@@ -63,4 +50,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    favicon = "/media/dylan/Extreme SSD/Management/Outreach/Website/Not_weebly/blogdown_site/themes/hugo-lithium/static/"
+    favicon = "favicon.ico"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Home"
