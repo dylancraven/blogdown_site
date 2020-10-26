@@ -1,5 +1,5 @@
 ## Open Data  
-![Islands](/images/ElJiral_paisaje_b_w3.png)  
+![Islands](/images/ElJiral_paisaje_b_w3_2.png)  
 
 I collected a moderate amount of new data as part of my graduate research in Panama, but more recently 
 have benefitted enormously from the generosity of others. All data sets are open access, and are available via 

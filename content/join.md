@@ -8,7 +8,7 @@ a guiar y apoyar a l@s integrantes del grupo a lograr sus metas profesionales.
 [**PhD**](#estudiantes-de-post-grado)   
 [**Post-docs**](#post-doctorantes)  
 
-![blaa](/images/ELTI_estudiantes.png)  
+![blaa](/images/ELTI_estudiantes2.png)  
 _Participantes en un curso de servicios ecosistémicos en paisajes del trópico, Panamá_
 
 ### Estudiantes de pre-grado  
