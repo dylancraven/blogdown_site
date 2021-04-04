@@ -6,15 +6,15 @@
 
 ## Drivers of functional diversity of woody plants and consequences for carbon storage
 
-Identifying the drivers of biodiversity and their relationships with ecosystem functioning across large spatial scales is essential for improving the conservation and management of natural ecosystems. Chile is a unique natural laboratory for studying spatial patterns of biodiversity’s multiple facets, given its great diversity in environmental conditions and topography and unique biogeographic history. However, there are persistent shortfalls in biodiversity data globally but also in Chile. Bridging the gaps in biodiversity data and knowledge of ecosystems in biodiversity hotspots such as Chile remains a major scientific challenge.
+Identifying the drivers of biodiversity and their relationships with ecosystem functioning across large spatial scales is essential for strengthening the conservation and management of natural ecosystems. Chile is an excellent natural laboratory for studying spatial patterns of biodiversity’s multiple facets, given its tremendous diversity in environmental conditions and topography and unique biogeographic history. However, there are persistent shortfalls in biodiversity data in Chile that have prevented addressing such issues. Bridging extant gaps in biodiversity data and knowledge of ecosystems in biodiversity hotspots such as Chile remains a major scientific challenge.
 
 In this project, we aim to identify the environmental, geographical, and anthropogenic factors that shape spatial patterns of woody plant diversity across Chile and to quantify the extent to which carbon storage is affected by biodiversity.  
 ![Functional_biogeography](/images/Muestreo2020.png)  
-_Functional trait sampling across central Chile_  
+_Current progress in functional trait sampling across central Chile (2020/2021)_  
 
 ## Biodiversity patterns across islands at local and biogeographical scales  
 
-Island ecosystems sustain a large proportion of global plant diversity, yet are critically imperiled due to global change. They are also a natural laboratory that can be used to examine how biodiversity, ecosystem functioning, and biological invasions change from local to biogeographical scales. I use an database of forest plots on islands across the Pacific Ocean to address these questions, in collaboration with Holger Kreft (U. of Gottingen), Patrick Weigelt (U. of Gottingen), and Tiffany Knight (iDiv / UFZ). Our initial work has focused on the Hawaiian Islands (see [publications](/publications)) and now are expanding our focus to the entire region.   
+Island ecosystems sustain a large proportion of global plant diversity, yet are critically imperiled due to global change. They are also a natural laboratory that can be used to examine how biodiversity, ecosystem functioning, and biological invasions change from local to biogeographical scales. I use an database of forest plots on islands across the Pacific Ocean to address these questions, in collaboration with Holger Kreft (U. of Gottingen), Patrick Weigelt (U. of Gottingen), and Tiffany Knight (iDiv / UFZ). Our initial work has focused on the Hawaiian Islands and now are expanding our focus to the entire Pacific (see [publications](/publications)).   
 
 ![Islands](/images/islands2.png)
 _Land-bridge island in Tolima, Colombia_
