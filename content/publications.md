@@ -3,11 +3,20 @@
 [Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1) |
 [Publons](https://publons.com/researcher/313540/dylan-craven/)  
 
-If you don't have access to a PDF, please send me an e-mail!  
+If you don't have access to a PDF, please send me a request via e-mail.  
 
+[**2021**](#2021)
 [**2020**](#2020) [**2019**](#2019) [**2018**](#2018) [**2017**](#2017) [**2016**](#2016)
 [**2015**](#2015) [**2014**](#2014) [**2013**](#2013) [**2011**](#2011) [**2010**](#2010)
 [**2009**](#2009) [**2007**](#2007)
+
+## 2021    
+
+Schrader, J., **Craven, D.**, Sattler, C., Cámara-Leret, R., Moeljono, S. & Kreft, H. (2021) Life-history dimensions indicate non-random assembly processes in tropical island tree communities. Ecography, 44, 469–480.
+
+Wang, S., Loreau, M., de Mazancourt, C., Isbell, F., Beierkuhnlein, C., Connolly, J., Deutschman, D.H., Doležal, J., Eisenhauer, N., Hector, A., Jentsch, A., Kreyling, J., Lanta, V., Lepš, J., Polley, H.W., Reich, P.B., van Ruijven, J., Schmid, B., Tilman, D., Wilsey, B. and **Craven, D.** (2021) Biotic homogenization destabilizes ecosystem functioning by decreasing spatial asynchrony. Ecology, 0, e03332.
+
+Wohlwend, M.R., **Craven, D.**, Weigelt, P., Seebens, H., Winter, M., Kreft, H., Zurell, D., Cabral, J.S., Essl, F., Kleunen, M. van, Pergl, J., Pyšek, P. & Knight, T.M. (2021) Anthropogenic and environmental drivers shape diversity of naturalized plants across the Pacific. Diversity and Distributions, 0, 1-14. https://doi.org/10.1111/ddi.13260
 
 ## 2020    
 

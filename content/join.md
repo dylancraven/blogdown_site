@@ -13,8 +13,8 @@ _Participantes en un curso de servicios ecosistémicos en paisajes del trópico,
 
 ### Estudiantes de pre-grado  
 
-Eng general, ofrecemos temas en dos áreas: i) **ecología funcional** y 
-ii) **macro-ecología**. Se recomienda que se informan de nuestra [investigación](/research), y
+En general, ofrecemos temas en dos áreas: i) **ecología funcional** y 
+ii) **macro-ecología**. Se recomienda que revisan nuestra [investigación](/research), y
 luego enviar un correo al <dylan.craven@umayor.cl> para conversar sobre posibles temas.  
 
 ### Estudiantes de post-grado (PhD) 
