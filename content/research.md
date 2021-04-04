@@ -9,8 +9,8 @@
 Identifying the drivers of biodiversity and their relationships with ecosystem functioning across large spatial scales is essential for improving the conservation and management of natural ecosystems. Chile is a unique natural laboratory for studying spatial patterns of biodiversity’s multiple facets, given its great diversity in environmental conditions and topography and unique biogeographic history. However, there are persistent shortfalls in biodiversity data globally but also in Chile. Bridging the gaps in biodiversity data and knowledge of ecosystems in biodiversity hotspots such as Chile remains a major scientific challenge.
 
 In this project, we aim to identify the environmental, geographical, and anthropogenic factors that shape spatial patterns of woody plant diversity across Chile and to quantify the extent to which carbon storage is affected by biodiversity.  
-![Functional_biogeography](/images/Muestreo2020.png)
-_Functional trait sampling across central Chile_
+![Functional_biogeography](/images/Muestreo2020.png)  
+_Functional trait sampling across central Chile_  
 
 ## Biodiversity patterns across islands at local and biogeographical scales  
 
