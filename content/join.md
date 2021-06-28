@@ -19,13 +19,13 @@ luego enviar un correo al <dylan.craven@umayor.cl> para conversar sobre posibles
 
 ### Estudiantes de post-grado (PhD) 
 
-Estoy comprometido a trabajar con candidat@s a desarrollar propuestas de becas que financiesen 
-sus estudios doctorales. Para chilenos, se recomienda que apliquen directamente por su beca al 
+Estoy comprometido a trabajar con candidat@s a desarrollar propuestas de becas que financian 
+sus estudios doctorales. Para chilenos, se recomienda que postulen directamente por su beca al 
 nuevo programa de [ecologia integrativa](https://www.umayor.cl/postgradomayor/20007?programa=doctorado-en-ecologia-integrativa-(santiago)&medio=20007) de la Universidad Mayor. Favor de enviar un correo al <dylan.craven@umayor.cl> 
 **con anticipación** para discutir ideas e identificar fuentes de finaciación.   
 
 ### Post-doctorantes  
 
-Buscamos a candidatos que tienen interes en desarrollar lineas de investigacion complementarias a
+Buscamos a candidatos que tienen interés en desarrollar lineas de investigación complementarias a
 las del laboratorio, principalmente en **biogeografia funcional** o áreas afines. Estoy comprometido a trabajar con candidates a desarrollar propuestas, que sea
 por [FONDECYT](https://www.anid.cl/concursos/concurso/?id=281) o otro fuente de financiación. 

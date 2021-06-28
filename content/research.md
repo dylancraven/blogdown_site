@@ -1,8 +1,8 @@
 
 [**Functional Biogeography**](#drivers-of-functional-diversity-of-woody-plants-and-consequences-for-carbon-storage)  
-[**Island biogeography**](#biodiversity-patterns-across-islands-at-local-and-biogeographical-scales)  
+[**Island Biogeography**](#biodiversity-patterns-across-islands-at-local-and-biogeographical-scales)  
 [**Diversity - Stability**](#mechanisms-underlying-ecosystem-stability-and-community-responses-to-global-change)  
-[**Secondary succession in tropical and temperate forests**](#resilience-of-tropical-and-temperate-secondary-forests)  
+[**Resilience of tropical and temperate forests**](#resilience-of-tropical-and-temperate-secondary-forests)  
 
 ## Drivers of functional diversity of woody plants and consequences for carbon storage
 
@@ -26,7 +26,7 @@ Biodiversity experiments in grassland & forest ecosystems provide a powerful pla
 ![bla](/images/experiment2.png)
 _Greenhouse experiment testing the impacts of functional diversity on belowground ecosystem functioning (Leipzig, Germany)._
 
-## Resilience of tropical and temperate secondary forests  
+## Resilience of tropical and temperate secondary forests in human-dominated landscapes    
 
 Secondary forests dominate large areas of tropical and temperate regions and have considerable potential to mitigate climate change via carbon sequestration and to act as a source of biodiversity. Therefore, it is critical to understand how biodiversity and biodiversity-dependent ecosystem functions recover in secondary forests following land abandonment. Within the Agua Salud Project in **Panama**, I leverage time series data across an extensive network of forest plots to explore the consequences of biodiversity change on ecosystem functioning. In **Chile**, I collaborate with Christian Salas and Cynnamon Dobbs (U. Mayor) to examine the relationships between multiple facets of biodiversity and ecosystem functioning across climatic gradients in human-impacted landscapes.
 

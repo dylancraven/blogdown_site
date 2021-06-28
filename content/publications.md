@@ -12,11 +12,19 @@ If you don't have access to a PDF, please send me a request via e-mail.
 
 ## 2021    
 
-Schrader, J., **Craven, D.**, Sattler, C., Cámara-Leret, R., Moeljono, S. & Kreft, H. (2021) Life-history dimensions indicate non-random assembly processes in tropical island tree communities. Ecography, 44, 469–480.
+**Craven, D.**, Weigelt, P., Wolkis, D. and Kreft, H. (2021) Niche properties constrain occupancy but not abundance patterns of native and alien woody species across Hawaiian forests. Journal of Vegetation Science, e13025.
 
-Wang, S., Loreau, M., de Mazancourt, C., Isbell, F., Beierkuhnlein, C., Connolly, J., Deutschman, D.H., Doležal, J., Eisenhauer, N., Hector, A., Jentsch, A., Kreyling, J., Lanta, V., Lepš, J., Polley, H.W., Reich, P.B., van Ruijven, J., Schmid, B., Tilman, D., Wilsey, B. and **Craven, D.** (2021) Biotic homogenization destabilizes ecosystem functioning by decreasing spatial asynchrony. Ecology, 0, e03332.
+Keppel, G., **Craven, D.**, Weigelt, P., Smith, S.A., Sande, M.T. van der, Sandel, B., Levin, S.C., Kreft, H. and Knight, T.M. (2021) Synthesizing tree biodiversity data to understand global patterns and processes of vegetation. Journal of Vegetation Science, e13021.
 
-Wohlwend, M.R., **Craven, D.**, Weigelt, P., Seebens, H., Winter, M., Kreft, H., Zurell, D., Cabral, J.S., Essl, F., Kleunen, M. van, Pergl, J., Pyšek, P. & Knight, T.M. (2021) Anthropogenic and environmental drivers shape diversity of naturalized plants across the Pacific. Diversity and Distributions, 0, 1-14. https://doi.org/10.1111/ddi.13260
+Lai, H.R., **Craven, D.**, Hall, J.S., Hui, F.K.C. and Breugel, M. van (2021) Successional syndromes of saplings in tropical secondary forests emerge from environment-dependent trait–demography relationships. Ecology Letters,0:1-12. https://doi.org/10.1111/ele.13784
+
+Monge-González, M.L., Guerrero-Ramírez, N., Krömer, T., Kreft, H. and **Craven, D.** (2021) Functional diversity and redundancy of tropical forests shift with elevation and forest-use intensity. Journal of Applied Ecology, 0: 1:12. https://10.1111/1365-2664.13955
+
+Schrader, J., **Craven, D.**, Sattler, C., Cámara-Leret, R., Moeljono, S. and Kreft, H. (2021) Life-history dimensions indicate non-random assembly processes in tropical island tree communities. Ecography, 44, 469–480.
+
+Wang, S., Loreau, M., Mazancourt, C. de, Isbell, F., Beierkuhnlein, C., Connolly, J., Deutschman, D.H., Doležal, J., Eisenhauer, N., Hector, A., Jentsch, A., Kreyling, J., Lanta, V., Lepš, J., Polley, H.W., Reich, P.B., Ruijven, J. van, Schmid, B., Tilman, D., Wilsey, B. and **Craven, D**. (2021) Biotic homogenization destabilizes ecosystem functioning by decreasing spatial asynchrony. Ecology, 0, e03332.
+
+Wohlwend, M.R., **Craven, D.**, Weigelt, P., Seebens, H., Winter, M., Kreft, H., Zurell, D., Cabral, J.S., Essl, F., Kleunen, M. van, Pergl, J., Pyšek, P. and Knight, T.M. (2021) Anthropogenic and environmental drivers shape diversity of naturalized plants across the Pacific. Diversity and Distributions, 27, 1120–1133.
 
 ## 2020    
 
