@@ -18,5 +18,5 @@ Elias tiene interés principalmente en los insectos y quiere documentar su diver
 ### Logística  
 
 ![blaa4](/images/carola.png)    
-**Carolina Córdova**, Paisajista, Universidad de Chile  
-Carolina lleva muchos sombreros en su vida profesional, entre ellos, tiene una [empresa de paisajismo](https://weinmannia.cl/), y es la persona que hace pequeños y grandes milagros con el presupuesto de nuestros proyectos. 
+**Carolina Córdova**, Ingeniera foresta y paisajista, Universidad de Chile  
+Carolina lleva muchos sombreros en su vida profesional, entre ellos, tiene una [empresa de paisajismo](https://weinmannia.cl/), y es la persona que hace pequeños y grandes milagros presupuestarios y nos facilita nuestros proyectos. 
