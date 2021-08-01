@@ -12,8 +12,8 @@ Pili es una ecóloga cuya investigación se enfoca en responder cómo la pérdid
 Apuesta mucho a la difusión de la ciencia como una herramienta para futuros cambios, por ello también es un miembro activo de la Organización [ECOTERRA](https://ongecoterra.org/).
 
 ### Fiorella Gonzales Guillén, estudiante del Doctorado de Ecología (Pontificia Universidad Católica de Chile)  
-![blaa7](/images/Pili.png)    
-Ecológa
+![blaa7](/images/Fiorella2.png)    
+Ecológa (...)   
 
 ### Valentina Pérez, Asistente de Investigación  
 ![blaa5](/images/ValentinaPerez.png)    
