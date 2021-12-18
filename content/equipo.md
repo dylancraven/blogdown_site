@@ -9,11 +9,11 @@ Dylan es un ecológo de bosques que investiga patrones temporales y espaciales d
 ![blaa4](/images/Pili.png)    
 Ecológa, Universidad de La Serena  
 Pili es una ecóloga cuya investigación se enfoca en responder cómo la pérdida de biodiversidad, en especial la pérdida de herbívoros, puede modificar en múltiples escalas el funcionamiento de las plantas efímeras en los ecosistemas semiáridos.
-Apuesta mucho a la difusión de la ciencia como una herramienta para futuros cambios, por ello también es un miembro activo de la Organización [ECOTERRA](https://ongecoterra.org/).
+Apuesta mucho a la difusión de la ciencia como una herramienta para futuros cambios, por ello también es un miembro activo de la Organización [ECOTERRA](https://ongecoterra.org/).  
 
 ### Fiorella Gonzales Guillén, estudiante del Doctorado de Ecología (Pontificia Universidad Católica de Chile)  
-![blaa7](/images/Fiorella2.png)    
-Ecológa (...)   
+![blaa9](/images/Fiorella2.png)    
+Fiorella es una ecóloga que en su doctorado examina los patrones e impulsores de la diversidad de las lomas costeras de Perú y Chile. 
 
 ### Valentina Pérez, Asistente de Investigación  
 ![blaa5](/images/ValentinaPerez.png)    
@@ -23,7 +23,7 @@ Valentina tiene interés en la biogeografía de plantas, especialmente las plant
 ### Elias Encina, Asistente de Investigación
 ![blaa3](/images/Elias2020.png)    
 Geógrafo, Universidad de Chile  
-Elias tiene interés principalmente en los insectos y quiere documentar su diversidad.   
+Elias tiene interés principalmente en los insectos y quiere documentar su diversidad en Chile.   
 
 ### Carolina Córdova, Logística  
 ![blaa6](/images/carola.png)    

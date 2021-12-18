@@ -5,7 +5,8 @@
 
 If you don't have access to a PDF, please send me a request via e-mail.  
 
-[**2021**](#2021)
+[**20
+21**](#2021)
 [**2020**](#2020) [**2019**](#2019) [**2018**](#2018) [**2017**](#2017) [**2016**](#2016)
 [**2015**](#2015) [**2014**](#2014) [**2013**](#2013) [**2011**](#2011) [**2010**](#2010)
 [**2009**](#2009) [**2007**](#2007)
@@ -14,17 +15,31 @@ If you don't have access to a PDF, please send me a request via e-mail.
 
 **Craven, D.**, Weigelt, P., Wolkis, D. and Kreft, H. (2021) Niche properties constrain occupancy but not abundance patterns of native and alien woody species across Hawaiian forests. Journal of Vegetation Science, e13025.
 
+Guzmán-Jacob, V., Weigelt, P., **Craven, D.**, Zotz, G., Krömer, T. and Kreft, H. (2021) Biovera-Epi: A new database on species diversity, community composition and leaf functional traits of vascular epiphytes along gradients of elevation and forest-use intensity in Mexico. Biodiversity Data Journal, 9, e71974.
+
+Hong, P., Schmid, B., De Laender, F., Eisenhauer, N., Zhang, X., Chen, H., **Craven, D.**, De Boeck, H.J., Hautier, Y., Petchey, O.L., Reich, P.B., Steudel, B., Striebel, M., Thakur, M.P. and Wang, S. (2021) Biodiversity promotes ecosystem functioning despite environmental change. Ecology Letters, doi: 10.1111/ele.13936.
+
 Keppel, G., **Craven, D.**, Weigelt, P., Smith, S.A., Sande, M.T. van der, Sandel, B., Levin, S.C., Kreft, H. and Knight, T.M. (2021) Synthesizing tree biodiversity data to understand global patterns and processes of vegetation. Journal of Vegetation Science, e13021.
 
-Lai, H.R., **Craven, D.**, Hall, J.S., Hui, F.K.C. and Breugel, M. van (2021) Successional syndromes of saplings in tropical secondary forests emerge from environment-dependent trait–demography relationships. Ecology Letters,0:1-12. https://doi.org/10.1111/ele.13784
+Lai, H.R., **Craven, D.**, Hall, J.S., Hui, F.K.C. and Breugel, M. van (2021) Successional syndromes of saplings in tropical secondary forests emerge from environment-dependent trait–demography relationships. Ecology Letters, 24, 1776–1787.
 
-Monge-González, M.L., Guerrero-Ramírez, N., Krömer, T., Kreft, H. and **Craven, D.** (2021) Functional diversity and redundancy of tropical forests shift with elevation and forest-use intensity. Journal of Applied Ecology, 0: 1:12. https://10.1111/1365-2664.13955
+Liu, M., Cesarz, S., Eisenhauer, N., Xia, H., Fu, S. and **Craven, D.** (2021) Soil quality, leaf litter quality, and microbial biomass interactively drive soil respiration in a microcosm experiment. SOIL ORGANISMS, 93, 181–194.
+
+Monge González, M., Weigelt, P., Guerrero-Ramírez, N., **Craven, D.**, Castillo-Campos, G., Krömer, T. and Kreft, H. (2021) BIOVERA-Tree: tree diversity, community composition, forest structure and functional traits along gradients of forest-use intensity and elevation in Veracruz, Mexico. Biodiversity Data Journal, 9, e69560.
+
+Monge-González, M.L., Guerrero-Ramírez, N., Krömer, T., Kreft, H. and **Craven, D.** (2021) Functional diversity and redundancy of tropical forests shift with elevation and forest-use intensity. Journal of Applied Ecology, 58, 1827–1837.
+
+Poorter, L., **Craven, D.**, et al. (2021) Multidimensional tropical forest recovery. Science, 374, 1370–1376.
+
+Poorter, L., et al. (including **D. Craven**). (2021) Functional recovery of secondary tropical forests. Proceedings of the National Academy of Sciences, 118.
 
 Schrader, J., **Craven, D.**, Sattler, C., Cámara-Leret, R., Moeljono, S. and Kreft, H. (2021) Life-history dimensions indicate non-random assembly processes in tropical island tree communities. Ecography, 44, 469–480.
 
-Wang, S., Loreau, M., Mazancourt, C. de, Isbell, F., Beierkuhnlein, C., Connolly, J., Deutschman, D.H., Doležal, J., Eisenhauer, N., Hector, A., Jentsch, A., Kreyling, J., Lanta, V., Lepš, J., Polley, H.W., Reich, P.B., Ruijven, J. van, Schmid, B., Tilman, D., Wilsey, B. and **Craven, D**. (2021) Biotic homogenization destabilizes ecosystem functioning by decreasing spatial asynchrony. Ecology, 0, e03332.
+Wang, S., Loreau, M., Mazancourt, C. de, Isbell, F., Beierkuhnlein, C., Connolly, J., Deutschman, D.H., Doležal, J., Eisenhauer, N., Hector, A., Jentsch, A., Kreyling, J., Lanta, V., Lepš, J., Polley, H.W., Reich, P.B., Ruijven, J. van, Schmid, B., Tilman, D., Wilsey, B. and **Craven, D**. (2021) Biotic homogenization destabilizes ecosystem functioning by decreasing spatial asynchrony. Ecology, 102, e03332.
 
-Wohlwend, M.R., **Craven, D.**, Weigelt, P., Seebens, H., Winter, M., Kreft, H., Zurell, D., Cabral, J.S., Essl, F., Kleunen, M. van, Pergl, J., Pyšek, P. and Knight, T.M. (2021) Anthropogenic and environmental drivers shape diversity of naturalized plants across the Pacific. Diversity and Distributions, 27, 1120–1133.
+Wohlwend, M., **Craven, D.**, Weigelt, P., Seebens, H., Winter, M., Kreft, H., Dawson, W., Essl, F., Kleunen, M. van, Pergl, J., Pyšek, P., Space, J., Thomas, P. and Knight, T. (2021a) Data Descriptor: Pacific Introduced Flora (PaciFLora). Biodiversity Data Journal, 9, e67318.
+
+Wohlwend, M.R., **Craven, D.**, Weigelt, P., Seebens, H., Winter, M., Kreft, H., Zurell, D., Cabral, J.S., Essl, F., Kleunen, M. van, Pergl, J., Pyšek, P. & Knight, T.M. (2021b) Anthropogenic and environmental drivers shape diversity of naturalized plants across the Pacific. Diversity and Distributions, 27, 1120– 1133.
 
 ## 2020    
 
