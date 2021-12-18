@@ -13,6 +13,7 @@ Apuesta mucho a la difusión de la ciencia como una herramienta para futuros cam
 
 ### Fiorella Gonzales Guillén, estudiante del Doctorado de Ecología (Pontificia Universidad Católica de Chile)  
 ![blaa9](/images/Fiorella2.png)    
+Ecológa  
 Fiorella es una ecóloga que en su doctorado examina los patrones e impulsores de la diversidad de las lomas costeras de Perú y Chile. 
 
 ### Valentina Pérez, Asistente de Investigación  
