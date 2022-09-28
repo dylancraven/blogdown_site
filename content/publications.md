@@ -4,7 +4,7 @@ output: html_document
 ---
 
 [Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1)  
-If you don't have access to a PDF, please send me a request via e-mail.  
+If you don't have access to a PDF, please send me a request via [**e-mail**](dylan.craven@umayor.cl).
 
 [**2022**](#2022) [**2021**](#2021)
 [**2020**](#2020) [**2019**](#2019) [**2018**](#2018) [**2017**](#2017) [**2016**](#2016)
