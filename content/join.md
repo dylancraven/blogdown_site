@@ -1,14 +1,18 @@
+---
+title: "Join!/!Unete!"
+output: html_document
+---
 ## Oportunidades      
 
-Buscamos crear y mantener un grupo de investigación diverso, inclusivo y sobretodo apasionado por la biodiversidad, 
-que está comprometido a aplicar lo que aprendemos para mejorar el mundo. Estamos comprometidos 
+Buscamos crear y mantener un grupo de investigación diverso, inclusivo y sobretodo apasionado por la biodiversidad, que está comprometido a aplicar lo que aprendemos para
+mejorar el mundo. Estamos comprometidos 
 a guiar y apoyar a l@s integrantes del grupo a lograr sus metas profesionales.  
 
 [**Pre-grado**](#estudiantes-de-pre-grado)   
 [**PhD**](#estudiantes-de-post-grado)   
 [**Post-docs**](#post-doctorantes)  
 
-![blaa](/images/ELTI_estudiantes2.png)  
+![blaa](/media/dylan/Extreme SSD1/Management/Outreach/Website/Not_weebly/blogdown_site/public/images/ELTI_estudiantes2.png)  
 _Participantes en un curso de servicios ecosistémicos en paisajes del trópico, Panamá_
 
 ### Estudiantes de pre-grado  
@@ -27,5 +31,5 @@ nuevo programa de [ecologia integrativa](https://www.umayor.cl/postgradomayor/20
 ### Post-doctorantes  
 
 Buscamos a candidatos que tienen interés en desarrollar lineas de investigación complementarias a
-las del laboratorio, principalmente en **biogeografia funcional** o áreas afines. Estoy comprometido a trabajar con candidates a desarrollar propuestas, que sea
+las del laboratorio, principalmente en **biogeografia funcional** o temas afines. Estoy comprometido a trabajar con candidates a desarrollar propuestas, que sea
 por [FONDECYT](https://www.anid.cl/concursos/concurso/?id=281) o otro fuente de financiación. 

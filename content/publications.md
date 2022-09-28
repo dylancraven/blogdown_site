@@ -1,23 +1,35 @@
-## Publications
+---
+title: "Publications"
+output: html_document
+---
 
-[Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1) |
-[Publons](https://publons.com/researcher/313540/dylan-craven/)  
-
+[Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1)  
 If you don't have access to a PDF, please send me a request via e-mail.  
 
-[**20
-21**](#2021)
+[**2022**](#2022) [**2021**](#2021)
 [**2020**](#2020) [**2019**](#2019) [**2018**](#2018) [**2017**](#2017) [**2016**](#2016)
 [**2015**](#2015) [**2014**](#2014) [**2013**](#2013) [**2011**](#2011) [**2010**](#2010)
 [**2009**](#2009) [**2007**](#2007)
+
+## 2022 
+
+Bach, W., Kreft, H., **Craven, D.**, König, C., Schrader, J., Taylor, A., Dawson, W., Essl, F., Lenzner, B., Marx, H.E., Meyer, C., Pergl, J., Pyšek, P., van Kleunen, M., Winter, M. and Weigelt, P. (2022), Phylogenetic composition of native island floras influences naturalized alien species richness. Ecography e06227. https://doi.org/10.1111/ecog.06227
+
+Cesarz, S., **Craven, D.**, Auge, H., Bruelheide, H., Castagneyrol, B., Gutknecht, J., Hector, A., Jactel, H., Koricheva, J., Messier, C., Muys, B., O’Brien, M.J., Paquette, A., Ponette, Q., Potvin, C., Reich, P.B., Scherer-Lorenzen, M., Smith, A.R., Verheyen, K. & Eisenhauer, N. (2022) Tree diversity effects on soil microbial biomass and respiration are context dependent across forest diversity experiments. Global Ecology and Biogeography, 872–885.
+
+Guzmán-Jacob, V., Guerrero-Ramírez, N. R., **Craven, D.**, Brant Paterno, G., Taylor, A., Krömer, T., Wanek, W., Zotz, G., & Kreft, H. (2022). Broad- and small-scale environmental gradients drive variation in chemical, but not morphological, leaf traits of vascular epiphytes. Functional Ecology, 36, 1858– 1872. https://doi.org/10.1111/1365-2435.14084
+
+Hong, P., Schmid, B., De Laender, F., Eisenhauer, N., Zhang, X., Chen, H., **Craven, D.**, De Boeck, H.J., Hautier, Y., Petchey, O.L., Reich, P.B., Steudel, B., Striebel, M., Thakur, M.P. and Wang, S. (2021) Biodiversity promotes ecosystem functioning despite environmental change. Ecology Letters, doi: 10.1111/ele.13936.
+
+Jakovac, C.C., et al. (including **Craven, D.**) (2022) Strong floristic distinctiveness across Neotropical successional forests. Science Advances, 8, eabn176*7.
+
+Tolmos, M. L., Kreft, H., Ramirez, J., Ospina, R. and **Craven**, D. (2022). Water and energy availability mediate biodiversity patterns along an elevational gradient in the tropical Andes. Journal of Biogeography, 49, 712– 726. https://doi.org/10.1111/jbi.14332
 
 ## 2021    
 
 **Craven, D.**, Weigelt, P., Wolkis, D. and Kreft, H. (2021) Niche properties constrain occupancy but not abundance patterns of native and alien woody species across Hawaiian forests. Journal of Vegetation Science, e13025.
 
 Guzmán-Jacob, V., Weigelt, P., **Craven, D.**, Zotz, G., Krömer, T. and Kreft, H. (2021) Biovera-Epi: A new database on species diversity, community composition and leaf functional traits of vascular epiphytes along gradients of elevation and forest-use intensity in Mexico. Biodiversity Data Journal, 9, e71974.
-
-Hong, P., Schmid, B., De Laender, F., Eisenhauer, N., Zhang, X., Chen, H., **Craven, D.**, De Boeck, H.J., Hautier, Y., Petchey, O.L., Reich, P.B., Steudel, B., Striebel, M., Thakur, M.P. and Wang, S. (2021) Biodiversity promotes ecosystem functioning despite environmental change. Ecology Letters, doi: 10.1111/ele.13936.
 
 Keppel, G., **Craven, D.**, Weigelt, P., Smith, S.A., Sande, M.T. van der, Sandel, B., Levin, S.C., Kreft, H. and Knight, T.M. (2021) Synthesizing tree biodiversity data to understand global patterns and processes of vegetation. Journal of Vegetation Science, e13021.
 
