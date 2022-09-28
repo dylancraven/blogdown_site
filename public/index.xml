@@ -5,29 +5,53 @@
     <link>/</link>
     <description>Recent content on Dylan Craven</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 16 Nov 2019 21:48:51 -0700</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Sat, 16 Nov 2019 21:48:51 -0700</pubDate>
+      <title></title>
+      <link>/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>I am a plant ecologist interested in temporal and spatial patterns of biodiversity change and its implications. I am particularly fascinated by the role of biodiversity in driving the capacity of ecosystems to resist and recover from global change drivers, such as land-use change and biological invasions. I examine these topics using experimental and observational studies and synthesis, focusing on the following questions:
-i) How do biodiversity and biodiversity-dependent ecosystem functions vary across temporal and spatial scales?</description>
+      <guid>/data/</guid>
+      <description>Open Data I collected a moderate amount of new data as part of my graduate research in Panama, but more recently have benefitted enormously from the generosity of others. All data sets are open access, and are available via DataDryad or Figshare. I am a member of Open Traits.
+  Panama Secondary Forest Traits: 17 traits measured on 55 woody species and up to 1700 individuals per trait.
+Download here</description>
     </item>
     
     <item>
-      <title>About</title>
+      <title></title>
+      <link>/equipo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/equipo/</guid>
+      <description>Equipo Investigador Principal Dylan Craven, Profesor Asociado, Centro de Modelación y Monitoreo de Ecosistemas, Universidad Mayor
+Dylan es un ecológo de bosques que investiga patrones temporales y espaciales de la biodiversidad y sus implicaciones, y usa aproximaciones de la ecología funcional y la macroecología para abordar esos temas. Para más información sobre sus intereses de investigación, consulte la páginas de sus publicaciones
+Asistente de Investigación Valentina Pérez, Ingeniera forestal, Universidad Mayor</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/join/</guid>
+      <description>Oportunidades Buscamos crear y mantener un grupo de investigación diverso, inclusivo y sobretodo apasionado por la biodiversidad, que está comprometido a aplicar lo que aprendemos para mejorar el mundo. Estamos comprometidos a guiar y apoyar a l@s integrantes del grupo a lograr sus metas profesionales.
+Pre-grado
+PhD
+Post-docs
+Participantes en un curso de servicios ecosistémicos en paisajes del trópico, Panamá
+Estudiantes de pre-grado Eng general, ofrecemos temas en dos áreas: i) ecología funcional y ii) macro-ecología.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/publications/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description></description>
+      <description>Publications Google Scholar | Publons
+If you don&amp;rsquo;t have access to a PDF, please send me an e-mail!
+2020 2019 2018 2017 2016 2015 2014 2013 2011 2010 2009 2007
+2020 Craven, D., Sande, M.T. van der, Meyer, C., Gerstner, K., Bennett, J.M., Giling, D.P., Hines, J., Phillips, H.R.P., May, F., Bannar‐Martin, K.H., Chase, J.M. &amp;amp; Keil, P. (2020) A cross-scale assessment of productivity–diversity relationships. Global Ecology and Biogeography, 29:1940–1955. doi:10.</description>
     </item>
     
     <item>
@@ -36,18 +60,22 @@ i) How do biodiversity and biodiversity-dependent ecosystem functions vary acros
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/</guid>
-      <description>Biodiversity patterns across islands at local and biogeographical scales Island ecosystems sustain a large proportion of global plant diversity, yet are critically imperiled due to global change. They are also a natural laboratory that can be used to examine how facets of biodiversity, ecosystem functioning, and biological invasions change from local to biogeographical scales. I am compiling a database of forest plots on islands across the Pacific Ocean to address these questions, in collaboration with Holger Kreft (U.</description>
+      <description>Functional Biogeography
+Island biogeography
+Diversity - Stability
+Secondary succession in tropical and temperate forests
+Drivers of functional diversity of woody plants and consequences for carbon storage Identifying the drivers of biodiversity and their relationships with ecosystem functioning across large spatial scales is essential for improving the conservation and management of natural ecosystems. Chile is a unique natural laboratory for studying spatial patterns of biodiversity’s multiple facets, given its great diversity in environmental conditions and topography and unique biogeographic history.</description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publications/</link>
+      <title>Home</title>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publications/</guid>
-      <description>Google Scholar| Publons
-Batterman, S. A., L. O. Hedin, M. van Breugel, J. Ransijn, D. J. Craven, and J. S. Hall. 2013. “Key Role of Symbiotic Dinitrogen Fixation in Tropical Forest Secondary Succession.” Nature 502 (7470): 224–7. https://doi.org/10.1038/nature12525.
- Bernhardt-Romermann, Markus, Lander Baeten, Dylan Craven, Pieter De Frenne, Radim Hédl, Jonathan Lenoir, Didier Bert, et al. 2015. “Drivers of Temporal Changes in Temperate Forest Plant Diversity Vary Across Spatial Scales.</description>
+      <guid>/about/</guid>
+      <description>Biodiversity | Functional Ecology &amp;amp; Biogeography Dr. Dylan Craven Centre for Ecosystem Modeling and Monitoring, Universidad Mayor We explore drivers of temporal and spatial patterns of biodiversity and biodiversity change and their consequences, mostly in grassland and forest ecosystems. We are based in Chile, whose unique geography and climate provide a compelling template to address the following questions:
+i) How do ecological and historical drivers jointly shape biodiversity patterns?
+ii) How do biodiversity and biodiversity-dependent ecosystem functions vary across temporal and spatial scales?</description>
     </item>
     
   </channel>
