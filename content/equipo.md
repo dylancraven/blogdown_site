@@ -38,4 +38,5 @@ Carla se ha desempeñado en proyectos de restauración ecológica y de conservac
 ### Carolina Córdova, Coordinadora logística    
 ![blaa6](/images/carola.png)    
 Ingeniera forestal y paisajista, Universidad de Chile  
+
 Carolina lleva muchos sombreros en su vida profesional, entre ellos, tiene una [empresa de paisajismo](https://weinmannia.cl/), y es la persona que hace pequeños y grandes milagros presupuestarios y nos facilita nuestros proyectos. 
