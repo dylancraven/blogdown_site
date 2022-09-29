@@ -1,4 +1,8 @@
-## Oportunidades     
+---
+title: "Join!/Unete!"
+output: html_document
+---
+## Oportunidades      
 
 Buscamos crear y mantener un grupo de investigación diverso, inclusivo y sobretodo apasionado por la biodiversidad, que está comprometido a aplicar lo que aprendemos para
 mejorar el mundo. Estamos comprometidos 
