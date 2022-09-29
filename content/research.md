@@ -26,7 +26,7 @@ _Current progress in functional trait sampling across central Chile (2020-2021)_
 
 Island ecosystems sustain a large proportion of global plant diversity, yet are critically imperiled due to global change. They are also a natural laboratory that can be used to examine how biodiversity, ecosystem functioning, and biological invasions change from local to biogeographical scales. I use an database of forest plots on islands across the Pacific Ocean to address these questions, in collaboration with Holger Kreft (U. of Gottingen), Patrick Weigelt (U. of Gottingen), and Tiffany Knight (iDiv / UFZ). Our initial work has focused on the Hawaiian Islands and now are expanding our focus to the entire Pacific (see [publications](/publications)).   
 
-![Islands](/images/islands2.png)
+![Islands](/images/islands33.png)
 _Land-bridge island in Tolima, Colombia_
 
 ## Monitoring multi-scale impacts of drought    
