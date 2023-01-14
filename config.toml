@@ -35,8 +35,8 @@ googleAnalytics = "UA-152694415-1"
 # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
-  src = "img/triangle.jpg"
-  desc = "Triangle"
+  src = "img/solo_verde2_notext.png"
+  desc = "Square"
 #[[Params.bigimg]]
 #  src = "img/sphere.jpg"
 #  desc = "Sphere"
