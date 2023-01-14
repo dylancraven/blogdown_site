@@ -1,6 +1,6 @@
 baseurl = "https://www.dylancraven.com"
 DefaultContentLanguage = "en-us"
-#title = "Dylan Craven"
+title = "Home"
 theme = "beautifulhugo"
 #pygmentsStyle = "trac"
 #pygmentsUseClasses = true
@@ -12,7 +12,7 @@ theme = "beautifulhugo"
 googleAnalytics = "UA-152694415-1"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  homeTitle = "Dylan Craven" # Set a different text for the header on the home page
 #  subtitle = "Build a beautiful and simple website in minutes"
   mainSections = ["Research","Publications","Team","Join","Data"]
   logo = "img/solo_verde2_notext.png" # Expecting square dimensions
@@ -48,7 +48,7 @@ googleAnalytics = "UA-152694415-1"
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Dylan Craven"
+  #name = "Dylan Craven"
   website = "www.dylancraven.com"
   #email = "youremail@domain.com"
   #facebook = "username"
