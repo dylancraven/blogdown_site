@@ -2,9 +2,6 @@ baseurl = "https://www.dylancraven.com"
 languageCode = "en-us"
 title = "Dylan Craven"
 theme = "hugo-lithium"
-googlefonts = ["Overpass Mono", "Overpass Mono"]
- fontbody = 'Overpass Mono'
- fontcode = 'Overpass Mono'
 
 
 googleAnalytics = "UA-152694415-1"
@@ -54,8 +51,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     [params.logo]
     url = "logo.png"
-    width = 50
-    height = 50
+    width = 75
+    height = 75
     alt = "Home"
 
 [markup]
