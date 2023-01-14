@@ -15,27 +15,27 @@ Apuesta mucho a la difusión de la ciencia como una herramienta para futuros cam
 
 ### Fiorella Gonzales Guillén, estudiante de doctorado, Pontificia Universidad Católica de Chile  
 ![blaa9](/images/Fiorella2.png)    
-Ecológa  
+Ecológa, Universidad Nacional de San Agustín de Arequipa (Perú)  
 Fiorella es ecóloga y en su doctorado examina los patrones e impulsores de la diversidad de las lomas costeras de Perú y Chile. 
 
-### Valentina Pérez, Asistente de investigación, Universidad Mayor  
+### Valentina Pérez, Asistente de Investigación, Universidad Mayor  
 ![blaa5](/images/ValentinaPerez.png)    
 Ingeniera  forestal, Universidad Mayor  
 Valentina tiene interés en la biogeografía de plantas, especialmente las plantas vasculares alto andinas, y le gusta mucho la educación ambiental.   
 
-### Elias Encina, Asistente de investigación, Universidad Mayor  
+### Elias Encina, Asistente de Investigación, Universidad Mayor  
 ![blaa3](/images/Elias2020.png)    
 Geógrafo, Universidad de Chile  
 Elias tiene interés principalmente en los insectos y quiere documentar su diversidad en 
 Chile.  
 
-### Carla Quinteros, Coordinadora de proyecto (ODES), Universidad Mayor    
+### Carla Quinteros, Coordinadora de Proyecto (ODES), Universidad Mayor    
 ![blaa12](/images/CarlaQuinteros5.png)  
 Arquitecta del Paisaje, Universidad de Chile  
 
 Carla se ha desempeñado en proyectos de restauración ecológica y de conservación, realizando trabajos vinculados a áreas naturales, Santuarios de la Naturaleza y especies vulnerables o en peligro de extinción. Su mayor motivación es el trabajo por la conservación de nuestros ecosistemas, su recuperación y protección.
 
-### Carolina Córdova, Coordinadora logística, Universidad Mayor    
+### Carolina Córdova, Coordinadora Logística, Universidad Mayor    
 ![blaa6](/images/carola.png)    
 Ingeniera forestal y paisajista, Universidad de Chile  
 
