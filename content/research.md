@@ -34,7 +34,9 @@ _Land-bridge island in Tolima, Colombia_
 With a multi-disciplinary group of colleagues, we are developing a multi-scale platform to 
 monitor drought and its multi-faceted impacts in Chile (**Observatorio de sequía para la agricultura y biodiversidad de Chile**; ODES), at national and regional scales. My team is focused on examining where and how biodiversity may buffer the impacts of 
 the extreme drought in Chile (2010-present).  
+
 ![Mapa](/images/Mapa_censores.png)  
+_Locations of sensors monitoring soil temperature and relative humidity across the Aconcagua valley (Chile)_  
 
 ## Mechanisms underlying ecosystem stability and community responses to global change   
 
