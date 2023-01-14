@@ -1,22 +1,14 @@
 @font-face {
-  font-family: 'Merriweather';
+  font-family: 'OverpassMono';
   font-style: normal;
   font-weight: 400;
-  src: local('Merriweather'), local('Merriweather-Regular'),
-       url('../fonts/merriweather-v13-latin-regular.woff2') format('woff2'),
-       url('../fonts/merriweather-v13-latin-regular.woff') format('woff');
-}
-@font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Lato Regular'), local('Lato-Regular'),
-       url('../fonts/lato-v11-latin-regular.woff2') format('woff2'),
-       url('../fonts/lato-v11-latin-regular.woff') format('woff');
+  src: local('OverpassMono'), local('OverpassMono-Light'),
+       url('../fonts/OverpassMono-Light.woff2') format('woff2');
 }
 body {
-  font-family: 'Merriweather', serif;
+  font-family: 'OverpassMono', sans-serif;
 }
 h1, h2, h3, h4, h5, h6, .nav, .article-duration, .archive-item-link, .footer {
-  font-family: 'Lato', sans-serif;
+  font-family: 'OverpassMono', sans-serif;
 }
+
