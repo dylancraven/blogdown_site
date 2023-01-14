@@ -1,8 +1,7 @@
 ## Open Data  
 ![Islands](/images/ElJiral_paisaje_b_w3_2.png)  
 
-I collected a moderate amount of new data as part of my graduate research in Panama, but more recently 
-have benefitted enormously from the generosity of others. All data sets are open access, and are available via 
+Our laboratory is committed to making the data that we collect available publicly. All data sets are open access, and are available via 
 DataDryad or Figshare. I am a member of
 [Open Traits](https://opentraits.org).   
 

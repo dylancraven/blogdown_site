@@ -1,4 +1,4 @@
-## Biodiversity | Functional Ecology & Biogeography
+## Functional Ecology & Biogeography
 
 ### Dr. Dylan Craven  
 
