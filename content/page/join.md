@@ -10,7 +10,7 @@ Buscamos crear y mantener un grupo de investigación diverso, inclusivo y sobret
 [**PhD**](#estudiantes-de-post-grado)   
 [**Post-docs**](#post-doctorantes)  
 
-![blaa](/images/ELTI_estudiantes22.png)  
+![blaa](/img/ELTI_estudiantes22.png)  
 _Participantes en un taller de servicios ecosistémicos en paisajes del trópico, Panamá_
 
 ### Estudiantes de pre-grado  

@@ -2,7 +2,7 @@
 title: "Open Data"
 output: html_document
 ---
-![Islands](img/ElJiral_paisaje_b_w3_2.png)  
+![Islands](/img/ElJiral_paisaje_b_w3_2.png)  
 
 Our laboratory is committed to making the data that we collect available publicly. All data sets are open access, and are available via 
 DataDryad or Figshare. I am a member of
