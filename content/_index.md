@@ -1,5 +1,5 @@
 ## Biodiversity | Functional Ecology & Biogeography
-![logo](/images/solo_verde33.png)
+![logo](/images/solo_verde333.png)
 
 ### Dr. Dylan Craven  
 
