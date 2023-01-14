@@ -47,10 +47,15 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    favicon = "solo_verde.png"
+    favicon = "favicon.png"
 
     [params.logo]
-    url = "solo_verde.png"
+    url = "logo.png"
     width = 50
     height = 50
     alt = "Home"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
