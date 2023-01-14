@@ -13,17 +13,23 @@ If you don't have access to a PDF, please send me a request via [**e-mail**](dyl
 
 ## 2022 
 
-Bach, W., Kreft, H., **Craven, D.**, König, C., Schrader, J., Taylor, A., Dawson, W., Essl, F., Lenzner, B., Marx, H.E., Meyer, C., Pergl, J., Pyšek, P., van Kleunen, M., Winter, M. and Weigelt, P. (2022), Phylogenetic composition of native island floras influences naturalized alien species richness. Ecography e06227. https://doi.org/10.1111/ecog.06227
+Bach, W., Kreft, H., **Craven, D.**, König, C., Schrader, J., Taylor, A., Dawson, W., Essl, F., Lenzner, B., Marx, H.E., Meyer, C., Pergl, J., Pyšek, P., van Kleunen, M., Winter, M. and Weigelt, P. (2022) Phylogenetic composition of native island floras influences naturalized alien species richness. Ecography e06227. https://doi.org/10.1111/ecog.06227
 
 Cesarz, S., **Craven, D.**, Auge, H., Bruelheide, H., Castagneyrol, B., Gutknecht, J., Hector, A., Jactel, H., Koricheva, J., Messier, C., Muys, B., O’Brien, M.J., Paquette, A., Ponette, Q., Potvin, C., Reich, P.B., Scherer-Lorenzen, M., Smith, A.R., Verheyen, K. & Eisenhauer, N. (2022) Tree diversity effects on soil microbial biomass and respiration are context dependent across forest diversity experiments. Global Ecology and Biogeography, 872–885.
 
-Guzmán-Jacob, V., Guerrero-Ramírez, N. R., **Craven, D.**, Brant Paterno, G., Taylor, A., Krömer, T., Wanek, W., Zotz, G., & Kreft, H. (2022). Broad- and small-scale environmental gradients drive variation in chemical, but not morphological, leaf traits of vascular epiphytes. Functional Ecology, 36, 1858– 1872. https://doi.org/10.1111/1365-2435.14084
+Díaz, S., et al. (including **Craven, D.**). (2022) The global spectrum of plant form and function: enhanced species-level trait dataset. Scientific Data 9:755.
+
+Guzmán-Jacob, V., Guerrero-Ramírez, N. R., **Craven, D.**, Brant Paterno, G., Taylor, A., Krömer, T., Wanek, W., Zotz, G., & Kreft, H. (2022) Broad- and small-scale environmental gradients drive variation in chemical, but not morphological, leaf traits of vascular epiphytes. Functional Ecology, 36, 1858– 1872. https://doi.org/10.1111/1365-2435.14084
 
 Hong, P., Schmid, B., De Laender, F., Eisenhauer, N., Zhang, X., Chen, H., **Craven, D.**, De Boeck, H.J., Hautier, Y., Petchey, O.L., Reich, P.B., Steudel, B., Striebel, M., Thakur, M.P. and Wang, S. (2021) Biodiversity promotes ecosystem functioning despite environmental change. Ecology Letters, doi: 10.1111/ele.13936.
 
-Jakovac, C.C., et al. (including **Craven, D.**) (2022) Strong floristic distinctiveness across Neotropical successional forests. Science Advances, 8, eabn176*7.
+Jakovac, C.C., et al. (including **Craven, D.**). (2022) Strong floristic distinctiveness across Neotropical successional forests. Science Advances, 8, eabn1767.
 
-Tolmos, M. L., Kreft, H., Ramirez, J., Ospina, R. and **Craven**, D. (2022). Water and energy availability mediate biodiversity patterns along an elevational gradient in the tropical Andes. Journal of Biogeography, 49, 712– 726. https://doi.org/10.1111/jbi.14332
+Santiago-Rosario, L. Y., K. E. Harms, and **D. Craven**. (2022) Contrasts among cationic phytochemical landscapes in the southern United States. Plant-Environment Interactions 3:226–241.
+
+Sabater, S., A. Freixa, L. Jiménez, J. López-Doval, G. Pace, C. Pascoal, N. Perujo, **D. Craven**, and J. D. González-Trujillo. (2022) Extreme weather events threaten biodiversity and functions of river ecosystems: evidence from a meta-analysis. Biological Reviews n/a.
+
+Tolmos, M. L., Kreft, H., Ramirez, J., Ospina, R. and **Craven**, D. (2022) Water and energy availability mediate biodiversity patterns along an elevational gradient in the tropical Andes. Journal of Biogeography, 49, 712– 726. https://doi.org/10.1111/jbi.14332
 
 ## 2021    
 
