@@ -2,6 +2,7 @@ baseurl = "https://www.dylancraven.com"
 languageCode = "en-us"
 title = "Dylan Craven"
 theme = "hugo-lithium"
+google_fonts = "family=B612+Mono&family=Open+Sans"
 
 googleAnalytics = "UA-152694415-1"
 disqusShortname = ""
