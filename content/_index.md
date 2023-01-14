@@ -1,5 +1,4 @@
 ## Biodiversity | Functional Ecology & Biogeography
-![logo](/images/solo_verde333.png)
 
 ### Dr. Dylan Craven  
 
@@ -14,3 +13,5 @@ We explore drivers of temporal and spatial patterns of biodiversity and biodiver
 __ii) How does biodiversity mediate ecosystem processes to global change drivers across temporal and spatial scales?__
 
 If interested in joining our research team or collaborating with us, please check out [opportunities](/join) or contact Dr. Craven via e-mail: dylan.craven[at]umayor.cl (English/Español).
+
+![logo](/images/solo_verde333.png)
