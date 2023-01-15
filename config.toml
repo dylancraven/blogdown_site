@@ -12,7 +12,7 @@ theme = "beautifulhugo"
 googleAnalytics = "UA-152694415-1"
 
 [Params]
-  homeTitle = "Dylan Craven" # Set a different text for the header on the home page
+  homeTitle = "Functional Ecology & Biogeography" # Set a different text for the header on the home page
 #  subtitle = "Build a beautiful and simple website in minutes"
   mainSections = ["Research","Publications","Team","Join","Data"]
   logo = "img/solo_verde2_notext.png" # Expecting square dimensions
