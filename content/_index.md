@@ -1,4 +1,3 @@
-## 
 
 ### [Centre for Ecosystem Modeling and Monitoring](https://cem.umayor.cl/)
 ### Universidad Mayor
