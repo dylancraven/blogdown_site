@@ -14,7 +14,7 @@ googleAnalytics = "UA-152694415-1"
 [Params]
   homeTitle = "Functional Ecology & Biogeography" # Set a different text for the header on the home page
 #  subtitle = "Build a beautiful and simple website in minutes"
-  mainSections = ["Research","Publications","Team","Join","Data"]
+  mainSections = ["Research","Team","Join","Publications","Data"]
   logo = "img/solo_verde2_notext.png" # Expecting square dimensions
      width = 250
      height = 250
@@ -87,17 +87,17 @@ googleAnalytics = "UA-152694415-1"
 [[menu.main]]
     name = "Publications"
     url = "page/publications/"
-    weight = 2
+    weight = 4
 
 [[menu.main]]
     name = "Equipo"
     url = "page/equipo/"
-    weight = 3
+    weight = 2
     
 [[menu.main]]
     name = "Join"
     url = "page/join/"
-    weight = 4
+    weight = 3
     
 [[menu.main]]
     name = "Data"
