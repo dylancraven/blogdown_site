@@ -85,20 +85,20 @@ googleAnalytics = "UA-152694415-1"
     weight = 1
 
 [[menu.main]]
-    name = "Publications"
-    url = "page/publications/"
-    weight = 4
-
-[[menu.main]]
     name = "Equipo"
     url = "page/equipo/"
     weight = 2
-    
+
 [[menu.main]]
     name = "Join"
     url = "page/join/"
     weight = 3
-    
+
+[[menu.main]]
+    name = "Publications"
+    url = "page/publications/"
+    weight = 4
+
 [[menu.main]]
     name = "Data"
     url = "page/data/"

@@ -1,5 +1,5 @@
 ---
-title: "Join!/Unete!"
+title: "¡Únete!"
 output: html_document
 ---
 ## Oportunidades      
@@ -29,4 +29,4 @@ nuevo programa de [ecologia integrativa](https://www.umayor.cl/postgradomayor/20
 ### Postdoctorantes  
 
 Buscamos a candidat@s que tienen interés en desarrollar lineas de investigación complementarias a
-las del laboratorio, principalmente en **biogeografia funcional** o temas afines. Estoy comprometido a trabajar con candidat@s a desarrollar propuestas. 
+las del laboratorio, principalmente en **biogeografia funcional** o temas afines. Estamos comprometidos a trabajar con candidat@s a desarrollar propuestas para concursos nacionales e internacionales. 

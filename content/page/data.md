@@ -4,9 +4,7 @@ output: html_document
 ---
 ![Islands](/img/ElJiral_paisaje_b_w3_2.png)  
 
-Our laboratory is committed to making the data that we collect available publicly. All data sets are open access, and are available via 
-DataDryad or Figshare. I am a member of
-[Open Traits](https://opentraits.org).   
+Our laboratory is committed to making the data that we collect available publicly. All data sets are open access, and are available via DataDryad or Figshare. Dylan is a member of the [Open Traits Initiative](https://opentraits.org).   
 
 1. __Panama Secondary Forest Traits__: 17 traits measured on 55 woody species and up to 1700 individuals per trait.  
    Download [here](https://figshare.com/articles/Functional_Leaf_Traits_55_spp_in_central_Panama_/1402253)    
