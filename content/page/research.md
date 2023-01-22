@@ -24,7 +24,7 @@ _Current progress in functional trait sampling (approx. 150 woody species) acros
 
 ## Biodiversity patterns across islands at local and biogeographical scales  
 
-Island ecosystems sustain a large proportion of global plant diversity, yet are critically imperiled due to global change. They are also a natural laboratory that can be used to examine how biodiversity, ecosystem functioning, and biological invasions change from local to biogeographical scales. We use an database of forest plots on islands across the Pacific Ocean to address these questions, in collaboration with Holger Kreft (U. of Gottingen), Patrick Weigelt (U. of Gottingen), and Tiffany Knight (iDiv / UFZ). Our initial work has focused on the Hawaiian Islands and now are expanding our focus to the entire Pacific Ocean (see [publications](/publications)).   
+Island ecosystems sustain a large proportion of global plant diversity, yet are critically imperiled due to global change. They are also a natural laboratory that can be used to examine how biodiversity, ecosystem functioning, and biological invasions change from local to biogeographical scales. We use an database of forest plots on islands across the Pacific Ocean to address these questions, in collaboration with Holger Kreft (U. of Gottingen), Patrick Weigelt (U. of Gottingen), and Tiffany Knight (iDiv / UFZ). Our initial work has focused on the Hawaiian Islands and now are expanding our focus to the entire Pacific Ocean (see [publications]({{< ref "/page/publications" >}}).   
 
 ![Islands](/img/islands33.png)
 _Land-bridge island in Tolima, Colombia_
