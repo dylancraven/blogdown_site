@@ -15,7 +15,7 @@ googleAnalytics = "UA-152694415-1"
   homeTitle = "Functional Ecology & Biogeography" # Set a different text for the header on the home page
 #  subtitle = "Build a beautiful and simple website in minutes"
   mainSections = ["Research","Team","Join","Publications","Data"]
-  logo = "img/solo_verde2_notext.png" # Expecting square dimensions
+  logo = "img/solo_verde33_notext.png" # Expecting square dimensions
      width = 250
      height = 250
      alt = "Home"
@@ -35,7 +35,7 @@ googleAnalytics = "UA-152694415-1"
 # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
-  src = "img/solo_verde2_notext.png"
+  src = "img/solo_verde33_notext.png"
   desc = "Square"
 #[[Params.bigimg]]
 #  src = "img/sphere.jpg"

@@ -16,4 +16,4 @@ We explore drivers of temporal and spatial patterns of biodiversity and biodiver
 
 If interested in joining our research team or collaborating with us, please check out [opportunities]({{< ref "/page/equipo" >}}) or contact Dr. Craven via e-mail: dylan.craven[at]umayor.cl (English/Español).
 
-![logo](/img/solo_verde333.png)
+![logo](/img/solo_verde33.png)
