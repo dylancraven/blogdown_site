@@ -3,13 +3,13 @@ title: "Publications"
 output: html_document
 ---
 
+## Recent publications  
+
 {{< gallery >}}
   {{< figure src="/img/Gonzalesetal.png" link="/img/Gonzalesetal.png" caption="Fiorella's 1st PhD chapter!" >}}
   {{< figure src="/img/Tolmosetal.png" link="/img/Tolmosetal.png" caption="Maria's master's thesis!" >}}
   {{< figure src="/img/Poorteretal.png" link="/img/Poorteretal.png" caption="Science!"  >}}
-  {{< figure src="/img/Cravenetal_JVS.png" link="/img/Cravenetal_JVS.png" caption="Invasion debts mask future impacts of biological invasions."  >}}
 {{< /gallery >}}
-
 
 
 [Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1)  
