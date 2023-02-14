@@ -14,6 +14,6 @@ We explore drivers of temporal and spatial patterns of biodiversity and biodiver
 
 **ii) How does biodiversity mediate ecosystem processes to global change drivers across temporal and spatial scales?**
 
-If interested in joining our research team or collaborating with us, please check out [opportunities]({{< ref "/page/equipo" >}}) or contact Dr. Craven via e-mail: dylan.craven[at]umayor.cl (English/Español).
+If interested in joining our research team or collaborating with us, please check out [opportunities]({{< ref "/page/equipo" >}}) or contact Dr. Craven via e-mail: <dylan.craven@umayor.cl> (English/Español). Our lab is also affiliated with the [Data Observatory](https://www.dataobservatory.net/), and is currently supported by [ANID](https://www.anid.cl/).
 
 ![logo](/img/solo_verde33.png)

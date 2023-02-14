@@ -17,13 +17,13 @@ _Participantes en un taller de servicios ecosistémicos en paisajes del trópico
 
 En general, ofrecemos temas en dos áreas: i) **ecología funcional** y 
 ii) **macro-ecología**. Se recomienda que revisan nuestra [investigación]({{< ref "/page/research" >}}), y
-luego enviar un correo al <dylan.craven@umayor.cl> para conversar sobre posibles temas.  
+luego enviar un email al <dylan.craven@umayor.cl> para conversar sobre posibles temas.  
 
 ### Estudiantes de post-grado (PhD) 
 
 Estoy comprometido a trabajar con candidat@s a desarrollar propuestas de becas que financian 
 sus estudios doctorales. Para chilenos, se recomienda que postulen directamente por su beca al 
-nuevo programa de [ecologia integrativa](https://www.umayor.cl/postgradomayor/20007?programa=doctorado-en-ecologia-integrativa-(santiago)&medio=20007) de la Universidad Mayor. Favor de enviar un correo al <dylan.craven@umayor.cl> 
+nuevo programa de [ecologia integrativa](https://www.umayor.cl/postgradomayor/20007?programa=doctorado-en-ecologia-integrativa-(santiago)&medio=20007) de la Universidad Mayor. Favor de enviar un email al <dylan.craven@umayor.cl> 
 **con anticipación** para discutir ideas e identificar fuentes de finaciación.   
 
 ### Postdoctorantes  

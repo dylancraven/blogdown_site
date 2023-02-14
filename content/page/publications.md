@@ -3,8 +3,17 @@ title: "Publications"
 output: html_document
 ---
 
+{{< gallery >}}
+  {{< figure src="/img/Gonzalesetal.png" link="/img/Gonzalesetal.png" caption="Fiorella's 1st PhD chapter!" >}}
+  {{< figure src="/img/Tolmosetal.png" link="/img/Tolmosetal.png" caption="Maria's master's thesis!" >}}
+  {{< figure src="/img/Poorteretal.png" link="/img/Poorteretal.png" caption="Science!"  >}}
+  {{< figure src="/img/Cravenetal_JVS.png" link="/img/Cravenetal_JVS.png" caption="Invasion debts mask future impacts of biological invasions."  >}}
+{{< /gallery >}}
+
+
+
 [Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1)  
-If you don't have access to a PDF, please send me a request via [**e-mail**](mailto: dylan.craven@umayor.cl).
+If you don't have access to a PDF, please send me a request via **e-mail** (<dylan.craven@umayor.cl>).
 
 1.  Bach, W., Kreft, H., **Craven, D.**, König, C., Schrader, J., Taylor, A., Dawson, W., Essl, F., Lenzner, B., Marx, H.E., Meyer, C., Pergl, J., Pyšek, P., van Kleunen, M., Winter, M. and Weigelt, P. (2022) Phylogenetic composition of native island floras influences naturalized alien species richness. Ecography e06227. <https://doi.org/10.1111/ecog.06227>
 
