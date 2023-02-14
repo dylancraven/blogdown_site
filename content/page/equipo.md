@@ -5,7 +5,7 @@ output: html_document
 ### Dylan Craven, Investigador Principal, Universidad Mayor  
 ![blaa2](/img/dylancraven2.png)  
 _Ecológo, Yale University (School of the Environment)_  
-Dylan investiga patrones temporales y espaciales de la biodiversidad y sus implicaciones, y usa aproximaciones de la ecología funcional y la macroecología para abordar esos temas. Para más información sobre sus intereses de investigación, consulte la página de sus [publicaciones]({{< ref "/page/publications" >}})   
+Dylan investiga patrones temporales y espaciales de la biodiversidad y sus implicaciones, y usa aproximaciones de la ecología funcional y la macroecología para abordar esos temas. Para más información sobre sus intereses de investigación, consulte la página de sus [publicaciones]({{< ref "/page/publications" >}}), o contacte a Dylan por [**e-mail**](mailto: dylan.craven@umayor.cl).   
 
 ### María del Pilar Fernández Murillo, estudiante de doctorado, Universidad Mayor    
 ![blaa4](/img/Pili.png)    
