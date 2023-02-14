@@ -3,6 +3,13 @@ title: "Research"
 output: html_document
 ---
 
+{{< gallery >}}
+  {{< figure src="/img/Muestreo2.png" link="/img/Muestreo2.png" caption="Muestreo de rasgos funcionales en Chile" >}}
+  {{< figure src="/img/Mapa_censores.png" link="/img/Mapa_censores.png" caption="Monitoreo de sequía en el Valle de Aconcagua" >}}
+  {{< figure src="/img/experiment2.png" link="/img/experiment2.png" caption="Experimento de biodiversidad y función ecosistémica"  >}}
+{{< /gallery >}}
+
+
 [**Functional Biogeography**](#drivers-of-functional-diversity-of-woody-plants-and-consequences-for-carbon-storage) 
 
 [**Island Biogeography**](#biodiversity-patterns-across-islands-at-local-and-biogeographical-scales)

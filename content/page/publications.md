@@ -11,6 +11,7 @@ output: html_document
   {{< figure src="/img/Poorteretal.png" link="/img/Poorteretal.png" caption="Science!"  >}}
 {{< /gallery >}}
 
+## Publications (2007-present)  
 
 [Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1)  
 If you don't have access to a PDF, please send me a request via **e-mail** (<dylan.craven@umayor.cl>).
