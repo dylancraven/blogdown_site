@@ -9,7 +9,7 @@ theme = "beautifulhugo"
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-googleAnalytics = "UA-152694415-1"
+googleAnalytics = "G-6D712T1JVB"
 
 [Params]
   homeTitle = "Functional Ecology & Biogeography" # Set a different text for the header on the home page
