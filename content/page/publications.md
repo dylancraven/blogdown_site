@@ -19,7 +19,7 @@ If you don't have access to a PDF, please send me a request via **e-mail** (<dyl
 
 1. Gonzales-Guillen, N., **Craven, D.**, and J. Armesto. (2023) Islands in the mist: A systematic review of the coastal lomas of South America. Accepted, J. of Arid Environments 211: 104942.
 
-2. Rüger, N., et al. (including **Craven, D.**). (2023). Successional shifts in tree demographic strategies in wet and dry Neotropical forests. Global Ecology and Biogeography, 32, 1002– 1014. 
+2. Rüger, N., et al. (including **Craven, D.**). (2023) Successional shifts in tree demographic strategies in wet and dry Neotropical forests. Global Ecology and Biogeography, 32, 1002– 1014. 
 
 3. Sabater, S., Freixa, A., Jiménez, L., López-Doval, J., Pace, G., Pascoal, C., Perujo, N., **Craven, D.**, & González-Trujillo, J.D. 2023. Extreme weather events threaten biodiversity and functions of river ecosystems: evidence from a meta-analysis. Biological Reviews 98: 450-46.
 
@@ -29,7 +29,7 @@ If you don't have access to a PDF, please send me a request via **e-mail** (<dyl
 
 2.  Cesarz, S., **Craven, D.**, Auge, H., Bruelheide, H., Castagneyrol, B., Gutknecht, J., Hector, A., Jactel, H., Koricheva, J., Messier, C., Muys, B., O'Brien, M.J., Paquette, A., Ponette, Q., Potvin, C., Reich, P.B., Scherer-Lorenzen, M., Smith, A.R., Verheyen, K. & Eisenhauer, N. (2022) Tree diversity effects on soil microbial biomass and respiration are context dependent across forest diversity experiments. Global Ecology and Biogeography, 872--885.
 
-3.  Díaz, S., et al. (including **Craven, D.**). (2023) The global spectrum of plant form and function: enhanced species-level trait dataset. Scientific Data 9:755.
+3.  Díaz, S., et al. (including **Craven, D.**). (2022) The global spectrum of plant form and function: enhanced species-level trait dataset. Scientific Data 9:755.
 
 4.  Guzmán-Jacob, V., Guerrero-Ramírez, N. R., **Craven, D.**, Brant Paterno, G., Taylor, A., Krömer, T., Wanek, W., Zotz, G., & Kreft, H. (2022) Broad- and small-scale environmental gradients drive variation in chemical, but not morphological, leaf traits of vascular epiphytes. Functional Ecology, 36, 1858-- 1872. <https://doi.org/10.1111/1365-2435.14084>
 
