@@ -71,9 +71,9 @@ If you don't have access to a PDF, please send me a request via **e-mail** (<dyl
 
 1.  **Craven, D.**, Sande, M.T. van der, Meyer, C., Gerstner, K., Bennett, J.M., Giling, D.P., Hines, J., Phillips, H.R.P., May, F., Bannar‐Martin, K.H., Chase, J.M. & Keil, P. (2020) A cross-scale assessment of productivity--diversity relationships. Global Ecology and Biogeography, 29:1940--1955.
 
-2.  Aquilué, N., Filotas, É., **Craven, D.**, Fortin, M.-J., Brotons, L. & Messier, C. 2020. Evaluating forest resilience to global threats using functional response traits and network properties. Ecological Applications, 30, e02095. <doi:10.1002/eap.2095>
+2.  Aquilué, N., Filotas, É., **Craven, D.**, Fortin, M.-J., Brotons, L. & Messier, C. 2020. Evaluating forest resilience to global threats using functional response traits and network properties. Ecological Applications, 30, e02095.
 
-3.  Guzmán-Jacob, V., Zotz, G., **Craven, D.**, Taylor, A., Krömer, T., Monge-González, M. L., & Kreft, H. (2020). Effects of forest-use intensity on vascular epiphyte diversity along an elevational gradient. Diversity and Distributions, 26(1), 4--15. <doi:10.1111/ddi.12992>
+3.  Guzmán-Jacob, V., Zotz, G., **Craven, D.**, Taylor, A., Krömer, T., Monge-González, M. L., & Kreft, H. (2020). Effects of forest-use intensity on vascular epiphyte diversity along an elevational gradient. Diversity and Distributions, 26(1), 4--15.
 
 4.  Kattge, J., Bönisch, G., Díaz, S., Lavorel, S., Prentice, I. C., Leadley, P., ... Wirth, C. (2020). TRY plant trait database -- enhanced coverage and open access. Global Change Biology, 26(1), 119--188.
 
@@ -85,17 +85,17 @@ If you don't have access to a PDF, please send me a request via **e-mail** (<dyl
 
 2.  **Craven, D.**, Knight, T. M., Barton, K. E., Bialic-Murphy, L., & Chase, J. M. (2019). Dissecting macroecological and macroevolutionary patterns of forest biodiversity across the Hawaiian archipelago. Proceedings of the National Academy of Sciences, 116(33), 16436--16441.
 
-3.  **Craven, D.**, Winter, M., Hotzel, K., Gaikwad, J., Eisenhauer, N., Hohmuth, M., ... Wirth, C. (2019). Evolution of interdisciplinarity in biodiversity science. Ecology and Evolution, 9(12), 6744--6755. <doi:10.1002/ece3.5244>
+3.  **Craven, D.**, Winter, M., Hotzel, K., Gaikwad, J., Eisenhauer, N., Hohmuth, M., ... Wirth, C. (2019). Evolution of interdisciplinarity in biodiversity science. Ecology and Evolution, 9(12), 6744--6755.
 
-4.  Eisenhauer, N., Ferlian, O., **Craven, D.**, Hines, J., & Jochum, M. (2019). Ecosystem responses to exotic earthworm invasion in northern North American forests. Research Ideas and Outcomes, 5, e34564. <doi:10.3897/rio.5.e34564>
+4.  Eisenhauer, N., Ferlian, O., **Craven, D.**, Hines, J., & Jochum, M. (2019). Ecosystem responses to exotic earthworm invasion in northern North American forests. Research Ideas and Outcomes, 5, e34564.
 
-5.  Piotto, D., **Craven, D.**, Montagnini, F., Ashton, M., Oliver, C., & Thomas, W. W. (2019). Successional, spatial, and seasonal changes in seed rain in the Atlantic forest of southern Bahia, Brazil. PLOS ONE, 14(12), 1--15. <doi:10.1371/journal.pone.0226474>
+5.  Piotto, D., **Craven, D.**, Montagnini, F., Ashton, M., Oliver, C., & Thomas, W. W. (2019). Successional, spatial, and seasonal changes in seed rain in the Atlantic forest of southern Bahia, Brazil. PLOS ONE, 14(12), 1--15. 
 
-6.  Poorter, L., Rozendaal, D. M. A., Bongers, F., de Almeida-Cortez, J. S., Almeyda Zambrano, A. M., Álvarez, F. S., ... Westoby, M. (2019). Wet and dry tropical forests show opposite successional pathways in wood density but converge over time. Nature Ecology & Evolution, 3(6), 928--934. <doi:10.1038/s41559-019-0882-6>
+6.  Poorter, L., Rozendaal, D. M. A., Bongers, F., de Almeida-Cortez, J. S., Almeyda Zambrano, A. M., Álvarez, F. S., ... Westoby, M. (2019). Wet and dry tropical forests show opposite successional pathways in wood density but converge over time. Nature Ecology & Evolution, 3(6), 928--934.
 
-7.  Schulze, E. D., **Craven, D.**, Durso, A. M., Reif, J., Guderle, M., Kroiher, F., ... Eisenhauer, N. (2019). Positive association between forest management, environmental change, and forest bird abundance. Forest Ecosystems, 6(1), 3. <doi:10.1186/s40663-019-0160-8>
+7.  Schulze, E. D., **Craven, D.**, Durso, A. M., Reif, J., Guderle, M., Kroiher, F., ... Eisenhauer, N. (2019). Positive association between forest management, environmental change, and forest bird abundance. Forest Ecosystems, 6(1), 3. 
 
-8.  van Breugel, M., **Craven, D.**, Lai, H. R., Baillon, M., Turner, B. L., & Hall, J. S. (2019). Soil nutrients and dispersal limitation shape compositional variation in secondary tropical forests across multiple scales. Journal of Ecology, 107(2), 566--581. <doi:10.1111/1365-2745.13126>
+8.  van Breugel, M., **Craven, D.**, Lai, H. R., Baillon, M., Turner, B. L., & Hall, J. S. (2019). Soil nutrients and dispersal limitation shape compositional variation in secondary tropical forests across multiple scales. Journal of Ecology, 107(2), 566--581.
 
 9.  Zemp, D. C., Ehbrecht, M., Seidel, D., Ammer, C., **Craven, D.**, Erkelenz, J., ... Kreft, H. (2019). Mixed-species tree plantings enhance structural complexity in oil palm plantations. Agriculture, Ecosystems & Environment, 283, 106564.
 
@@ -161,7 +161,7 @@ If you don't have access to a PDF, please send me a request via **e-mail** (<dyl
 
 4.  van Breugel, M., Ransijn, J., **Craven, D.**, Bongers, F., & Hall, J. S. (2011). Estimating carbon stock in secondary forests: Decisions and uncertainties associated with allometric biomass models. Forest Ecology and Management, 262(8), 1648--1657.
 
-1.  **Craven, D.**, Gulamhussein, S., & Berlyn, G. P. (2010). Physiological and anatomical responses of Acacia koa (Gray) seedlings to varying light and drought conditions. Environmental and Experimental Botany, 69(2), 205--213. <doi:10.1016/j.envexpbot.2010.04.002>
+1.  **Craven, D.**, Gulamhussein, S., & Berlyn, G. P. (2010). Physiological and anatomical responses of Acacia koa (Gray) seedlings to varying light and drought conditions. Environmental and Experimental Botany, 69(2), 205--213.
 
 2.  Piotto, D., **Craven, D.**, Montagnini, F., & Alice, F. (2010). Silvicultural and economic aspects of pure and mixed native tree species plantations on degraded pasturelands in humid Costa Rica. New Forests, 39(3), 369--385. 
 
