@@ -8,7 +8,7 @@ Buscamos crear y mantener un grupo de investigación diverso, inclusivo y sobret
 
 [**Pre-grado**](#estudiantes-de-pre-grado)   
 [**PhD**](#estudiantes-de-post-grado)   
-[**Post-docs**](#post-doctorantes)  
+[**Post-doctorados**](#post-doctorantes)  
 
 ![blaa](/img/ELTI_estudiantes22.png)  
 _Participantes en un taller de servicios ecosistémicos en paisajes del trópico, Panamá_
@@ -22,9 +22,9 @@ luego enviar un email al <dylan.craven@umayor.cl> para conversar sobre posibles 
 ### Estudiantes de post-grado (PhD) 
 
 Estoy comprometido a trabajar con candidat@s a desarrollar propuestas de becas que financian 
-sus estudios doctorales. Para chilenos, se recomienda que postulen directamente por su beca al 
-nuevo programa de [ecologia integrativa](https://www.umayor.cl/postgradomayor/20007?programa=doctorado-en-ecologia-integrativa-(santiago)&medio=20007) de la Universidad Mayor. Favor de enviar un email al <dylan.craven@umayor.cl> 
-**con anticipación** para discutir ideas e identificar fuentes de finaciación.   
+sus estudios doctorales. Para chilenos, se recomienda que postulen directamente al 
+programa de doctorado en [ecologia integrativa](https://www.umayor.cl/postgradomayor/20007?programa=doctorado-en-ecologia-integrativa-(santiago)&medio=20007) de la Universidad Mayor, que recién fue acreditado por tres años (2023-2025). Favor de enviar un email al <dylan.craven@umayor.cl> 
+para discutir ideas e identificar fuentes de finaciación.   
 
 ### Postdoctorantes  
 

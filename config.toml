@@ -37,6 +37,7 @@ googleAnalytics = "G-6D712T1JVB"
 #[[Params.bigimg]]
   src = "img/solo_verde33_notext.png"
   desc = "Square"
+  
 #[[Params.bigimg]]
 #  src = "img/sphere.jpg"
 #  desc = "Sphere"
