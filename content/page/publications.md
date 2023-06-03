@@ -33,13 +33,13 @@ If you don't have access to a PDF, please send me a request via **e-mail** (<dyl
 
 4.  Guzmán-Jacob, V., Guerrero-Ramírez, N. R., **Craven, D.**, Brant Paterno, G., Taylor, A., Krömer, T., Wanek, W., Zotz, G., & Kreft, H. (2022) Broad- and small-scale environmental gradients drive variation in chemical, but not morphological, leaf traits of vascular epiphytes. Functional Ecology, 36, 1858--1872.
 
-5.  Hong, P., Schmid, B., De Laender, F., Eisenhauer, N., Zhang, X., Chen, H., **Craven, D.**, De Boeck, H.J., Hautier, Y., Petchey, O.L., Reich, P.B., Steudel, B., Striebel, M., Thakur, M.P. and Wang, S. (2021) Biodiversity promotes ecosystem functioning despite environmental change. Ecology Letters, doi: 10.1111/ele.13936.
+5.  Hong, P., Schmid, B., De Laender, F., Eisenhauer, N., Zhang, X., Chen, H., **Craven, D.**, De Boeck, H.J., Hautier, Y., Petchey, O.L., Reich, P.B., Steudel, B., Striebel, M., Thakur, M.P. and Wang, S. (2021) Biodiversity promotes ecosystem functioning despite environmental change. Ecology Letters, 25, 555--569.
 
 6.  Jakovac, C.C., et al. (including **Craven, D.**). (2022) Strong floristic distinctiveness across Neotropical successional forests. Science Advances, 8, eabn1767.
 
 7.  Santiago-Rosario, L. Y., K. E. Harms, and **D. Craven**. (2022) Contrasts among cationic phytochemical landscapes in the southern United States. Plant-Environment Interactions 3:226--241.
 
-8.  Sabater, S., A. Freixa, L. Jiménez, J. López-Doval, G. Pace, C. Pascoal, N. Perujo, **D. Craven**, and J. D. González-Trujillo. (2022) Extreme weather events threaten biodiversity and functions of river ecosystems: evidence from a meta-analysis. Biological Reviews n/a.
+8.  Sabater, S., A. Freixa, L. Jiménez, J. López-Doval, G. Pace, C. Pascoal, N. Perujo, **D. Craven**, and J. D. González-Trujillo. (2022) Extreme weather events threaten biodiversity and functions of river ecosystems: evidence from a meta-analysis. Biological Reviews, 98(2), 450--461.
 
 9.  Tolmos, M. L., Kreft, H., Ramirez, J., Ospina, R. and **Craven**, D. (2022) Water and energy availability mediate biodiversity patterns along an elevational gradient in the tropical Andes. Journal of Biogeography, 49, 712--726.
 
