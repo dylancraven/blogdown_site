@@ -4,7 +4,7 @@ output: html_document
 ---
 
 {{< gallery >}}
-  {{< figure src="/img/Muestreo2.png" link="/img/Muestreo2.png" caption="Muestreo de rasgos funcionales en Chile" >}}
+  {{< figure src="/img/Muestreo2.png" link="/img/FD_muestreo.png" caption="Muestreo de rasgos funcionales en Chile" >}}
   {{< figure src="/img/Mapa_censores.png" link="/img/Mapa_censores.png" caption="Monitoreo de sequía en el Valle de Aconcagua" >}}
   {{< figure src="/img/experiment2.png" link="/img/experiment2.png" caption="Experimento de biodiversidad y función ecosistémica"  >}}
 {{< /gallery >}}
@@ -26,7 +26,7 @@ Identifying the drivers of biodiversity and their relationships with ecosystem f
 
 In this project, we aim to identify the environmental, geographical, and anthropogenic factors that shape spatial patterns of woody plant diversity across Chile and to quantify the extent to which carbon storage is affected by biodiversity.  
 
-![Functional_biogeography](/img/Muestreo2.png)  
+![Functional_biogeography](/img/FD_muestreo.png)  
 _Current progress in functional trait sampling (approx. 150 woody species) across central and southern Chile (2020-2022)_  
 
 ## Biodiversity patterns across islands at local and biogeographical scales  

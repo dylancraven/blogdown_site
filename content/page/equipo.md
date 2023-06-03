@@ -19,16 +19,10 @@ Apuesta mucho a la difusión de la ciencia como una herramienta para futuros cam
 _Ecológa, Universidad Nacional de San Agustín de Arequipa (Perú)_  
 Fiorella es ecóloga y en su doctorado examina los patrones e impulsores de la diversidad de las lomas costeras de Perú y Chile. 
 
-### Valentina Pérez, Asistente de Investigación, Universidad Mayor  
-![blaa5](/img/ValentinaPerez.png)    
-_Ingeniera  forestal, Universidad Mayor_  
-Valentina tiene interés en la biogeografía de plantas, especialmente las plantas vasculares alto andinas, y le gusta mucho la educación ambiental.   
-
-### Elias Encina, Asistente de Investigación, Universidad Mayor  
+### Elias Encina, estudiante de doctorado, Universidad Mayor 
 ![blaa3](/img/Elias2020.png)    
 _Geógrafo, Universidad de Chile_  
-Elias tiene interés principalmente en los insectos y quiere documentar su diversidad en 
-Chile.  
+Elias tiene interés en los impactos de las invasiones biológicas en la diversidad taxonòmica y funcional de las abejas nativas en Chile central.  
 
 ### Carla Quinteros, Coordinadora de Proyecto (ODES), Universidad Mayor    
 ![blaa12](/img/CarlaQuinteros5.png)  
