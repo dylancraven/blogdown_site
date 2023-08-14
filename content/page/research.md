@@ -22,7 +22,7 @@ output: html_document
 
 ## Drivers of functional diversity of woody plants and consequences for carbon storage
 
-Identifying the drivers of biodiversity and their relationships with ecosystem functioning across large spatial scales is essential for strengthening the conservation and management of natural ecosystems. Chile is an excellent natural laboratory for studying spatial patterns of biodiversity’s multiple facets, given its tremendous diversity in environmental conditions and topography and unique biogeographic history. However, there are persistent shortfalls in biodiversity data in Chile that have prevented addressing such issues. Bridging extant gaps in biodiversity data and knowledge of ecosystems in biodiversity hotspots such as Chile remains a major scientific challenge.
+Identifying the drivers of biodiversity and their relationships with ecosystem functioning across large spatial scales is essential for strengthening the conservation and management of natural ecosystems. Chile is an excellent natural laboratory for studying spatial patterns of biodiversity’s multiple facets, given its diversity in environmental conditions and topography and unique biogeographic history. However, there are persistent shortfalls in biodiversity data in Chile that have prevented addressing such issues. Bridging extant gaps in biodiversity data and knowledge of ecosystems in biodiversity hotspots such as Chile remains a major scientific challenge.
 
 In this project, we aim to identify the environmental, geographical, and anthropogenic factors that shape spatial patterns of woody plant diversity across Chile and to quantify the extent to which carbon storage is affected by biodiversity.  
 
@@ -42,7 +42,7 @@ With a multi-disciplinary group of colleagues, we are developing a multi-scale p
 monitor drought and its multi-faceted impacts in Chile (**Observatorio de sequía para la agricultura y biodiversidad de Chile**; ODES), at national and regional scales. My team is focused on examining where and how biodiversity may buffer the impacts of 
 the extreme drought in Chile (2010-present).  
 
-![Mapa](/img/Mapa_censores.png)  
+![Mapa](/img/Acon_CorrNet.png)  
 _Locations of sensors monitoring soil temperature and relative humidity across the Aconcagua valley (Chile)_  
 
 ## Mechanisms underlying ecosystem stability and community responses to global change   

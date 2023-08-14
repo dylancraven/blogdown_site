@@ -8,7 +8,7 @@ output: html_document
 {{< gallery >}}
   {{< figure src="/img/Gonzalesetal.png" link="/img/Gonzalesetal.png" caption="Fiorella's 1st PhD chapter!" >}}
   {{< figure src="/img/Tolmosetal.png" link="/img/Tolmosetal.png" caption="Maria's master's thesis!" >}}
-  {{< figure src="/img/Poorteretal.png" link="/img/Poorteretal.png" caption="Science!"  >}}
+  {{< figure src="/img/Poorteretal.png" link="/img/barajs_nature.png" caption="Nature!"  >}}
 {{< /gallery >}}
 
 ## Publications (2007-present)  
@@ -17,13 +17,15 @@ output: html_document
 If you don't have access to a PDF, please send me a request via **e-mail** (<dylan.craven@umayor.cl>).
 
 
-1. Gonzales-Guillen, N., **Craven, D.**, and J. Armesto. (2023) Islands in the mist: A systematic review of the coastal lomas of South America. J. of Arid Environments 211: 104942.
+1.  Barajas Barbosa, M. P., **Craven, D.**, et al. (2023) Assembly of functional diversity in an oceanic island flora.  Nature 6:19, 545-550.
 
-2. Rüger, N., et al. (including **Craven, D.**). (2023) Successional shifts in tree demographic strategies in wet and dry Neotropical forests. Global Ecology and Biogeography, 32, 1002– 1014. 
+2. Gonzales-Guillen, N., **Craven, D.**, and J. Armesto. (2023) Islands in the mist: A systematic review of the coastal lomas of South America. J. of Arid Environments 211: 104942.
 
-3. Sabater, S., Freixa, A., Jiménez, L., López-Doval, J., Pace, G., Pascoal, C., Perujo, N., **Craven, D.**, & González-Trujillo, J.D. 2023. Extreme weather events threaten biodiversity and functions of river ecosystems: evidence from a meta-analysis. Biological Reviews 98: 450-46.
+3. Rüger, N., et al. (including **Craven, D.**). (2023) Successional shifts in tree demographic strategies in wet and dry Neotropical forests. Global Ecology and Biogeography, 32, 1002– 1014. 
 
-4. Zemp, C., et al. (including **Craven, D.**). (2023) Tree islands enhance biodiversity and functioning in oil palm landscapes. Nature: <https://doi.org/10.1038/s41586-023-06086-5>.
+4. Sabater, S., Freixa, A., Jiménez, L., López-Doval, J., Pace, G., Pascoal, C., Perujo, N., **Craven, D.**, & González-Trujillo, J.D. 2023. Extreme weather events threaten biodiversity and functions of river ecosystems: evidence from a meta-analysis. Biological Reviews 98: 450-46.
+
+5. Zemp, C., et al. (including **Craven, D.**). (2023) Tree islands enhance biodiversity and functioning in oil palm landscapes. Nature: <https://doi.org/10.1038/s41586-023-06086-5>.
 
 1.  Bach, W., Kreft, H., **Craven, D.**, König, C., Schrader, J., Taylor, A., Dawson, W., Essl, F., Lenzner, B., Marx, H.E., Meyer, C., Pergl, J., Pyšek, P., van Kleunen, M., Winter, M. & Weigelt, P. (2022) Phylogenetic composition of native island floras influences naturalized alien species richness. Ecography e06227.
 
