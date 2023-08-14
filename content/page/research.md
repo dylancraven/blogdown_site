@@ -39,11 +39,11 @@ _Land-bridge island in Tolima, Colombia_
 ## Monitoring multi-scale impacts of drought    
 
 With a multi-disciplinary group of colleagues, we are developing a multi-scale platform to 
-monitor drought and its multi-faceted impacts in Chile (**Observatorio de sequía para la agricultura y biodiversidad de Chile**; ODES), at national and regional scales. My team is focused on examining where and how biodiversity may buffer the impacts of 
+monitor drought and its multi-faceted impacts in Chile (**Observatorio de sequía para la agricultura y biodiversidad de Chile**; https://odes-chile.org/), at national and regional scales. My team is focused on examining where and how biodiversity may buffer the impacts of 
 the extreme drought in Chile (2010-present).  
 
-<img src = "/img/Acon_CorrNet.png", width = "300", height = "300">
-_Correlation network of functional diversity and composition metrics with drought metrics_  
+![bla](/img/Acon_CorrNet.png)   
+_Correlation network of functional diversity and composition metrics with drought metrics of the Flora of the Aconcagua Valley (Chile)_  
 
 ## Mechanisms underlying ecosystem stability and community responses to global change   
 
