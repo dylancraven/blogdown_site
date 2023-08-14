@@ -42,7 +42,7 @@ With a multi-disciplinary group of colleagues, we are developing a multi-scale p
 monitor drought and its multi-faceted impacts in Chile (**Observatorio de sequía para la agricultura y biodiversidad de Chile**; ODES), at national and regional scales. My team is focused on examining where and how biodiversity may buffer the impacts of 
 the extreme drought in Chile (2010-present).  
 
-![blblabla](/img/Acon_CorrNet.png){width=250px}  
+<img src = "/img/Acon_CorrNet.png", width = "300", height = "300">
 _Correlation network of functional diversity and composition metrics with drought metrics_  
 
 ## Mechanisms underlying ecosystem stability and community responses to global change   
