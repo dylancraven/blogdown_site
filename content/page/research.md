@@ -5,7 +5,7 @@ output: html_document
 
 {{< gallery >}}
   {{< figure src="/img/Muestreo2.png" link="/img/FD_muestreo.png" caption="Muestreo de rasgos funcionales en Chile" >}}
-  {{< figure src="/img/Mapa_censores.png" link="/img/Mapa_censores.png" caption="Monitoreo de sequía en el Valle de Aconcagua" >}}
+  {{< figure src="/img/Acon_CorrNet.png" link="/img/Acon_CorrNet.png" caption="Resiliencia de la flora del Valle de Aconcagua" >}}
   {{< figure src="/img/experiment2.png" link="/img/experiment2.png" caption="Experimento de biodiversidad y función ecosistémica"  >}}
 {{< /gallery >}}
 
@@ -42,7 +42,7 @@ With a multi-disciplinary group of colleagues, we are developing a multi-scale p
 monitor drought and its multi-faceted impacts in Chile (**Observatorio de sequía para la agricultura y biodiversidad de Chile**; ODES), at national and regional scales. My team is focused on examining where and how biodiversity may buffer the impacts of 
 the extreme drought in Chile (2010-present).  
 
-![Mapa](/img/Acon_CorrNet.png)  
+![Mapa](/img/Acon_CorrNet.png){width=250px}  
 _Correlations _  
 
 ## Mechanisms underlying ecosystem stability and community responses to global change   
