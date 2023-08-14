@@ -43,7 +43,7 @@ monitor drought and its multi-faceted impacts in Chile (**Observatorio de sequí
 the extreme drought in Chile (2010-present).  
 
 ![Mapa](/img/Acon_CorrNet.png)  
-_Locations of sensors monitoring soil temperature and relative humidity across the Aconcagua valley (Chile)_  
+_Correlations _  
 
 ## Mechanisms underlying ecosystem stability and community responses to global change   
 
