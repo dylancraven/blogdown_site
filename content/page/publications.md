@@ -7,7 +7,7 @@ output: html_document
 
 {{< gallery >}}
   {{< figure src="/img/Gonzalesetal.png" link="/img/Gonzalesetal.png" caption="Fiorella's 1st PhD chapter!" >}}
-  {{< figure src="/img/Tolmosetal.png" link="/img/Tolmosetal.png" caption="Maria's master's thesis!" >}}
+  {{< figure src="/img/GEB_RasgosCL.png" link="/img/GEB_RasgosCL.png" caption="Happy to share our data with the world!" >}}
   {{< figure src="/img/barajas_nature.png" link="/img/barajas_nature.png" caption="Nature!"  >}}
 {{< /gallery >}}
 
