@@ -6,9 +6,9 @@ output: html_document
 ## Recent publications  
 
 {{< gallery >}}
-  {{< figure src="/img/Gonzalesetal.png" link="/img/Gonzalesetal.png" caption="Fiorella's 1st PhD chapter!" >}}
-  {{< figure src="/img/GEB_RasgosCL.png" link="/img/GEB_RasgosCL.png" caption="Happy to share our data with the world!" >}}
-  {{< figure src="/img/barajas_nature.png" link="/img/barajas_nature.png" caption="Nature!"  >}}
+  {{< figure src="/img/Gonzalesetal.png" link="/img/Gonzalesetal.png" caption="A rigorous synthesis of coastal lomas" >}}
+  {{< figure src="/img/GEB_RasgosCL.png" link="/img/GEB_RasgosCL.png" caption="Regional data sets can fill gaps in global trait databases" >}}
+  {{< figure src="/img/barajas_nature.png" link="/img/barajas_nature.png" caption="Dispersal and speciation shape the functional diversity of Tenerife"  >}}
 {{< /gallery >}}
 
 ## Publications (2007-present)  
@@ -17,15 +17,19 @@ output: html_document
 If you don't have access to a PDF, please send me a request via **e-mail** (<dylan.craven@umayor.cl>).
 
 
-1.  Barajas Barbosa, M. P., **Craven, D.**, et al. (2023) Assembly of functional diversity in an oceanic island flora.  Nature 6:19, 545-550.
+1. Alfaro, E., Pérez-Tello, V., Acevedo, M., Ovalle, J., Segovia, R., and **Craven, D**. (2023) Rasgos-CL: A functional trait database of Chilean woody plants. Global Ecology and Biogeography (2023) doi:10.1111/geb.13755.
 
-2. Gonzales-Guillen, N., **Craven, D.**, and J. Armesto. (2023) Islands in the mist: A systematic review of the coastal lomas of South America. J. of Arid Environments 211: 104942.
+2.  Barajas Barbosa, M. P., **Craven, D.**, et al. (2023) Assembly of functional diversity in an oceanic island flora.  Nature 6:19, 545-550.
 
-3. Rüger, N., et al. (including **Craven, D.**). (2023) Successional shifts in tree demographic strategies in wet and dry Neotropical forests. Global Ecology and Biogeography, 32, 1002– 1014. 
+3. Brock, J. M. R., **Craven, D.** & Morales, N. S. (2023) Editorial: Impacts of climate change on long term viability of tree species with recalcitrant seeds. Frontiers in Forests and Global Change 6.
 
-4. Sabater, S., Freixa, A., Jiménez, L., López-Doval, J., Pace, G., Pascoal, C., Perujo, N., **Craven, D.**, & González-Trujillo, J.D. 2023. Extreme weather events threaten biodiversity and functions of river ecosystems: evidence from a meta-analysis. Biological Reviews 98: 450-46.
+4. Gonzales-Guillen, N., **Craven, D.**, and J. Armesto. (2023) Islands in the mist: A systematic review of the coastal lomas of South America. J. of Arid Environments 211: 104942.
 
-5. Zemp, C., et al. (including **Craven, D.**). (2023) Tree islands enhance biodiversity and functioning in oil palm landscapes. Nature: <https://doi.org/10.1038/s41586-023-06086-5>.
+5. Rüger, N., et al. (including **Craven, D.**). (2023) Successional shifts in tree demographic strategies in wet and dry Neotropical forests. Global Ecology and Biogeography, 32, 1002– 1014. 
+
+6. Sabater, S., Freixa, A., Jiménez, L., López-Doval, J., Pace, G., Pascoal, C., Perujo, N., **Craven, D.**, & González-Trujillo, J.D. 2023. Extreme weather events threaten biodiversity and functions of river ecosystems: evidence from a meta-analysis. Biological Reviews 98: 450-46.
+
+7. Zemp, C., et al. (including **Craven, D.**). (2023) Tree islands enhance biodiversity and functioning in oil palm landscapes. Nature: <https://doi.org/10.1038/s41586-023-06086-5>.
 
 1.  Bach, W., Kreft, H., **Craven, D.**, König, C., Schrader, J., Taylor, A., Dawson, W., Essl, F., Lenzner, B., Marx, H.E., Meyer, C., Pergl, J., Pyšek, P., van Kleunen, M., Winter, M. & Weigelt, P. (2022) Phylogenetic composition of native island floras influences naturalized alien species richness. Ecography e06227.
 

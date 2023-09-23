@@ -12,7 +12,7 @@ Our laboratory is committed to making the data that we collect available publicl
 2. __Panama Secondary Forest Traits__: 17 traits measured on 55 woody species and up to 1700 individuals per trait.  
    Download [here](https://figshare.com/articles/Functional_Leaf_Traits_55_spp_in_central_Panama_/1402253)    
    
-3. __Centre-du-Quebec Forest Plots__: This is a dataset of 395 plots (100 m2) distributed within and across 42 forest fragments in central Quebec, Canada.  
+3. __Centre-du-Quebec Forest Plots__: This is a data set of 395 plots (100 m2) distributed within and across 42 forest fragments in central Quebec, Canada.  
    Download [here](https://figshare.com/articles/Centre_du_Quebec_Forest_Plots/10325681). 
    
 4. __Open Nahele__: This is a dataset of 530 forest plots (100 - 10,000 m2) distributed across the six largest islands of the Hawaiian archipelago.  
