@@ -27,7 +27,7 @@ Identifying the drivers of biodiversity and their relationships with ecosystem f
 In this project, we aim to identify the environmental, geographical, and anthropogenic factors that shape spatial patterns of woody plant diversity across Chile and to quantify the extent to which carbon storage is affected by biodiversity.  
 
 ![Functional_biogeography](/img/FD_muestreo.png)  
-_Current progress in functional trait sampling (approx. 150 woody species) across central and southern Chile (2020-2022)_  
+_Current progress in functional trait sampling (approx. 160 woody species) across central and southern Chile (2020-2022)_  
 
 ## Biodiversity patterns across islands at local and biogeographical scales  
 
