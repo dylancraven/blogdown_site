@@ -23,13 +23,15 @@ If you don't have access to a PDF, please send me a request via **e-mail** (<dyl
 
 3. Brock, J. M. R., **Craven, D.** & Morales, N. S. (2023) Editorial: Impacts of climate change on long term viability of tree species with recalcitrant seeds. Frontiers in Forests and Global Change 6.
 
-4. Gonzales-Guillen, N., **Craven, D.**, and J. Armesto. (2023) Islands in the mist: A systematic review of the coastal lomas of South America. J. of Arid Environments 211: 104942.
+4. Fernández-Murillo, M. del P., Alfaro, F.D., **Craven, D.**, Gutiérrez, J.R., Kelt. D.A., Meserve, P., and A. Troncoso.  (2023) Loss of native herbivores triggers diversity decline of ephemeral plant communities. Journal of Vegetation Science 34, e13210.
 
-5. Rüger, N., et al. (including **Craven, D.**). (2023) Successional shifts in tree demographic strategies in wet and dry Neotropical forests. Global Ecology and Biogeography, 32, 1002– 1014. 
+5. Gonzales-Guillen, N., **Craven, D.**, and J. Armesto. (2023) Islands in the mist: A systematic review of the coastal lomas of South America. J. of Arid Environments 211: 104942.
 
-6. Sabater, S., Freixa, A., Jiménez, L., López-Doval, J., Pace, G., Pascoal, C., Perujo, N., **Craven, D.**, & González-Trujillo, J.D. 2023. Extreme weather events threaten biodiversity and functions of river ecosystems: evidence from a meta-analysis. Biological Reviews 98: 450-46.
+6. Rüger, N., et al. (including **Craven, D.**). (2023) Successional shifts in tree demographic strategies in wet and dry Neotropical forests. Global Ecology and Biogeography, 32, 1002– 1014. 
 
-7. Zemp, C., et al. (including **Craven, D.**). (2023) Tree islands enhance biodiversity and functioning in oil palm landscapes. Nature: <https://doi.org/10.1038/s41586-023-06086-5>.
+7. Sabater, S., Freixa, A., Jiménez, L., López-Doval, J., Pace, G., Pascoal, C., Perujo, N., **Craven, D.**, & González-Trujillo, J.D. 2023. Extreme weather events threaten biodiversity and functions of river ecosystems: evidence from a meta-analysis. Biological Reviews 98: 450-46.
+
+8. Zemp, C., et al. (including **Craven, D.**). (2023) Tree islands enhance biodiversity and functioning in oil palm landscapes. Nature: <https://doi.org/10.1038/s41586-023-06086-5>.
 
 1.  Bach, W., Kreft, H., **Craven, D.**, König, C., Schrader, J., Taylor, A., Dawson, W., Essl, F., Lenzner, B., Marx, H.E., Meyer, C., Pergl, J., Pyšek, P., van Kleunen, M., Winter, M. & Weigelt, P. (2022) Phylogenetic composition of native island floras influences naturalized alien species richness. Ecography e06227.
 
