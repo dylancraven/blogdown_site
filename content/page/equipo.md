@@ -9,8 +9,8 @@ Dylan investiga patrones temporales y espaciales de la biodiversidad y sus impli
 
 
 ### Luis Y. Santiago-Rosario, NSF Postdoctoral Fellow, Universidad de Minnesota (EE.UU) y Universidad Mayor  
-![blaa4](/img/LuisSantiago.png)  
-
+![blaa3](/img/LuisSantiago.png)  
+_Ecológo, Lousiana State University_   
 Luis es un ecólogo y biólogo evolutivo puertorriqueño apasionado por comprender cómo los organismos interactúan con su entorno y entre sí. Emplea métodos comparativos, experimentos e historia natural en su investigación. Actualmente, se enfoca en desentrañar la distribución y el mantenimiento de metales pesados y sales en plantas a lo largo de gradientes urbanos, y su impacto en otros niveles tróficos (como herbívoros y humanos). Además, investiga los procesos macroecológicos y evolutivos que sustentan las interacciones entre muerdagos y sus hospederos a nivel local, regional y global. Luis también es cofundador del [Club Eco-Evo Latinoamérica](https://ecoevolat.github.io/), una organización dedicada a la divulgación y el intercambio científico en ecología y evolución en español y portugués. 
 
 
@@ -21,29 +21,30 @@ Pili es una ecóloga cuya investigación se enfoca en responder cómo la pérdid
 Apuesta mucho a la difusión de la ciencia como una herramienta para futuros cambios, por ello también es un miembro activo de la Organización [ECOTERRA](https://ongecoterra.org/).  
 
 ### Fiorella Gonzales Guillén, estudiante de doctorado, Pontificia Universidad Católica de Chile  
-![blaa9](/img/Fiorella2.png)    
+![blaa5](/img/Fiorella2.png)    
 _Ecológa, Universidad Nacional de San Agustín de Arequipa (Perú)_  
 Fiorella es ecóloga y en su doctorado examina los patrones e impulsores de la diversidad de las lomas costeras de Perú y Chile. 
 
 ### José Luis Cerda, estudiante de doctorado, en Universidad Adolfo Ibáñez    
-![blaa10](/img/JoseMiguel.png)  
-José Miguel es cuya línea de investigación se enfoca en evaluar la diversidad funcional del bosque esclerófilo y el efecto del cambio climático sobre los rasgos funcionales de las plantas🌿🌳 en la zona central de Chile. 
+![blaa6](/img/JoseMiguel.png)  
+_Biólogo, Pontificia Universidad Católica de Chile_  
+José Miguel es cuya línea de investigación se enfoca en evaluar la diversidad funcional del bosque esclerófilo y el efecto del cambio climático sobre los rasgos funcionales de las plantas en la zona central de Chile. 
 José examina la respuesta de los rasgos funcionales afectados por el estés hídrico, por medio de métodos ecológicos clásicos y comparados con métodos de percepción remota. 
 
 
 ### Elias Encina Alfaro, estudiante de doctorado, Universidad Mayor 
-![blaa3](/img/Elias2020.png)    
+![blaa7](/img/Elias2020.png)    
 _Geógrafo, Universidad de Chile_  
 Elias tiene interés en los impactos de las invasiones biológicas en la diversidad taxonòmica y funcional de las abejas nativas en Chile central.  
 
 ### Carla Quinteros, Coordinadora de Proyecto (ODES), Universidad Mayor    
-![blaa12](/img/CarlaQuinteros5.png)  
+![blaa8](/img/CarlaQuinteros5.png)  
 _Arquitecta del Paisaje, Universidad de Chile_  
 
 Carla se ha desempeñado en proyectos de restauración ecológica y de conservación, realizando trabajos vinculados a áreas naturales, Santuarios de la Naturaleza y especies vulnerables o en peligro de extinción. Su mayor motivación es el trabajo por la conservación de nuestros ecosistemas, su recuperación y protección.
 
 ### Carolina Córdova, Coordinadora Logística, Universidad Mayor    
-![blaa6](/img/carola.png)    
+![blaa9](/img/carola.png)    
 _Ingeniera forestal y paisajista, Universidad de Chile_  
 
 Carolina lleva muchos sombreros en su vida profesional, entre ellos, tiene una [empresa de paisajismo](https://weinmannia.cl/), y es la persona que hace pequeños y grandes milagros presupuestarios y nos facilita nuestros proyectos. 
