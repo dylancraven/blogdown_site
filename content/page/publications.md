@@ -16,6 +16,15 @@ output: html_document
 [Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1)  
 If you don't have access to a PDF, please send me a request via **e-mail** (<dylan.craven@umayor.cl>).
 
+1. van Breugel, M. et al. (including **Craven, D.** (2024) Feedback loops drive ecological succession: towards a unified conceptual framework. Biological Reviews.
+
+2. Santini, L., **Craven, D.**, et al. (2024) Extreme drought triggers parallel shifts in wood anatomical and physiological traits in upper treeline of the Mediterranean Andes. Ecological Processes, 13, 10.
+
+3. Thouvenot, L., Ferlian, O., **Craven, D.**, Johnson, E.A., Köhler, J., Lochner, A., Quosh, J., Zeuner, A. & Eisenhauer, N. (2024) Invasive earthworms can change understory plant community traits and reduce plant functional diversity. iScience, 27, 109036.
+
+4. Tolmos, M.L., Guerrero-Ramirez, N.R., Ameztegui, A., Barajas Barbosa, M.P., **Craven, D.** & Kreft, H. (2024) Biogeographic context mediates multifaceted diversity-productivity relationships in island and mainland forests. Journal of Ecology, n/a.
+
+
 
 1. Alfaro, E., Pérez-Tello, V., Acevedo, M., Ovalle, J., Segovia, R., and **Craven, D**. (2023) Rasgos-CL: A functional trait database of Chilean woody plants. Global Ecology and Biogeography (2023) doi:10.1111/geb.13755.
 
@@ -29,7 +38,7 @@ If you don't have access to a PDF, please send me a request via **e-mail** (<dyl
 
 6. Rüger, N., et al. (including **Craven, D.**). (2023) Successional shifts in tree demographic strategies in wet and dry Neotropical forests. Global Ecology and Biogeography, 32, 1002– 1014. 
 
-7. Sabater, S., Freixa, A., Jiménez, L., López-Doval, J., Pace, G., Pascoal, C., Perujo, N., **Craven, D.**, & González-Trujillo, J.D. 2023. Extreme weather events threaten biodiversity and functions of river ecosystems: evidence from a meta-analysis. Biological Reviews 98: 450-46.
+7. Sabater, S., Freixa, A., Jiménez, L., López-Doval, J., Pace, G., Pascoal, C., Perujo, N., **Craven, D.**, & González-Trujillo, J.D. (2023) Extreme weather events threaten biodiversity and functions of river ecosystems: evidence from a meta-analysis. Biological Reviews 98: 450-46.
 
 8. Zemp, C., et al. (including **Craven, D.**). (2023) Tree islands enhance biodiversity and functioning in oil palm landscapes. Nature: <https://doi.org/10.1038/s41586-023-06086-5>.
 

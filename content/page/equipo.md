@@ -25,10 +25,10 @@ Apuesta mucho a la difusión de la ciencia como una herramienta para futuros cam
 _Ecológa, Universidad Nacional de San Agustín de Arequipa (Perú)_  
 Fiorella es ecóloga y en su doctorado examina los patrones e impulsores de la diversidad de las lomas costeras de Perú y Chile. 
 
-### José Luis Cerda, estudiante de doctorado, en Universidad Adolfo Ibáñez    
+### José Miguel Cerda, estudiante de doctorado, en Universidad Adolfo Ibáñez    
 ![blaa6](/img/JoseMiguel.png)  
 _Biólogo, Pontificia Universidad Católica de Chile_  
-José Miguel es cuya línea de investigación se enfoca en evaluar la diversidad funcional del bosque esclerófilo y el efecto del cambio climático sobre los rasgos funcionales de las plantas en la zona central de Chile. 
+José Miguel es un ecólogo cuya línea de investigación se enfoca en evaluar la diversidad funcional del bosque esclerófilo y el efecto del cambio climático sobre los rasgos funcionales de las plantas en la zona central de Chile. 
 José examina la respuesta de los rasgos funcionales afectados por el estés hídrico, por medio de métodos ecológicos clásicos y comparados con métodos de percepción remota. 
 
 
