@@ -16,15 +16,17 @@ output: html_document
 [Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1)  
 If you don't have access to a PDF, please send me a request via **e-mail** (<dylan.craven@umayor.cl>).
 
-1. van Breugel, M. et al. (including **Craven, D.** (2024) Feedback loops drive ecological succession: towards a unified conceptual framework. Biological Reviews.
+1. van Breugel, M., et al. (including **Craven, D.**). (2024) Feedback loops drive ecological succession: towards a unified conceptual framework. Biological Reviews.
 
-2. Santini, L., **Craven, D.**, et al. (2024) Extreme drought triggers parallel shifts in wood anatomical and physiological traits in upper treeline of the Mediterranean Andes. Ecological Processes, 13, 10.
+2. He, M., et al. (including **Craven, D.**). (2024) Cumulative nitrogen enrichment alters the drivers of grassland overyielding. Communications Biology, 7, 1–10.
 
-3. Thouvenot, L., Ferlian, O., **Craven, D.**, Johnson, E.A., Köhler, J., Lochner, A., Quosh, J., Zeuner, A. & Eisenhauer, N. (2024) Invasive earthworms can change understory plant community traits and reduce plant functional diversity. iScience, 27, 109036.
+3. Santini, L., **Craven, D.**, Rodriguez, D.R.O., Quintilhan, M.T., Gibson-Carpintero, S., Torres, C.A., Roig, F.A., Muñoz, A.A. & Venegas-Gonzalez, A. (2024) Extreme drought triggers parallel shifts in wood anatomical and physiological traits in upper treeline of the Mediterranean Andes. Ecological Processes, 13, 10.  
 
-4. Tolmos, M.L., Guerrero-Ramirez, N.R., Ameztegui, A., Barajas Barbosa, M.P., **Craven, D.** & Kreft, H. (2024) Biogeographic context mediates multifaceted diversity-productivity relationships in island and mainland forests. Journal of Ecology, n/a.
+4. Thouvenot, L., Ferlian, O., **Craven, D.**, Johnson, E.A., Köhler, J., Lochner, A., Quosh, J., Zeuner, A. & Eisenhauer, N. (2024) Invasive earthworms can change understory plant community traits and reduce plant functional diversity. iScience, 27, 109036.
 
+5. Tolmos, M.L., Guerrero-Ramirez, N.R., Ameztegui, A., Barajas Barbosa, M.P., **Craven, D.** and Kreft, H. (2024) Biogeographic context mediates multifaceted diversity-productivity relationships in island and mainland forests. Journal of Ecology, 112, 800–816.
 
+6. Zheng, L., et al. (including **Craven, D.**). (2024) Effects of plant diversity on productivity strengthen over time due to trait-dependent shifts in species overyielding. Nature Communications, 15, 2078.
 
 1. Alfaro, E., Pérez-Tello, V., Acevedo, M., Ovalle, J., Segovia, R., and **Craven, D**. (2023) Rasgos-CL: A functional trait database of Chilean woody plants. Global Ecology and Biogeography (2023) doi:10.1111/geb.13755.
 
