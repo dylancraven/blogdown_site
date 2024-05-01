@@ -28,7 +28,7 @@ If you don't have access to a PDF, please send me a request via **e-mail** (<dyl
 
 6. Zheng, L., et al. (including **Craven, D.**). (2024) Effects of plant diversity on productivity strengthen over time due to trait-dependent shifts in species overyielding. Nature Communications, 15, 2078.
 
-1. Alfaro, E., Pérez-Tello, V., Acevedo, M., Ovalle, J., Segovia, R., and **Craven, D**. (2023) Rasgos-CL: A functional trait database of Chilean woody plants. Global Ecology and Biogeography (2023) doi:10.1111/geb.13755.
+1. Alfaro, E., Pérez-Tello, V., Acevedo, M., Ovalle, J., Segovia, R., and **Craven, D**. (2023) Rasgos-CL: A functional trait database of Chilean woody plants. Global Ecology and Biogeography (2023) 32, 2072-2084.  
 
 2.  Barajas Barbosa, M. P., **Craven, D.**, et al. (2023) Assembly of functional diversity in an oceanic island flora.  Nature 6:19, 545-550.
 
@@ -104,27 +104,27 @@ If you don't have access to a PDF, please send me a request via **e-mail** (<dyl
 
 2.  **Craven, D.**, Knight, T. M., Barton, K. E., Bialic-Murphy, L., & Chase, J. M. (2019). Dissecting macroecological and macroevolutionary patterns of forest biodiversity across the Hawaiian archipelago. Proceedings of the National Academy of Sciences, 116(33), 16436--16441.
 
-3.  **Craven, D.**, Winter, M., Hotzel, K., Gaikwad, J., Eisenhauer, N., Hohmuth, M., ... Wirth, C. (2019). Evolution of interdisciplinarity in biodiversity science. Ecology and Evolution, 9(12), 6744--6755.
+3.  **Craven, D.**, Winter, M., Hotzel, K., Gaikwad, J., Eisenhauer, N., Hohmuth, M., and Wirth, C. (2019). Evolution of interdisciplinarity in biodiversity science. Ecology and Evolution, 9(12), 6744--6755.
 
 4.  Eisenhauer, N., Ferlian, O., **Craven, D.**, Hines, J., & Jochum, M. (2019). Ecosystem responses to exotic earthworm invasion in northern North American forests. Research Ideas and Outcomes, 5, e34564.
 
-5.  Piotto, D., **Craven, D.**, Montagnini, F., Ashton, M., Oliver, C., & Thomas, W. W. (2019). Successional, spatial, and seasonal changes in seed rain in the Atlantic forest of southern Bahia, Brazil. PLOS ONE, 14(12), 1--15. 
+5.  Piotto, D., **Craven, D.**, Montagnini, F., Ashton, M., Oliver, C., and Thomas, W. W. (2019). Successional, spatial, and seasonal changes in seed rain in the Atlantic forest of southern Bahia, Brazil. PLOS ONE, 14(12), 1--15. 
 
 6.  Poorter, L., Rozendaal, D. M. A., Bongers, F., de Almeida-Cortez, J. S., Almeyda Zambrano, A. M., Álvarez, F. S., ... Westoby, M. (2019). Wet and dry tropical forests show opposite successional pathways in wood density but converge over time. Nature Ecology & Evolution, 3(6), 928--934.
 
-7.  Schulze, E. D., **Craven, D.**, Durso, A. M., Reif, J., Guderle, M., Kroiher, F., ... Eisenhauer, N. (2019). Positive association between forest management, environmental change, and forest bird abundance. Forest Ecosystems, 6(1), 3. 
+7.  Schulze, E. D., **Craven, D.**, Durso, A. M., Reif, J., Guderle, M., Kroiher, F., and Eisenhauer, N. (2019). Positive association between forest management, environmental change, and forest bird abundance. Forest Ecosystems, 6(1), 3. 
 
 8.  van Breugel, M., **Craven, D.**, Lai, H. R., Baillon, M., Turner, B. L., & Hall, J. S. (2019). Soil nutrients and dispersal limitation shape compositional variation in secondary tropical forests across multiple scales. Journal of Ecology, 107(2), 566--581.
 
-9.  Zemp, D. C., Ehbrecht, M., Seidel, D., Ammer, C., **Craven, D.**, Erkelenz, J., ... Kreft, H. (2019). Mixed-species tree plantings enhance structural complexity in oil palm plantations. Agriculture, Ecosystems & Environment, 283, 106564.
+9.  Zemp, D. C., Ehbrecht, M., Seidel, D., Ammer, C., **Craven, D.**, Erkelenz, J., and Kreft, H. (2019). Mixed-species tree plantings enhance structural complexity in oil palm plantations. Agriculture, Ecosystems & Environment, 283, 106564.
 
-1.  Bruelheide, H., Dengler, J., Purschke, O., Lenoir, J., Jiménez-Alfaro, B., Hennekens, S. M., ... Jandt, U. (2018). Global trait--environment relationships of plant communities. Nature Ecology & Evolution, (2), 1906--1917. 
+1.  Bruelheide, H., et al. (including **Craven, D.**) (2018). Global trait--environment relationships of plant communities. Nature Ecology & Evolution, (2), 1906--1917. 
 
-2.  **Craven, D.**, Eisenhauer, N., Pearse, W. D., Hautier, Y., Isbell, F., Roscher, C., ... Manning, P. (2018). Multiple facets of biodiversity drive the diversity--stability relationship. Nature Ecology & Evolution, 2(10), 1579--1587. 
+2.  **Craven, D.**, et al. (2018). Multiple facets of biodiversity drive the diversity--stability relationship. Nature Ecology & Evolution, 2(10), 1579--1587. 
 
 3.  **Craven, D.**, Hall, J. S., Berlyn, G. P., Ashton, M. S., & Breugel, M. van. (2018). Environmental filtering limits functional diversity during succession in a seasonally wet tropical secondary forest. Journal of Vegetation Science, 29(3), 511--520.
 
-4.  **Craven, D.**, Knight, T. M., Barton, K. E., Bialic-Murphy, L., Cordell, S., Giardina, C. P., ... Chase, J. M. (2018). OpenNahele: the open Hawaiian forest plot database. Biodiversity Data Journal, 6, e28406.
+4.  **Craven, D.**, Knight, T. M., Barton, K. E., Bialic-Murphy, L., Cordell, S., Giardina, C. P., and Chase, J. M. (2018). OpenNahele: the open Hawaiian forest plot database. Biodiversity Data Journal, 6, e28406.
 
 5.  Ferlian, O., Cesarz, S., **Craven, D.**, Hines, J., Barry, K. E., Bruelheide, H., ... Eisenhauer, N. (2018). Mycorrhiza in tree diversity--ecosystem function relationships: conceptual framework and experimental implementation. Ecosphere, 9(5). 
 

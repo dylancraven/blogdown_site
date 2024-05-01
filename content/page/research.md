@@ -14,7 +14,7 @@ output: html_document
 
 [**Island Biogeography**](#biodiversity-patterns-across-islands-at-local-and-biogeographical-scales)
 
-[**Monitoring impacts of extreme droughts**](#monitoring-multi-scale-impacts-of-drought)  
+[**Impacts of extreme droughts**](#monitoring-multi-scale-impacts-of-drought)  
 
 [**Diversity - Stability**](#mechanisms-underlying-ecosystem-stability-and-community-responses-to-global-change) 
 
@@ -36,7 +36,7 @@ Island ecosystems sustain a large proportion of global plant diversity, yet are 
 ![Islands](/img/islands33.png)
 _Land-bridge island in Tolima, Colombia_
 
-## Monitoring multi-scale impacts of drought    
+## Impacts of extreme droughts     
 
 With a multi-disciplinary group of colleagues, we are developing a multi-scale platform to 
 monitor drought and its multi-faceted impacts in Chile (see [**Observatorio de sequía para la agricultura y biodiversidad de Chile**](https://odes-chile.org/)), at national and regional scales. My team is focused on examining where and how biodiversity may buffer the impacts of the extreme drought in Chile (2010-present).  
