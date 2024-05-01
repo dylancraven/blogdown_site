@@ -14,7 +14,7 @@ output: html_document
 
 [**Island Biogeography**](#biodiversity-patterns-across-islands-at-local-and-biogeographical-scales)
 
-[**Impacts of extreme droughts**](#monitoring-multi-scale-impacts-of-drought)  
+[**Impacts of extreme droughts**](#impacts-of-extreme-droughts)  
 
 [**Diversity - Stability**](#mechanisms-underlying-ecosystem-stability-and-community-responses-to-global-change) 
 
