@@ -11,9 +11,9 @@ output: html_document
   {{< figure src="/img/barajas_nature.png" link="/img/barajas_nature.png" caption="Dispersal and speciation shape the functional diversity of Tenerife"  >}}
 {{< /gallery >}}
 
-## Publications (2007-present)  
+## Publications 
 
-Also see [Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1)  for Dr. Craven's publications. 
+Also see [Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1)  for Dr. Craven's publications.   
 If you don't have access to a PDF, please send me a request via [**e-mail**](<dylan.craven@umayor.cl>).
 
 1. van Breugel, M., et al. (including **Craven, D.**). (2024) Feedback loops drive ecological succession: towards a unified conceptual framework. Biological Reviews.
