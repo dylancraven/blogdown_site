@@ -1,6 +1,7 @@
 ---
 title: "Open Data"
 output: html_document
+date: "2024"
 ---
 ![Islands](/img/ElJiral_paisaje_b_w3_2.png)  
 
