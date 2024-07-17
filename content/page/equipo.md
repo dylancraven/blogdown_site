@@ -1,6 +1,8 @@
 ---
 title: "Equipo"
 output: html_document
+hide:
+  - footer
 ---
 ### Dylan Craven, Profesor Asociado, Universidad Mayor   
 ![blaa2](/img/dylancraven2.png)  
