@@ -20,7 +20,13 @@ If you don't have access to a PDF, please send me a request via **e-mail** (<dyl
 
 2. He, M., et al. (including **Craven, D.**). (2024) Cumulative nitrogen enrichment alters the drivers of grassland overyielding. Communications Biology, 7, 1–10.
 
+7. Ramirez JA, **Craven D**, Herrera D, et al. (2024) Non-structural carbohydrate concentrations in tree organs vary across biomes and leaf habits, but are independent of the fast-slow plant economic spectrum. Frontiers in Plant Science 15.  
+
+8. van der Sande MT, et al. (including **Craven, D.**). (2024) Tropical forest succession increases taxonomic and functional tree richness but decreases evenness. Global Ecology and Biogeography: e13856.  
+
 3. Santini, L., **Craven, D.**, Rodriguez, D.R.O., Quintilhan, M.T., Gibson-Carpintero, S., Torres, C.A., Roig, F.A., Muñoz, A.A. & Venegas-Gonzalez, A. (2024) Extreme drought triggers parallel shifts in wood anatomical and physiological traits in upper treeline of the Mediterranean Andes. Ecological Processes, 13, 10.  
+
+9. Schorn ME, (including **Craven, D.**). (2024) Tree demographic strategies largely overlap across succession in Neotropical wet and dry forest communities. Ecology 105: e4321.
 
 4. Thouvenot, L., Ferlian, O., **Craven, D.**, Johnson, E.A., Köhler, J., Lochner, A., Quosh, J., Zeuner, A. & Eisenhauer, N. (2024) Invasive earthworms can change understory plant community traits and reduce plant functional diversity. iScience, 27, 109036.
 
