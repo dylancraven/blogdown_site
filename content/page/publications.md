@@ -13,8 +13,8 @@ output: html_document
 
 ## Publications (2007-present)  
 
-[Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1)  
-If you don't have access to a PDF, please send me a request via **e-mail** (<dylan.craven@umayor.cl>).
+Also see [Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1)  for Dr. Craven's publications. 
+If you don't have access to a PDF, please send me a request via [**e-mail**](<dylan.craven@umayor.cl>).
 
 1. van Breugel, M., et al. (including **Craven, D.**). (2024) Feedback loops drive ecological succession: towards a unified conceptual framework. Biological Reviews.
 
