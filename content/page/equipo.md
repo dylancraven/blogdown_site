@@ -15,7 +15,7 @@ _Ecológo, Lousiana State University_
 
 ### Laura Pérez-Giraldo, postdoctorante, Data Observatory (Chile)  
 ![blaa10](/img/LPerez.png)  
-_Ecológa, Universidad de Chile_  
+_Bióloga, Universidad de Chile_  
 [Laura](https://scholar.google.com/citations?user=kECl0VgAAAAJ&hl=en&authuser=1) investiga los servicios ecosistémicos asociados con la polinización en paisajes agrícolas. Utilizando la teledetección, construye modelos a escala de paisaje para analizar el uso de los recursos florales por los polinizadores y cómo el cambio en el uso del suelo puede afectar este proceso. Supervisada en colaboración con [Dr. Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/). 
 
 ### Elias Encina Alfaro, estudiante de doctorado, Universidad Mayor 
