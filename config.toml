@@ -16,11 +16,11 @@ googleAnalytics = "G-6D712T1JVB"
 #  subtitle = "Build a beautiful and simple website in minutes"
   mainSections = ["Research","Team","Join","Publications","Data"]
   logo = "img/logo.png" # Expecting square dimensions
-     width = 350
-     height = 350
+     width = 450
+     height = 450
      alt = "Home"
   favicon = "img/favicon.ico"
-  dateFormat = "2006"
+  dateFormat = "January 2, 2006"
   commit = true
   #rss = true
   comments = true
@@ -30,7 +30,7 @@ googleAnalytics = "G-6D712T1JVB"
   socialShare = false
   delayDisqus = true
   showRelatedPosts = false
-#  hideAuthor = true
+  hideAuthor = false
   gcse = "14ecb6d9e50aa47bc" 
 # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
