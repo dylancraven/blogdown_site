@@ -27,9 +27,9 @@ googleAnalytics = "G-6D712T1JVB"
   readingTime = true
   wordCount = true
   useHLJS = true
-  socialShare = true
+  socialShare = false
   delayDisqus = true
-  showRelatedPosts = true
+  showRelatedPosts = false
 #  hideAuthor = true
   gcse = "14ecb6d9e50aa47bc" 
 # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
