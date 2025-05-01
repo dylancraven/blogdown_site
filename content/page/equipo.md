@@ -37,7 +37,7 @@ Elias tiene interés en los impactos de las invasiones biológicas en la diversi
 [Tobias](https://www.uni-frankfurt.de/74282931/Theses) examina cómo la relación entre la diversidad y la elevación varía con latitud en los ecosistemas forestales de Ámerica del Sur.  Supervisado en colaboración con [Dr. Severin Irl](https://www.uni-frankfurt.de/74293070/Prof__Dr__Severin_Irl).   
 
 ### Daniela Ramírez Riveros, estudiante de doctorado, Universidad Mayor  
-![bla12]((/img/DanielaRamirez.png)  
+![bla12](/img/DanielaRamirez.png)  
 _Profesora de Biología y Ciencias Naturales, Universidad de La Serena_  
 [Daniela] tiene interés en los mecanismos ecológicos que subyacen las invasiones biológicas en ecosistemas urbanos.  Supervisado en colaboración con [César González](https://pure.uai.cl/es/persons/cesar-gonzalez).  
 
@@ -61,18 +61,18 @@ _Ingeniera forestal y paisajista, Universidad de Chile_
 
 Carolina lleva muchos sombreros en su vida profesional, entre ellos, tiene una [empresa de paisajismo](https://weinmannia.cl/), y es la persona que hace pequeños y grandes milagros presupuestarios y nos facilita nuestros proyectos. 
 
-## Egresados 
+## Egresados   
 
-### María del Pilar Fernández Murillo, PhD, Universidad Mayor    
+- María del Pilar Fernández Murillo, PhD, Universidad Mayor    
 
-### Fiorella Gonzales Guillén, PhD, Pontificia Universidad Católica de Chile  
+- Fiorella Gonzales Guillén, PhD, Pontificia Universidad Católica de Chile  
 
-### María Laura Tolmos, PhD, University of Gottingen (Germany)  
+- María Laura Tolmos, PhD, University of Gottingen (Germany)  
 
-### Catalina Hernández Barrales, ingeniera forestal, Universidad Mayor  
+- Catalina Hernández Barrales, ingeniera forestal, Universidad Mayor  
 
-### Josefa Dawson, médica veterinaria, Universidad Mayor  
+- Josefa Dawson, médica veterinaria, Universidad Mayor  
 
-### Mauricio Santibañez, ingeniero forestal, Universidad Mayor  
+- Mauricio Santibañez, ingeniero forestal, Universidad Mayor  
 
-### Rodrigo Muñoz, ingeniero forestal, Universidad Mayor  
+- Rodrigo Muñoz, ingeniero forestal, Universidad Mayor  
