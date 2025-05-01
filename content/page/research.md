@@ -48,8 +48,8 @@ _Correlation network of functional diversity and composition metrics with drough
 ## Mechanisms underlying ecosystem stability and community responses to global change   
 
 Biodiversity experiments in grassland & forest ecosystems provide a powerful platform to identify mechanisms underlying biodiversity-ecosystem function  
-and biodiversity-ecosystem stability relationships. Furthermore, the relative importance of biodiversity and its mechanisms, such as complementarity,  
-may be altered by global change drivers. We primarily use [synthesis](https://natureecoevocommunity.nature.com/users/173594-dylan-craven/posts/37387-synthesizing-people-and-data-to-understand-the-multiple-drivers-of-ecosystem-stability)  
+and biodiversity-ecosystem stability relationships. Furthermore, the relative importance of biodiversity and its mechanisms, such as complementarity,  may be altered  
+by global change drivers. We primarily use [synthesis](https://natureecoevocommunity.nature.com/users/173594-dylan-craven/posts/37387-synthesizing-people-and-data-to-understand-the-multiple-drivers-of-ecosystem-stability)  
 to understand how generalisable these mechanisms are. Based on insights gained from these synthesis projects, we develop greenhouse & field studies to  
 test 'next-generation' questions.  
 
@@ -67,18 +67,16 @@ examine patterns and drivers of forest recovery across the tropics.
 <br />  
 
 In **Chile**, we collaborate with [Pablo Donoso](https://www.forestal.uach.cl/instituto/bosques-sociedad/academicos/academico.php?s=pablo-donoso) (Universidad Austral)  
-and [Daniel Soto](https://sites.google.com/view/silviculture/danielsotowebpage?authuser=0) (Pontificia Universidad Católica de Chile) to examine the impacts of forest  
-management on ecological resilience in temperate rainforests.  
+and [Daniel Soto](https://sites.google.com/view/silviculture/danielsotowebpage?authuser=0) (Pontificia Universidad Católica de Chile) to examine the impacts of forest management on ecological resilience in temperate rainforests.    
 
 ![bla](/img/aguasalud2.png)
 _Secondary forests interspersed in matrix of cattle pastures in Agua Salud, Panamá._  
 
 ## Biodiversity patterns across islands at local and biogeographical scales  
 
-Island ecosystems sustain a large proportion of global plant diversity, yet are critically imperiled due to global change. They are also a natural  
-laboratory that can be used to examine how biodiversity, ecosystem functioning, and biological invasions change from local to biogeographical scales.  
-We use an database of forest plots on islands across the Pacific Ocean to address these questions, in collaboration with [Holger Kreft (U. of Gottingen)](https://www.uni-goettingen.de/de/218853.html),    
-[Patrick Weigelt (Radboud University)](https://www.ru.nl/en/people/weigelt-p), and [Tiffany Knight (NTBG)](https://ntbg.org/science/staff/).  
+Island ecosystems sustain a large proportion of global plant diversity, yet are critically imperiled due to global change. They are also a natural laboratory  
+that can be used to examine how biodiversity, ecosystem functioning, and biological invasions change from local to biogeographical scales. We use an database  
+of forest plots on islands across the Pacific Ocean to address these questions, in collaboration with [Holger Kreft (U. of Gottingen)](https://www.uni-goettingen.de/de/218853.html), [Patrick Weigelt (Radboud University)](https://www.ru.nl/en/people/weigelt-p), and [Tiffany Knight (NTBG)](https://ntbg.org/science/staff/).    
 Our initial work has focused on the Hawaiian Islands and now are expanding our focus to the entire Pacific Ocean (see [publications]({{< ref "/page/publications" >}})).   
 
 ![Islands](/img/islands33.png)
