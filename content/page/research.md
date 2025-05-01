@@ -26,8 +26,9 @@ output: html_document
 Identifying the drivers of biodiversity and their relationships with ecosystem functioning across large spatial scales is essential  
 for strengthening the conservation and management of natural ecosystems. Chile is an excellent natural laboratory for studying spatial  
 patterns of biodiversity’s multiple facets, given its diversity in environmental conditions and topography and unique biogeographic history.  
-However, there are persistent shortfalls in [biodiversity data in Chile](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13755) that have prevented addressing such issues. Bridging extant gaps in   
-biodiversity data and knowledge of ecosystems in biodiversity hotspots such as Chile remains a major scientific challenge.  
+However, there are persistent shortfalls in [biodiversity data in Chile](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13755) that have  
+prevented addressing such issues. Bridging extant gaps in biodiversity data and knowledge of ecosystems in biodiversity hotspots such as Chile  
+remains a major scientific challenge.  
 
 In this project, we aim to identify the environmental, geographical, and anthropogenic factors that shape spatial patterns of woody plant diversity  
 across Chile and to quantify the extent to which carbon storage is affected by biodiversity.  
@@ -39,7 +40,8 @@ _Current progress in functional trait sampling (approx. 160 woody species) acros
 ## Impacts of extreme droughts     
 
 With a multi-disciplinary group of colleagues, we are developing a multi-scale platform to 
-monitor drought and its multi-faceted impacts in Chile (see [**Observatorio de sequía para la agricultura y biodiversidad de Chile**](https://odes-chile.org/)), at national and regional scales. My team is focused on examining where and how biodiversity may buffer the impacts of the extreme drought in Chile (2010-present).  
+monitor drought and its multi-faceted impacts in Chile (see [**Observatorio de sequía para la agricultura y biodiversidad de Chile**](https://odes-chile.org/)),  
+at national and regional scales. My team is focused on examining where and how biodiversity may buffer the impacts of the extreme drought in Chile (2010-present).  
 
 
 ![bla](/img/Acon_CorrNet.png)   
@@ -47,7 +49,11 @@ _Correlation network of functional diversity and composition metrics with drough
 
 ## Mechanisms underlying ecosystem stability and community responses to global change   
 
-Biodiversity experiments in grassland & forest ecosystems provide a powerful platform to identify mechanisms underlying biodiversity-ecosystem function and biodiversity-ecosystem stability relationships. Furthermore, the relative importance of biodiversity and its mechanisms, such as complementarity, may be altered by global change drivers. We primarily use [synthesis](https://natureecoevocommunity.nature.com/users/173594-dylan-craven/posts/37387-synthesizing-people-and-data-to-understand-the-multiple-drivers-of-ecosystem-stability) to understand how generalisable these mechanisms are. Based on insights gained from these synthesis projects, we develop greenhouse & field studies to test 'next-generation' questions.
+Biodiversity experiments in grassland & forest ecosystems provide a powerful platform to identify mechanisms underlying biodiversity-ecosystem function  
+and biodiversity-ecosystem stability relationships. Furthermore, the relative importance of biodiversity and its mechanisms, such as complementarity,  
+may be altered by global change drivers. We primarily use [synthesis](https://natureecoevocommunity.nature.com/users/173594-dylan-craven/posts/37387-synthesizing-people-and-data-to-understand-the-multiple-drivers-of-ecosystem-stability)  
+to understand how generalisable these mechanisms are. Based on insights gained from these synthesis projects, we develop greenhouse & field studies to  
+test 'next-generation' questions.  
 
 ![bla](/img/experiment2.png)  
 _Greenhouse experiment testing the impacts of functional diversity on belowground ecosystem functioning (Leipzig, Germany)._
@@ -63,7 +69,8 @@ examine patterns and drivers of forest recovery across the tropics.
 <br />  
 
 In **Chile**, we collaborate with [Pablo Donoso](https://www.forestal.uach.cl/instituto/bosques-sociedad/academicos/academico.php?s=pablo-donoso) (Universidad Austral)  
-and [Daniel Soto](https://sites.google.com/view/silviculture/danielsotowebpage?authuser=0) (Pontificia Universidad Católica de Chile) to examine the impacts of forest management on ecological resilience in temperate rainforests.
+and [Daniel Soto](https://sites.google.com/view/silviculture/danielsotowebpage?authuser=0) (Pontificia Universidad Católica de Chile) to examine the impacts of forest  
+management on ecological resilience in temperate rainforests.  
 
 ![bla](/img/aguasalud2.png)
 _Secondary forests interspersed in matrix of cattle pastures in Agua Salud, Panamá._  
