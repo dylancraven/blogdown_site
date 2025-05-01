@@ -26,9 +26,9 @@ output: html_document
 Identifying the drivers of biodiversity and their relationships with ecosystem functioning across large spatial scales is essential for strengthening the conservation  
 and management of natural ecosystems. Chile is an excellent natural laboratory for studying spatial patterns of biodiversity’s multiple facets, given its diversity  
 in environmental conditions and topography and unique biogeographic history. However, there are persistent shortfalls in [biodiversity data in Chile](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13755)  
-that have prevented addressing such issues. Bridging extant gaps in biodiversity data and knowledge of ecosystems in biodiversity hotspots such as Chile remains a major scientific challenge.    
+that have prevented addressing such issues. Bridging extant gaps in biodiversity data and knowledge of ecosystems in biodiversity hotspots such as Chile remains a major scientific challenge (but see [Rasgos-CL](https://rasgos.cl/).      
 
-In this project, we aim to identify the environmental, geographical, and anthropogenic factors that shape spatial patterns of woody plant diversity  
+We aim to identify the environmental, geographical, and anthropogenic factors that shape spatial patterns of woody plant diversity  
 across Chile and to quantify the extent to which carbon storage is affected by biodiversity.  
 
 ![Functional_biogeography](/img/FD_muestreo.png)  
