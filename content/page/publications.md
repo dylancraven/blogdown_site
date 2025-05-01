@@ -16,9 +16,15 @@ output: html_document
 Also see [Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1)  for Dr. Craven's publications.   
 If you don't have access to a PDF, please send me a request via [**e-mail**](<dylan.craven@umayor.cl>).
 
-1. van Breugel, M., et al. (including **Craven, D.**). (2024) Feedback loops drive ecological succession: towards a unified conceptual framework. Biological Reviews.
+1. Hernández, C., Venegas-González, A., Santini Jr., L., and **Craven, D**. (2025). Shifts in trait diversity across the range of an endemic treeline species in central Chile. Annals of Botany, mcaf052. 
+
+2. van Breugel, M., Hall, J. S., Bailon, M., and **Craven, D**. (2025). Persistent Effects of Landscape Context on Recruitment Dynamics During Secondary Succession of Tropical Forests. Global Change Biology, 31(1), e70037.
+
+1. van Breugel, M., et al. (including **Craven, D.**). (2024) Feedback loops drive ecological succession: towards a unified conceptual framework. Biological Reviews 99: 928-949.
 
 2. He, M., et al. (including **Craven, D.**). (2024) Cumulative nitrogen enrichment alters the drivers of grassland overyielding. Communications Biology, 7, 1–10.
+
+10. Lipoma, L., et al. (including **Craven, D.**). (2024). No general support for functional diversity enhancing resilience across terrestrial plant communities. Global Ecology and Biogeography, e13895.
 
 7. Ramirez JA, **Craven D**, Herrera D, et al. (2024) Non-structural carbohydrate concentrations in tree organs vary across biomes and leaf habits, but are independent of the fast-slow plant economic spectrum. Frontiers in Plant Science 15.  
 

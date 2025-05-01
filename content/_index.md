@@ -13,7 +13,7 @@ type: no_footer
   {{< figure src="/img/VelodelaNovia.png" link="/img/VelodelaNovia.png" caption="Radal Siete Tazas"  >}}
 {{< /gallery >}}
 
-We explore drivers of temporal and spatial patterns of biodiversity and biodiversity change and their consequences, mostly in forest and grassland ecosystems. We are based in Chile, whose unique geography and climate provide a compelling template to address the following [questions]({{< ref "/page/research" >}}) using an array of approaches, principally functional biogeography, ecology, and synthesis:  
+We explore drivers of temporal and spatial patterns of biodiversity and biodiversity change and their consequences, mostly in forest and grassland ecosystems. We are based in Chile, whose unique geography and climate provide a compelling template to address the following [questions]({{< ref "/page/research" >}}):    
 
 **i) How do ecological and historical drivers shape biodiversity patterns?**
 
