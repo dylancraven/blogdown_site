@@ -25,8 +25,8 @@ output: html_document
 
 Identifying the drivers of biodiversity and their relationships with ecosystem functioning across large spatial scales is essential for strengthening the conservation  
 and management of natural ecosystems. Chile is an excellent natural laboratory for studying spatial patterns of biodiversity’s multiple facets, given its diversity  
-in environmental conditions and topography and unique biogeographic history. However, there are persistent shortfalls in [biodiversity data in Chile](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13755)  
-that have prevented addressing such issues. Bridging extant gaps in biodiversity data and knowledge of ecosystems in biodiversity hotspots such as Chile remains a major scientific challenge (but see [Rasgos-CL](https://rasgos.cl/)).      
+in environmental conditions and topography and unique biogeographic history. However, there are persistent shortfalls in [biodiversity data in Chile](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13755) that have prevented addressing such issues.  
+Bridging extant gaps in biodiversity data and knowledge of ecosystems in biodiversity hotspots such as Chile remains a major scientific challenge (but see [Rasgos-CL](https://rasgos.cl/)).      
 
 We aim to identify the environmental, geographical, and anthropogenic factors that shape spatial patterns of woody plant diversity across Chile and to quantify the extent to which carbon storage is affected by biodiversity.    
 
@@ -49,10 +49,9 @@ _Correlation network of functional diversity and composition metrics with drough
 
 ## Mechanisms underlying ecosystem stability and community responses to global change   
 
-Biodiversity experiments in grassland & forest ecosystems provide a powerful platform to identify mechanisms underlying biodiversity-ecosystem function and biodiversity-ecosystem stability relationships.  
-Furthermore, the relative importance of biodiversity and its mechanisms, such as complementarity,  may be altered  
-by global change drivers. We primarily use [synthesis](https://natureecoevocommunity.nature.com/users/173594-dylan-craven/posts/37387-synthesizing-people-and-data-to-understand-the-multiple-drivers-of-ecosystem-stability) to understand how generalisable these mechanisms are.  
-Based on insights gained from these synthesis projects, we develop greenhouse & field studies to test 'next-generation' questions.    
+Biodiversity experiments in grassland & forest ecosystems provide a powerful platform to identify mechanisms underlying biodiversity-ecosystem function and biodiversity-ecosystem stability relationships. Furthermore, the relative importance of biodiversity and its mechanisms,  
+such as complementarity,  may be altered by global change drivers. We primarily use [synthesis](https://natureecoevocommunity.nature.com/users/173594-dylan-craven/posts/37387-synthesizing-people-and-data-to-understand-the-multiple-drivers-of-ecosystem-stability) to understand  
+how generalisable these mechanisms are. Based on insights gained from these synthesis projects, we develop greenhouse & field studies to test 'next-generation' questions.    
 
 ![bla](/img/experiment2.png)  
 _Greenhouse experiment testing the impacts of functional diversity on belowground ecosystem functioning (Leipzig, Germany)._
