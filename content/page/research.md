@@ -37,8 +37,11 @@ _Current progress in functional trait sampling (approx. 160 woody species) acros
 ## Impacts of extreme droughts     
 
 With a multi-disciplinary group of colleagues, we are developing a multi-scale platform to 
-monitor drought and its multi-faceted impacts in Chile (see [**Observatorio de sequía para la agricultura y biodiversidad de Chile**](https://odes-chile.org/)),  
-at national and regional scales. My team is focused on examining where and how biodiversity may buffer the impacts of the extreme drought in Chile (2010-present).  
+monitor drought and its multi-faceted impacts in Chile (see [**Observatorio de sequía para la agricultura y biodiversidad de Chile**](https://odes-chile.org/)), at national and regional scales.  
+
+<br /> 
+
+My team is focused on examining where and how biodiversity may buffer the impacts of the extreme drought in Chile (2010-present).  
 
 
 ![bla](/img/Acon_CorrNet.png)   
@@ -46,11 +49,10 @@ _Correlation network of functional diversity and composition metrics with drough
 
 ## Mechanisms underlying ecosystem stability and community responses to global change   
 
-Biodiversity experiments in grassland & forest ecosystems provide a powerful platform to identify mechanisms underlying biodiversity-ecosystem function  
-and biodiversity-ecosystem stability relationships. Furthermore, the relative importance of biodiversity and its mechanisms, such as complementarity,  may be altered  
-by global change drivers. We primarily use [synthesis](https://natureecoevocommunity.nature.com/users/173594-dylan-craven/posts/37387-synthesizing-people-and-data-to-understand-the-multiple-drivers-of-ecosystem-stability)  
-to understand how generalisable these mechanisms are. Based on insights gained from these synthesis projects, we develop greenhouse & field studies to  
-test 'next-generation' questions.  
+Biodiversity experiments in grassland & forest ecosystems provide a powerful platform to identify mechanisms underlying biodiversity-ecosystem function and biodiversity-ecosystem stability relationships.  
+Furthermore, the relative importance of biodiversity and its mechanisms, such as complementarity,  may be altered  
+by global change drivers. We primarily use [synthesis](https://natureecoevocommunity.nature.com/users/173594-dylan-craven/posts/37387-synthesizing-people-and-data-to-understand-the-multiple-drivers-of-ecosystem-stability) to understand how generalisable these mechanisms are.  
+Based on insights gained from these synthesis projects, we develop greenhouse & field studies to test 'next-generation' questions.    
 
 ![bla](/img/experiment2.png)  
 _Greenhouse experiment testing the impacts of functional diversity on belowground ecosystem functioning (Leipzig, Germany)._
