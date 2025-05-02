@@ -39,7 +39,7 @@ Elias tiene interés en los impactos de las invasiones biológicas en la diversi
 ### Daniela Ramírez Riveros, estudiante de doctorado, Universidad Mayor  
 ![bla12](/img/DanielaRamirez.png)  
 _Profesora de Biología y Ciencias Naturales, Universidad de La Serena_  
-Daniela tiene interés en los mecanismos ecológicos que subyacen las invasiones biológicas en ecosistemas urbanos.  Supervisado en colaboración con [César González](https://pure.uai.cl/es/persons/cesar-gonzalez).  
+Daniela tiene interés en los mecanismos ecológicos que subyacen las invasiones biológicas en ecosistemas urbanos.  Supervisada en colaboración con [César González](https://pure.uai.cl/es/persons/cesar-gonzalez).  
 
 ### Valentina Pérez, estudiante de mágister, Universidad Austral de Chile  
 ![blaa10](/img/ValentinaPerez.png) 
