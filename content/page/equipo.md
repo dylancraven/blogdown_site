@@ -43,9 +43,13 @@ Daniela tiene interés en los mecanismos ecológicos que subyacen las invasiones
 
 ### Valentina Pérez, estudiante de mágister, Universidad Austral de Chile  
 ![blaa10](/img/ValentinaPerez.png) 
+Supervisada en colaboración con [Susana Paula](https://orcid.org/0000-0001-5405-6155).  
+
 
 ### Carla Quinteros, estudiante de mágister, Universidad de Chile 
 ![blaa8](/img/CarlaQuinteros5.png)  
+Supervisada en colaboración con [Juan Ovalle](https://sites.google.com/uchile.cl/juanovalle/home).  
+
 
 ### Aron Cadiz, estudiante de mágister, Universidad de Concepción   
 
