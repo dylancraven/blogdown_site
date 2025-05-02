@@ -78,6 +78,9 @@ _Secondary forests interspersed in matrix of cattle pastures in Agua Salud, Pana
 Island ecosystems sustain a large proportion of global plant diversity, yet are critically imperiled due to global change. They are also a natural laboratory  
 that can be used to examine how biodiversity, ecosystem functioning, and biological invasions change from local to biogeographical scales. We use an database  
 of forest plots on islands across the Pacific Ocean to address these questions, in collaboration with [Holger Kreft (U. of Gottingen)](https://www.uni-goettingen.de/de/218853.html), [Patrick Weigelt (Radboud University)](https://www.ru.nl/en/people/weigelt-p), and [Tiffany Knight (NTBG)](https://ntbg.org/science/staff/).    
+
+<br />  
+
 Our initial work has focused on the Hawaiian Islands and now are expanding our focus to the entire Pacific Ocean (see [publications]({{< ref "/page/publications" >}})).   
 
 ![Islands](/img/islands33.png)
