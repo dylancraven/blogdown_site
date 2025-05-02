@@ -28,8 +28,7 @@ and management of natural ecosystems. Chile is an excellent natural laboratory f
 in environmental conditions and topography and unique biogeographic history. However, there are persistent shortfalls in [biodiversity data in Chile](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13755)  
 that have prevented addressing such issues. Bridging extant gaps in biodiversity data and knowledge of ecosystems in biodiversity hotspots such as Chile remains a major scientific challenge (but see [Rasgos-CL](https://rasgos.cl/)).      
 
-We aim to identify the environmental, geographical, and anthropogenic factors that shape spatial patterns of woody plant diversity  
-across Chile and to quantify the extent to which carbon storage is affected by biodiversity.  
+We aim to identify the environmental, geographical, and anthropogenic factors that shape spatial patterns of woody plant diversity across Chile and to quantify the extent to which carbon storage is affected by biodiversity.    
 
 ![Functional_biogeography](/img/FD_muestreo.png)  
 _Current progress in functional trait sampling (approx. 160 woody species) across central and southern Chile (2020-2022)_  
