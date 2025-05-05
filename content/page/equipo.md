@@ -25,7 +25,7 @@ _Bióloga, Universidad de Chile_
 ### Laura Renderos, postdoctorante, Universidad Mayor y Universidad Adolfo Ibáñez (Chile)  
 ![blaa13](/img/LRenderos.png)  
 _Bióloga, Pontificia Universidad Católica de Chile_   
-[Laura](https://www.researchgate.net/profile/Laura-Renderos) nvestiga las interacciones entre plantas y microorganismos, especialmente las asociaciones micorrizicas. También le interesa la conservación de la biodiversidad, la restauración ecológica y el uso de interacciones simbióticas como herramienta para promover la resiliencia ecológica en el contexto del cambio global. Supervisada en colaboración con [Dr. Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/). 
+[Laura](https://www.researchgate.net/profile/Laura-Renderos) investiga las interacciones entre plantas y microorganismos, especialmente las asociaciones micorrizicas. También le interesa la conservación de la biodiversidad, la restauración ecológica y el uso de interacciones simbióticas como herramienta para promover la resiliencia ecológica en el contexto del cambio global. También se encarga de actualizar [Rasgos-CL](www.rasgos.cl). Supervisada en colaboración con [Dr. Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/). 
 
 
 ### José Miguel Cerda, estudiante de doctorado, Universidad Adolfo Ibáñez    
