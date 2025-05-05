@@ -33,10 +33,10 @@ _Bióloga, Pontificia Universidad Católica de Chile_
 _Biólogo, Pontificia Universidad Católica de Chile_  
 [José Miguel](https://scholar.google.com/citations?hl=en&authuser=1&user=U6CL5OYAAAAJ) evalua la diversidad funcional de los bosques esclerófilos y el impacto del cambio climático en los rasgos funcionales de plantas leñosas en Chile central con métodos ecológicos clásicos y de teledetección. Supervisado en colaboración con [Dr. Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/). 
 
-### Elias Encina Alfaro, estudiante de doctorado, Universidad Mayor  
+### Elías Encina Alfaro, estudiante de doctorado, Universidad Mayor  
 ![blaa7](/img/Elias2020.png)    
 _Geógrafo, Universidad de Chile_  
-Elias tiene interés en los impactos de las invasiones biológicas en la diversidad taxonòmica y funcional de las abejas nativas en Chile central. Supervisado en colaboración con [Dr. Maureen Múrua](https://maureenmurua.wordpress.com/).    
+Elias tiene interés en los impactos de las invasiones biológicas en la diversidad taxonómica y funcional de las abejas nativas en Chile central. Supervisado en colaboración con [Dr. Maureen Múrua](https://maureenmurua.wordpress.com/).    
 
 ### Tobias Michelt, estudiante de doctorado, Goethe University of Frankfurt  
 
