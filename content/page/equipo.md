@@ -21,11 +21,17 @@ _Ecológo, Lousiana State University_
 _Bióloga, Universidad de Chile_  
 [Laura](https://scholar.google.com/citations?user=kECl0VgAAAAJ&hl=en&authuser=1) investiga los servicios ecosistémicos asociados con la polinización en paisajes agrícolas. Utilizando la teledetección, construye modelos a escala de paisaje para analizar el uso de los recursos florales por los polinizadores y cómo el cambio en el uso del suelo puede afectar este proceso. Supervisada en colaboración con [Dr. Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/). 
 
+
+### Laura Renderos, postdoctorante, Universidad Mayor y Universidad Adolfo Ibáñez (Chile)  
+![blaa13](/img/LRenderos.png)  
+_Bióloga, Pontificia Universidad Católica de Chile_   
+[Laura](https://www.researchgate.net/profile/Laura-Renderos) nvestiga las interacciones entre plantas y microorganismos, especialmente las asociaciones micorrizicas. También le interesa la conservación de la biodiversidad, la restauración ecológica y el uso de interacciones simbióticas como herramienta para promover la resiliencia ecológica en el contexto del cambio global. Supervisada en colaboración con [Dr. Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/). 
+
+
 ### José Miguel Cerda, estudiante de doctorado, Universidad Adolfo Ibáñez    
 ![blaa6](/img/JoseMiguel.png)  
 _Biólogo, Pontificia Universidad Católica de Chile_  
-[José Miguel](https://scholar.google.com/citations?hl=en&authuser=1&user=U6CL5OYAAAAJ) es un ecólogo cuya línea de investigación se enfoca en evaluar la diversidad funcional del bosque esclerófilo y el efecto del cambio climático sobre los rasgos funcionales de las plantas en la zona central de Chile. 
-José examina la respuesta de los rasgos funcionales afectados por el estés hídrico, por medio de métodos ecológicos clásicos y comparados con métodos de percepción remota. Supervisado en colaboración con [Dr. Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/). 
+[José Miguel](https://scholar.google.com/citations?hl=en&authuser=1&user=U6CL5OYAAAAJ) evalua la diversidad funcional de los bosques esclerófilos y el impacto del cambio climático en los rasgos funcionales de plantas leñosas en Chile central con métodos ecológicos clásicos y de teledetección. Supervisado en colaboración con [Dr. Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/). 
 
 ### Elias Encina Alfaro, estudiante de doctorado, Universidad Mayor  
 ![blaa7](/img/Elias2020.png)    
