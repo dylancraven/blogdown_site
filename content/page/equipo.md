@@ -56,7 +56,6 @@ Supervisada en colaboración con [Susana Paula](https://orcid.org/0000-0001-5405
 ![blaa8](/img/CarlaQuinteros5.png)  
 Supervisada en colaboración con [Juan Ovalle](https://sites.google.com/uchile.cl/juanovalle/home).  
 
-
 ### Aron Cadiz, estudiante de mágister, Universidad de Concepción   
 
 Supervisado en colaboración con [Pablo Guerrero](https://www.naturalesudec.cl/pablo-guerrero/).  
@@ -69,7 +68,7 @@ Supervisado en colaboración con [Pablo Donoso](https://www.forestal.uach.cl/ins
 ![blaa9](/img/carola.png)    
 _Ingeniera forestal y paisajista, Universidad de Chile_  
 
-Carolina lleva muchos sombreros en su vida profesional, entre ellos, tiene una [empresa de paisajismo](https://weinmannia.cl/), y es la persona que hace pequeños y grandes milagros presupuestarios y nos facilita nuestros proyectos. 
+Carolina lleva muchos sombreros en su vida profesional, entre ellos, tiene una [empresa de diseño exterior e interior](https://www.biofeeling.cl/). 
 
 ## Egresados   
 
