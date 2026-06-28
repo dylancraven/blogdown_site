@@ -16,9 +16,37 @@ output: html_document
 Also see [Google Scholar](https://scholar.google.com/citations?user=rz2vROgAAAAJ&hl=en&authuser=1)  for Dr. Craven's publications.   
 If you don't have access to a PDF, please send me a request via [**e-mail**](<dylan.craven@umayor.cl>).
 
-1. Hernández, C., Venegas-González, A., Santini Jr., L., and **Craven, D**. (2025). Shifts in trait diversity across the range of an endemic treeline species in central Chile. Annals of Botany, mcaf052. 
 
-2. van Breugel, M., Hall, J. S., Bailon, M., and **Craven, D**. (2025). Persistent Effects of Landscape Context on Recruitment Dynamics During Secondary Succession of Tropical Forests. Global Change Biology, 31(1), e70037.
+1. Hong, P. et al. (including **Craven, D.**). (2026) Mechanistic links between coexistence, productivity, and stability in experimental grasslands. Proceedings of the National Academy of Sciences, 123, e2602893123.
+
+2. Isbell, F. et al. (including **Craven, D.**). (2026) Predicting temporal stability and resilience from resistance and recovery. Nature, 1–7.
+
+3. Morales, N.S., Fernández, I.C., Durán, L. and **Craven, D.** (2026) Tiny forests, huge claims: The evidence gap behind the Miyawaki method for forest restoration. Journal of Applied Ecology, 63, e70242.
+
+4. Ovalle, J.F. and **Craven, D**. (2026) Conservation gains should not be at the mercy of political changes. Nature, 653, 1262–1262.
+
+5. Pérez-Giraldo, L.C., Paredes, J.M.C., **Craven, D**. and Lopatin, J. (2026) Environmental heterogeneity and spatial variation mediates plant diversity and ecosystem stability in mountain ecosystems of the Mediterranean Andes. Ecography, e08305.
+
+6. Rönnfeldt, A., Holle, V., Schifferle, K., Gallien, L., Knight, T., Weigelt, P., **Craven, D.**, Sarmento Cabral, J. and Zurell, D. (2026) Climatic niche conservatism in non-native plants depends on introduction history and biogeographic context. Nature Communications, 17, 416.
+
+1. van Breugel, M., Hall, J. S., Bailon, M., and **Craven, D**. (2025). Persistent Effects of Landscape Context on Recruitment Dynamics During Secondary Succession of Tropical Forests. Global Change Biology, 31(1), e70037.
+
+2. Hernández, C., Venegas-González, A., Santini Jr., L., and **Craven, D**. (2025). Shifts in trait diversity across the range of an endemic treeline species in central Chile. Annals of Botany, mcaf052. 
+
+3. Holle, V., Rönnfeldt, A., Schifferle, K., Sarmento Cabral, J., **Craven, D.**, Knight, T., Seebens, H., Weigelt, P. and Zurell, D. (2025) Uncertainty in blacklisting potential Pacific plant invaders using species distribution models. Journal of Applied Ecology, 62, 3178–3193.
+
+4. Hou, Y., Li, X., Wang, S., Simons, N.K., **Craven, D.** and Wang, C. (2025) Land use conversion weakens the cascading effects of plant diversity on temporal stability of high trophic levels at multiple spatial scales in grasslands. Agriculture, Ecosystems & Environment, 392, 109742.
+
+5. Mellado-Mansilla, D., Weigelt, P., Kessler, M., **Craven, D.**, Zotz, G. and Kreft, H. (2025) Water availability and evolutionary similarity shape the global distribution of ferns with chlorophyllous spores. Ecography, e08095.
+
+6. Meng, B. et al. (including **Craven, D.**). (2025) Stabilizing effects of biodiversity arise from species-specific dynamics rather than interspecific interactions in grasslands. Nature Ecology /& Evolution, 9, 1837–1847.
+
+7. Michelt, T., **Craven, D.**, Peréz-Tello, V. and Irl, S.D.H. (2025) Diversity–Elevation Relationships of Vascular Plants in Austral Temperate Ecosystems Are Strata Dependent. Ecology and Evolution, 15, e72515.
+
+8. Zambrano, F., Vrieling, A., Meza, F., Duran-Llacer, I., Fernández, F., Venegas-González, A., Raab, N. and **Craven, D**. (2025) From Drought to Aridification: Land-Cover Fingerprints of a Drying Chile. Earth’s Future, 13, e2025EF006744.
+
+9. Zhao, Y., Zeng, D., Matthews, T.J., **Craven, D.**, Tingley, M.W., Wang, S., Li, S., Ding, P. & Si, X. (2025) Island Biogeography and Life-History Traits Stabilize Island Bird Communities. Global Change Biology, 31, e70535.
+
 
 1. van Breugel, M., et al. (including **Craven, D.**). (2024) Feedback loops drive ecological succession: towards a unified conceptual framework. Biological Reviews 99: 928-949.
 
