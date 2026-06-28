@@ -5,7 +5,7 @@ date: "2024"
 ---
 ![Islands](/img/ElJiral_paisaje_b_w3_2.png)  
 
-Our laboratory is committed to making the data that we collect available publicly. All data sets are open access, and are available via DataDryad or Figshare. Dylan is a member of the [Open Traits Initiative](https://opentraits.org).   
+Our laboratory is committed to making the data that we collect available publicly. All data sets are open access.   
 
 1. __Rasgos-CL__: 23 traits compiled from literature for 718 woody species in Chile.  
    Download [here](https://github.com/dylancraven/Rasgos-CL)    

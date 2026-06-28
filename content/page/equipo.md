@@ -11,11 +11,6 @@ _Ecológo, Yale University (School of the Environment)_
 [Dylan](https://scholar.google.com/citations?hl=en&authuser=1&user=rz2vROgAAAAJ) investiga patrones temporales y espaciales de la biodiversidad y sus implicaciones, y usa aproximaciones de la ecología funcional y la macroecología para abordar esos temas. Dylan también está afiliado con el [Data Observatory](https://www.dataobservatory.net/), donde busca impulsar un nuevo modelo de ciencia enfocado en el uso de datos abiertos para potenciar la investigación de la biodiversidad en Chile. Para más información sobre sus intereses de investigación, consulte la página de sus [publicaciones]({{< ref "/page/publications" >}}), o contacte a Dylan por **e-mail** (<dylan.craven@umayor.cl>).    
 
 
-### Luis Y. Santiago-Rosario, NSF Postdoctoral Fellow, Universidad de Minnesota (EE.UU) y Universidad Mayor  
-![blaa3](/img/LuisSantiago.png)  
-_Ecológo, Lousiana State University_   
-[Luis](https://scholar.google.com/citations?hl=en&authuser=1&user=dTZFEfIAAAAJ) es un ecólogo y biólogo evolutivo puertorriqueño apasionado por comprender cómo los organismos interactúan con su entorno y entre sí. Emplea métodos comparativos, experimentos e historia natural en su investigación. Actualmente, se enfoca en desentrañar la distribución y el mantenimiento de metales pesados y sales en plantas a lo largo de gradientes urbanos, y su impacto en otros niveles tróficos (como herbívoros y humanos). Además, investiga los procesos macroecológicos y evolutivos que sustentan las interacciones entre muerdagos y sus hospederos a nivel local, regional y global. Luis también es cofundador del [Club Eco-Evo Latinoamérica](https://ecoevolat.github.io/), una organización dedicada a la divulgación y el intercambio científico en ecología y evolución en español y portugués. 
-
 ### Laura Pérez-Giraldo, postdoctorante, Data Observatory (Chile)  
 ![blaa10](/img/LPerez.png)  
 _Bióloga, Universidad de Chile_  
@@ -27,16 +22,22 @@ _Bióloga, Universidad de Chile_
 _Bióloga, Pontificia Universidad Católica de Chile_   
 [Laura](https://www.researchgate.net/profile/Laura-Renderos) investiga las interacciones entre plantas y microorganismos, especialmente las asociaciones micorrizicas. También le interesa la conservación de la biodiversidad, la restauración ecológica y el uso de interacciones simbióticas como herramienta para promover la resiliencia ecológica en el contexto del cambio global. También se encarga de actualizar [Rasgos-CL](www.rasgos.cl). Supervisada en colaboración con [Dr. Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/). 
 
+### Elías Encina Alfaro, estudiante de doctorado, Universidad Mayor  
+![blaa7](/img/Elias2020.png)    
+_Geógrafo, Universidad de Chile_  
+Elias tiene interés en los impactos de las invasiones biológicas en la diversidad taxonómica y funcional de las abejas nativas en Chile central. Supervisado en colaboración con [Dr. Maureen Múrua](https://maureenmurua.wordpress.com/).    
+
+### María Rosa Álvarez Cuello, estudiante de doctorado, Universidad Mayor  
+![blaa77](/img/MariaRosaAC.png) 
+[María Rosa](https://scholar.google.com/citations?user=_dm0XVAAAAAJ&hl=es) investiga los impulsores de la homogenización biótica desde una perspectiva funcional.  
+
+### Arón Cadiz, estudiante de doctorado, Universidad de Concepción   
+[Arón](https://scholar.google.com/citations?user=RM1OM1YAAAAJ&hl=es&oi=ao) trabaja con la diversificación de _Baccharis_ y es supervisado en colaboración con [Dr. Pablo Guerrero](https://ieb-chile.cl/persona/pablo-guerrero/).   
 
 ### José Miguel Cerda, estudiante de doctorado, Universidad Adolfo Ibáñez    
 ![blaa6](/img/JoseMiguel.png)  
 _Biólogo, Pontificia Universidad Católica de Chile_  
 [José Miguel](https://scholar.google.com/citations?hl=en&authuser=1&user=U6CL5OYAAAAJ) evalua la diversidad funcional de los bosques esclerófilos y el impacto del cambio climático en los rasgos funcionales de plantas leñosas en Chile central con métodos ecológicos clásicos y de teledetección. Supervisado en colaboración con [Dr. Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/). 
-
-### Elías Encina Alfaro, estudiante de doctorado, Universidad Mayor  
-![blaa7](/img/Elias2020.png)    
-_Geógrafo, Universidad de Chile_  
-Elias tiene interés en los impactos de las invasiones biológicas en la diversidad taxonómica y funcional de las abejas nativas en Chile central. Supervisado en colaboración con [Dr. Maureen Múrua](https://maureenmurua.wordpress.com/).    
 
 ### Tobias Michelt, estudiante de doctorado, Goethe University of Frankfurt  
 
@@ -47,36 +48,45 @@ Elias tiene interés en los impactos de las invasiones biológicas en la diversi
 _Profesora de Biología y Ciencias Naturales, Universidad de La Serena_  
 Daniela tiene interés en los mecanismos ecológicos que subyacen las invasiones biológicas en ecosistemas urbanos.  Supervisada en colaboración con [César González](https://pure.uai.cl/es/persons/cesar-gonzalez).  
 
+
 ### Valentina Pérez, estudiante de mágister, Universidad Austral de Chile  
 ![blaa10](/img/ValentinaPerez.png) 
 Supervisada en colaboración con [Susana Paula](https://orcid.org/0000-0001-5405-6155).  
-
 
 ### Carla Quinteros, estudiante de mágister, Universidad de Chile 
 ![blaa8](/img/CarlaQuinteros5.png)  
 Supervisada en colaboración con [Juan Ovalle](https://sites.google.com/uchile.cl/juanovalle/home).  
 
-### Aron Cadiz, estudiante de mágister, Universidad de Concepción   
-
-Supervisado en colaboración con [Pablo Guerrero](https://www.naturalesudec.cl/pablo-guerrero/).  
-
 ### Iván Gallardo, estudiante de mágister, Universidad Austral de Chile   
 
 Supervisado en colaboración con [Pablo Donoso](https://www.forestal.uach.cl/instituto/bosques-sociedad/academicos/academico.php?s=pablo-donoso).  
 
-### Carolina Córdova, Coordinadora Logística, Universidad Mayor    
-![blaa9](/img/carola.png)    
-_Ingeniera forestal y paisajista, Universidad de Chile_  
+### Patricio Aguilar, asisitente de investigación, Universidad Mayor  
+![blaa88](/img/PatoAguilar.png)  
+Patricio tiene interés en la restauración ecológica y ahora coordina nuestro proyecto de investigación enfocado en comprender la pérdida de la biodiversidad.  
 
-Carolina lleva muchos sombreros en su vida profesional, entre ellos, tiene una [empresa de diseño exterior e interior](https://www.biofeeling.cl/). 
 
-## Egresados   
+## Alumni   
 
-- María del Pilar Fernández Murillo, PhD, Universidad Mayor    
+- [Luis Y. Santiago-Rosario](https://scholar.google.com/citations?hl=en&authuser=1&user=dTZFEfIAAAAJ), investigador postdoctorado, Universidad de Minnesota (EE.UU) y Universidad Mayor 
 
-- Fiorella Gonzales Guillén, PhD, Pontificia Universidad Católica de Chile  
+- [María del Pilar Fernández Murillo](https://scholar.google.com/citations?user=M9YNJ6QAAAAJ&hl=es&oi=ao), PhD, Universidad Mayor    
 
-- María Laura Tolmos, PhD, University of Gottingen (Germany)  
+- [Fiorella Gonzales Guillén](https://scholar.google.com/citations?hl=es&user=M5OEliIAAAAJ), PhD, Pontificia Universidad Católica de Chile  
+
+- María Laura Tolmos, Magíster y PhD, University of Gottingen (Germany)  
+
+- Bárbara Barra, ingeniera forestal, Universidad Mayor  
+
+- Vicente Olate, ingeniera forestal, Universidad Mayor  
+
+- Crístobal Balbi, ingeniero forestal, Universidad Mayor  
+
+- Fernando Escalona, ingeniero forestal, Universidad Mayor  
+
+- Aron Texeira, ingeniero forestal, Universidad Mayor  
+
+- Benjamin Araya, ingeniero forestal, Universidad Mayor  
 
 - Catalina Hernández Barrales, ingeniera forestal, Universidad Mayor  
 
