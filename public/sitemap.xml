@@ -18,19 +18,7 @@
   
     
       <url>
-            <loc>http://localhost:1313/join/</loc>
-          </url>
-    
-  
-    
-      <url>
             <loc>http://localhost:1313/people/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/projects/</loc>
           </url>
     
   
@@ -46,12 +34,6 @@
           </url>
     
   
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/teaching/</loc>
-          </url>
     
   
 </urlset>
