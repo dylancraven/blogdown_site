@@ -1,7 +1,6 @@
 baseURL = "https://example.org/"
-languageCode = "en"
-title = "Functional Ecology and Biogeography Lab"
-
 theme = "congo"
+
+defaultContentLanguage = "en"
 
 enableRobotsTXT = true

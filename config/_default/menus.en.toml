@@ -9,34 +9,36 @@
 # By default the menu is ordered alphabetically. This can be
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
-
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "Research"
+  pageRef = "/research"
   weight = 10
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "People"
+  pageRef = "/people"
   weight = 20
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Publications"
+  pageRef = "/publications"
   weight = 30
 
 [[main]]
-  identifier = "search"
-  weight = 99
-  [main.params]
-    action = "search"
+  name = "Projects"
+  pageRef = "/projects"
+  weight = 40
 
 [[main]]
-  identifier = "locale"
-  weight = 100
-  [main.params]
-    action = "locale"
+  name = "Join"
+  pageRef = "/join"
+  weight = 50
 
+[[main]]
+  name = "Contact"
+  pageRef = "/contact"
+  weight = 60
+  
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.

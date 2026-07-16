@@ -3,20 +3,20 @@ label = "English"
 direction = "ltr"
 weight = 1
 
-title = "Congo"
+title = "Functional Ecology and Biogeography Lab"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+  # description = "Research on functional ecology and biogeography and global change"
 
 [params.author]
-  # name = "Your name here"
+  # name = "Functional Ecology and Biogeography Lab"
   # image = "img/author.jpg"
-  # headline = "I'm only human"
-  # bio = "A little bit about you"
+  # headline = "Universidad Mayor - Centro GEMA"
+  # bio = "Understanding biodiversity through functional ecology, biogeography and ecosystem resilience."
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
