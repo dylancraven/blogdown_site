@@ -1,0 +1,70 @@
+{{ define "main" }}
+
+
+<div class="max-w-6xl mx-auto px-6">
+
+  <div class="people-profile">
+
+    <!-- Left profile column -->
+    <aside class="profile-sidebar">
+
+      {{ with .Resources.GetMatch "*.jpg" }}
+      <img
+        src="{{ .RelPermalink }}"
+        alt="{{ $.Title }}"
+        class="profile-image">
+      {{ end }}
+
+      <h1 class="text-2xl font-bold">
+        {{ .Title }}
+      </h1>
+
+      {{ with .Params.role }}
+      <p class="mt-2 text-sm">
+        {{ . }}
+      </p>
+      {{ end }}
+
+      {{ with .Params.affiliation }}
+      <p class="text-sm text-gray-500">
+        {{ . }}
+      </p>
+      {{ end }}
+
+      <div class="flex justify-center gap-4 mt-5">
+
+        {{ with .Params.scholar }}
+        <a href="{{ . }}" target="_blank" rel="noopener">
+          {{ partial "icons/scholar.html" . }}
+        </a>
+        {{ end }}
+
+        {{ with .Params.orcid }}
+        <a href="{{ . }}" target="_blank" rel="noopener">
+          {{ partial "icons/orcid.html" . }}
+        </a>
+        {{ end }}
+
+        {{ with .Params.email }}
+        <a href="mailto:{{ . }}">
+          {{ partial "icons/email.html" . }}
+        </a>
+        {{ end }}
+
+      </div>
+
+    </aside>
+
+
+    <!-- Right content column -->
+    <article class="md:col-span-4 prose dark:prose-invert">
+
+      {{ .Content }}
+
+    </article>
+
+  </div>
+
+</div>
+
+{{ end }}

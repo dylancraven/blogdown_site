@@ -1,0 +1,45 @@
+<footer class="py-10 print:hidden">
+  <div class="border-t border-neutral-200 pt-8 dark:border-neutral-700">
+
+    <div class="text-sm text-neutral-500 dark:text-neutral-400">
+
+      <p class="font-semibold text-neutral-700 dark:text-neutral-300">
+        Functional Ecology and Biogeography Lab
+      </p>
+
+      <p class="mt-1">
+        <a
+          href="https://agronomia.uc.cl/facultad/departamentos/ecosistemas-y-medio-ambiente/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="hover:text-primary-600 hover:underline dark:hover:text-primary-400"
+        >
+          Department of Ecosystems and the Environment
+        </a>
+        · Pontificia Universidad Católica de Chile
+      </p>
+
+      <p class="mt-1">
+  <a
+    href="Avenida Vicuña Mackenna 4860, 6904411 Santiago, Macul, Región Metropolitana"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="hover:text-primary-600 hover:underline dark:hover:text-primary-400"
+  >
+    Campus San Joaquín, Santiago
+  </a>
+</p>
+
+      <p class="mt-4 text-xs">
+        &copy; {{ now.Format "2006" }}
+      </p>
+
+    </div>
+
+  </div>
+
+  {{/* Extend footer - eg. for extra scripts, etc. */}}
+  {{ if templates.Exists "_partials/extend-footer.html" }}
+    {{ partial "extend-footer.html" . }}
+  {{ end }}
+</footer>

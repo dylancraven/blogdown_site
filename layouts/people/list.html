@@ -1,0 +1,133 @@
+{{ define "main" }}
+
+<div class="max-w-4xl mx-auto px-6">
+
+  <h1 class="text-4xl font-bold mb-10">
+    {{ .Title }}
+  </h1>
+
+  {{ $groups := slice
+      (dict "id" "pi" "title" "Principal Investigator")
+      (dict "id" "postdoc" "title" "Postdoctoral Researchers")
+      (dict "id" "phd" "title" "PhD Students")
+      (dict "id" "msc" "title" "Master's Students")
+      (dict "id" "undergraduate" "title" "Undergraduate Researchers")
+      (dict "id" "asst" "title" "Research Assistants")
+      (dict "id" "alumni" "title" "Alumni")
+  }}
+
+  {{ range $groups }}
+
+    {{ $members := where site.RegularPages "Type" "people" }}
+    {{ $members = where $members "Params.group" .id }}
+
+    {{ if gt (len $members) 0 }}
+
+      <section class="mb-14">
+
+        <h2 class="text-2xl font-semibold border-b pb-2 mb-6">
+          {{ .title }}
+        </h2>
+
+        <div class="people-grid people-grid-{{ if eq (len $members) 1 }}one{{ else if eq (len $members) 2 }}two{{ else }}many{{ end }}">
+
+          {{ range $members }}
+
+            {{ $person := . }}
+
+            <div class="flex flex-col items-center p-4 text-center">
+
+              {{ with $person.Resources.GetMatch "*.jpg" }}
+
+                <img
+                  src="{{ .RelPermalink }}"
+                  alt="{{ $person.Title }}"
+                  class="w-32 h-32 rounded-full object-cover mb-4">
+
+              {{ else }}
+
+                {{ $words := split $person.Title " " }}
+                {{ $initials := "" }}
+
+                {{ range first 2 $words }}
+                  {{ $initials = printf "%s%s" $initials (substr . 0 1) }}
+                {{ end }}
+
+                <div
+                  class="person-placeholder"
+                  aria-label="{{ $person.Title }}">
+                  {{ $initials }}
+                </div>
+
+              {{ end }}
+
+              <h3 class="text-lg font-semibold">
+                <a
+                  href="{{ $person.RelPermalink }}"
+                  class="hover:text-primary">
+                  {{ $person.Title }}
+                </a>
+              </h3>
+
+              <div class="text-sm mt-1">
+                {{ with $person.Params.role }}
+                  {{ . }}
+                {{ end }}
+              </div>
+
+              <div class="text-sm text-gray-500 mt-1 mb-3">
+                {{ with $person.Params.affiliation }}
+                  {{ . }}
+                {{ end }}
+              </div>
+
+              <div class="mt-3 flex justify-center gap-5">
+
+                {{ with $person.Params.scholar }}
+                  <a
+                    href="{{ . }}"
+                    target="_blank"
+                    rel="noopener"
+                    class="hover:text-primary"
+                    aria-label="Google Scholar">
+                    {{ partial "icons/scholar.html" . }}
+                  </a>
+                {{ end }}
+
+                {{ with $person.Params.orcid }}
+                  <a
+                    href="{{ . }}"
+                    target="_blank"
+                    rel="noopener"
+                    class="hover:text-primary"
+                    aria-label="ORCID">
+                    {{ partial "icons/orcid.html" . }}
+                  </a>
+                {{ end }}
+
+                {{ with $person.Params.email }}
+                  <a
+                    href="mailto:{{ . }}"
+                    class="hover:text-primary"
+                    aria-label="Email">
+                    {{ partial "icons/email.html" . }}
+                  </a>
+                {{ end }}
+
+              </div>
+
+            </div>
+
+          {{ end }}
+
+        </div>
+
+      </section>
+
+    {{ end }}
+
+  {{ end }}
+
+</div>
+
+{{ end }}

@@ -19,11 +19,10 @@ enableImageWebp = true
 # robots = ""
 fingerprintAlgorithm = "sha256"
 
-[header]
-  layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  # logo = "img/logo.jpg"
-  # logoDark = "img/dark-logo.jpg"
-  showTitle = true
+  [header]
+  layout = "basic"
+  logo = "img/logo.png"
+  showTitle = false
 
 [footer]
   showCopyright = true
@@ -37,7 +36,7 @@ fingerprintAlgorithm = "sha256"
   recentLimit = 5
 
 [article]
-  showDate = true
+  showDate = false
   showDateUpdated = false
   showAuthor = true
   showBreadcrumbs = false
@@ -48,7 +47,7 @@ fingerprintAlgorithm = "sha256"
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = false
   showTaxonomies = false
   showWordCount = false

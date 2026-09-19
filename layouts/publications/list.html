@@ -1,0 +1,76 @@
+{{ define "main" }}
+
+<article class="max-w-prose">
+
+  <header class="mb-10">
+    <h1 class="text-4xl font-extrabold">
+      {{ .Title }}
+    </h1>
+
+    <p class="mt-4 text-neutral-500 dark:text-neutral-400">
+      Publications are automatically updated from ORCID.
+    </p>
+  </header>
+
+  {{ $publications := site.Data.publications }}
+  {{ $currentYear := "" }}
+
+  {{ range $publications }}
+
+    {{ if ne .year $currentYear }}
+      {{ $currentYear = .year }}
+
+      <h2 class="mt-10 mb-5 text-2xl font-bold">
+        {{ .year }}
+      </h2>
+    {{ end }}
+
+    <div class="mb-7">
+
+      <div class="font-semibold">
+        {{ if .doi }}
+          <a
+            href="https://doi.org/{{ .doi }}"
+            target="_blank"
+            rel="noopener"
+            class="hover:text-primary-600 dark:hover:text-primary-400"
+          >
+            {{ .title }}
+          </a>
+        {{ else }}
+          {{ .title }}
+        {{ end }}
+      </div>
+
+     {{ if .authors }}
+  <div class="mt-1 text-sm">
+    {{ $authors := .authors }}
+    {{ $maxAuthors := 6 }}
+
+    {{ if le (len $authors) $maxAuthors }}
+      {{ delimit $authors ", " }}
+    {{ else }}
+      {{ $shown := first $maxAuthors $authors }}
+
+      {{ if not (in $shown "Dylan Craven") }}
+        {{ $shown = first 5 $authors }}
+        {{ $shown = $shown | append "Dylan Craven" }}
+      {{ end }}
+
+      {{ delimit $shown ", " }}, et al.
+    {{ end }}
+  </div>
+{{ end }}
+
+      <div class="mt-1 text-sm text-neutral-500 dark:text-neutral-400">
+        {{ with .journal }}<em>{{ . | htmlUnescape }}</em>{{ end }}
+        {{ with .year }} ({{ . }}){{ end }}
+      </div>
+
+    </div>
+
+  {{ end }}
+
+</article>
+
+{{ end }}

@@ -1,40 +1,39 @@
 ---
 title: "Research"
-description: "..."
+description: "Understanding biodiversity patterns and ecosystem resilience in a changing world"
 ---
 
-Introduction  
+<div class="research-panorama">
+  <img src="Aconcagua_2.jpg" alt="Landscape in central Chile">
+</div>
 
-We explore drivers of temporal and spatial patterns of biodiversity and 
-biodiversity change. Our research integrates functional 
-ecology, biogeography, and biodiversity monitoring to understand and predict
-how biodiversity and ecosystems respond to global change.
+## Overview  
 
-## Functional ecology and biogeography
 
-_How do ecological strategies shape species distribution and the assembly and 
-diversity of ecological communities?_ 
+We investigate how biodiversity is structured across space and time, how it responds to global change, 
+and how these dynamics shape ecosystem functioning and resilience. We combine functional ecology, biogeography,
+and ecological synthesis to understand biodiversity patterns and their consequences for ecosystems.
 
-We study how functional traits and ecological strategies determine species 
-distributions and community composition across anthropogenic and environmental 
-gradients. By integrating traits, species occurrences and abundances, and 
-ecological models, we investigate the mechanisms underlying biodiversity patterns 
-across spatial and temporal scales.
+## Functional ecology and biogeography  
+
+We examine how functional traits shape species distributions, community assembly, 
+and biodiversity patterns across environmental and anthropogenic gradients. By integrating 
+functional trait data with species occurrence and abundance data, 
+we seek to understand the processes underlying variation in biodiversity across spatial 
+and environmental contexts.  
 
 ## Global change and ecosystem resilience
 
-_How do ecosystems respond to global change?_  
-
-We investigate how global change drivers, such as biological invasions, pollution, 
-climate change, and land-use change, influence ecosystem resilience and its
-components.
+We investigate how global change drivers — biological invasions, pollution, climate change, and land-use change — 
+alter biodiversity and ecosystem functioning. We apply ecological theory and quantitative approaches to understand 
+how ecosystems respond to global change and the mechanisms that shape their resistance, recovery, and resilience.
 
 ## Biodiversity monitoring
 
-_How can biodiversity data and open science approaches improve monitoring, 
-assessment, and conservation of biodiversity?_  
-
-Biodiversity is declining faster than we can monitor it. We build data-driven 
-approaches — integrating open biodiversity databases of species occurrences, 
-abundances, and functional traits — to close that gap, making biodiversity 
-information easier to find, access, and use for conservation. 
+Because biodiversity changes across space and time, effective monitoring requires scalable and integrative approaches. 
+We develop open and data-driven approaches to improve biodiversity assessment and monitoring by integrating species 
+occurrence and abundance data with functional trait data. Our work contributes to open biodiversity infrastructure, 
+including [Rasgos-CL](https://www.rasgos.cl), and to national and global biodiversity monitoring initiatives through 
+collaborations with organizations such as the [Data Observatory Foundation](https://www.dataobservatory.net/) and 
+[GEO BON](https://geobon.org/), with the aim of making biodiversity data more accessible and actionable for research, 
+monitoring, and conservation.
