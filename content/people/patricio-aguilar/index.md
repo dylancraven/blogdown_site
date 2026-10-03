@@ -6,7 +6,7 @@ role: "Research assistant"
 affiliation: "Pontificia Universidad Católica de Chile"
 email: "aguilarpatricio218@gmail.com"
 scholar:  
-orcid:
+orcid: "https://orcid.org/0009-0000-7359-395X"
 --- 
 
 I am a forestry engineer with a masters in natural resources ([Pontificia Universidad
@@ -19,4 +19,4 @@ I am a forestry engineer with a masters in natural resources ([Pontificia Univer
 
 ## Profiles
   - [Google Scholar]() 
-  - [ORCID]()
+  - [ORCID](https://orcid.org/0009-0000-7359-395X)
